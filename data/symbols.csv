@@ -1,0 +1,765 @@
+symbol,name,sector,is_etf
+786,786 Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+786R,786 Investment (Right),INV. BANKS / INV. COS. / SECURITIES COS.,False
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+AAL,Agro Allianz Limited,TEXTILE SPINNING,False
+AASM,Al-Abid Silk Mills Limited,SYNTHETIC & RAYON,False
+AATM,Ali Asghar Textile Mills Limited,TEXTILE SPINNING,False
+ABL,Allied Bank Limited,COMMERCIAL BANKS,False
+ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,False
+ABSON,Abson Industries Limited,"PAPER, BOARD & PACKAGING",False
+ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,True
+ACPL,Attock Cement Pakistan Limited,CEMENT,False
+ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+ADMM,Artistic Denim Mills Limited,TEXTILE COMPOSITE,False
+ADOS,Ados Pakistan Limited,ENGINEERING,False
+ADTM,Adil Textile Mills Limited,TEXTILE SPINNING,False
+AEL,AEL Textile Limited,,False
+AGHA,Agha Steel Ind.Ltd,ENGINEERING,False
+AGIC,Askari General Insurance Company Limited,INSURANCE,False
+AGICR2,Askari General Insurance Co.Ltd.(Right),INSURANCE,False
+AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+AGL,Agritech Limited,FERTILIZER,False
+AGLNCPS,Agritech Non-Voting (Pref) Class A,FERTILIZER,False
+AGP,AGP Limited,PHARMACEUTICALS,False
+AGSML,Abdullah Shah Ghazi Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+AGTL,Al-Ghazi Tractors Limited,AUTOMOBILE ASSEMBLER,False
+AHCL,Arif Habib Corporation Limited,FERTILIZER,False
+AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,False
+AICL,Adamjee Insurance Company Limited,INSURANCE,False
+AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,False
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,False
+AKDCL,AKD Capital Limited,,False
+AKDHL,AKD Hospitality Limited,MISCELLANEOUS,False
+AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+AKGL,Al-Khair Gadoon Limited,MISCELLANEOUS,False
+AKZO,Akzo Nobel Pakistan Limited,,False
+ALAC,Askari Life Assurance Company Limited,INSURANCE,False
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,False
+ALNRS,Al-Noor Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+ALQT,Al-Qadir Textile Mills Limited,TEXTILE SPINNING,False
+ALTN,Altern Energy Limited,POWER GENERATION & DISTRIBUTION,False
+AMBL,Apna Microfinance Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+AMSL,Al-Mal Securities & Services Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+AMTEX,Amtex Limited,TEXTILE SPINNING,False
+ANL,Azgard Nine Limited,TEXTILE COMPOSITE,False
+ANNT,Annoor Textile Mills Limited,TEXTILE SPINNING,False
+ANSM,Ansari Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+ANTM,AN Textile Mills Limited,TEXTILE COMPOSITE,False
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,False
+APOT,Apollo Textile Mills Limited,TEXTILE SPINNING,False
+AQTM,Al-Qaim Textile Mills Limited,TEXTILE SPINNING,False
+ARCTM,Arctic Textile Mills Limited,TEXTILE SPINNING,False
+ARM,Allied Rental Modaraba,,False
+ARMG,ARM Green Industries Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+ARPAK,Arpak International Investments Ltd.,MISCELLANEOUS,False
+ARPL,Archroma Pakistan Limited,CHEMICAL,False
+ARUJ,Aruj Industries Limited,TEXTILE COMPOSITE,False
+ASC,Al Shaheer Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False
+ASCR1,AL-Shaheer (R),,False
+ASHT,Ashfaq Textile Mills Limited,TEXTILE WEAVING,False
+ASIC,Asia Insurance Company Limited,INSURANCE,False
+ASL,Aisha Steel Mills Limited,ENGINEERING,False
+ASLCPS,Aisha Steel Convt (Pref) Right,ENGINEERING,False
+ASLPS,Aisha Steel Convertible (Pref),ENGINEERING,False
+ASRL,Associated Services Limited,JUTE,False
+ASTL,Amreli Steels Limited,ENGINEERING,False
+ASTM,Asim Textile Mills Limited,TEXTILE SPINNING,False
+ATBA,Atlas Battery Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+ATIL,Atlas Insurance Limited,INSURANCE,False
+ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,False
+ATRL,Attock Refinery Limited,REFINERY,False
+AVN,Avanceon Limited,TECHNOLOGY & COMMUNICATION,False
+AWTX,Allawasaya Tex. & Finishing Mills Ltd,TEXTILE SPINNING,False
+AWWAL,Awwal Modaraba,,False
+AYTM,Ayesha Textile Mills Limited,,False
+AYZT,Ayaz Textile Mills Limited,TEXTILE WEAVING,False
+AZMT,Azmat Textile Mills Limited,TEXTILE SPINNING,False
+AZTM,Al-Azhar Textile Mills Limited,TEXTILE SPINNING,False
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,False
+BAFS,Baba Farid Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,False
+BAPL,Bawany Air Products Limited,CHEMICAL,False
+BATA,Bata Pakistan Limited,LEATHER & TANNERIES,False
+BBFL,Big Bird Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+BCL,Bolan Castings Limited,ENGINEERING,False
+BCML,Babri Cotton Mills Limited,TEXTILE SPINNING,False
+BECO,Beco Steel Limited,ENGINEERING,False
+BEEM,Beema-Pakistan Company Limited,INSURANCE,False
+BELA,Bela Automotives Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+BERG,Berger Paints Pakistan Limited,CHEMICAL,False
+BFAGRO,Barkat Frisian Agro Limited,FOOD & PERSONAL CARE PRODUCTS,False
+BFBIO,BF Biosciences Limited,PHARMACEUTICALS,False
+BFMOD,B.F. Modaraba,MODARABAS,False
+BGL,Baluchistan Glass Limited,GLASS & CERAMICS,False
+BHAT,Bhanero Textile Mills Limited,TEXTILE COMPOSITE,False
+BIFO,Biafo Industries Limited,CHEMICAL,False
+BIIC,Business & Industrial Insurance Company,INSURANCE,False
+BILF,Bilal Fibres Limited,TEXTILE SPINNING,False
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,False
+BIPLS,BIPL Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+BLUEX,Blue-Ex Limited,TRANSPORT,False
+BML,Bank Makramah Limited,COMMERCIAL BANKS,False
+BNL,Bunnys Limited,FOOD & PERSONAL CARE PRODUCTS,False
+BNWM,Bannu Woollen Mills Limited,WOOLLEN,False
+BOK,The Bank of Khyber,COMMERCIAL BANKS,False
+BOP,The Bank of Punjab,COMMERCIAL BANKS,False
+BPBL,Balochistan Particle Board Limited,,False
+BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,False
+BROT,Brothers Textile Mills Limited,TEXTILE SPINNING,False
+BRR,B.R.R. Guardian Modaraba,,False
+BRRG,B.R.R Guardian Limited,PROPERTY,False
+BTL,Blessed Textiles Limited,TEXTILE COMPOSITE,False
+BUXL,Buxly Paints Limited,CHEMICAL,False
+BWCL,Bestway Cement Limited,CEMENT,False
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+BYCO,Byco Petroleum Pakistan Limited,REFINERY,False
+CASH,Calcorp Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+CCM,Crescent Cotton Mills Limited,TEXTILE SPINNING,False
+CECL,Climax Engineering Company Limited,CABLE & ELECTRICAL GOODS,False
+CENI,Century Insurance Company Limited,INSURANCE,False
+CEPB,Century Paper & Board Mills Limited,"PAPER, BOARD & PACKAGING",False
+CFL,Crescent Fibres Limited,TEXTILE SPINNING,False
+CHAS,Chashma Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+CHBL,Chenab Limited,TEXTILE COMPOSITE,False
+CHCC,Cherat Cement Company Limited,CEMENT,False
+CJPL,Crescent Jute Products Limited,JUTE,False
+CLCPS,Chenab Limited (Pref),TEXTILE COMPOSITE,False
+CLOUD,Chakwal Spinning Mills Limited,TEXTILE SPINNING,False
+CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False
+CLVL,Cordoba Logistics & Ventures Limited,TRANSPORT,False
+CNERGY,Cnergyico PK  Limited,REFINERY,False
+COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,False
+COST,(Colony) Sarhad Textile Mills Limited,,False
+COTT,,TEXTILE COMPOSITE,False
+CPAL,Capital Assets Leasing Corporation,LEASING COMPANIES,False
+CPHL,Citi Pharma Ltd.,PHARMACEUTICALS,False
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",False
+CRTM,The Crescent Textile Mills Limited,TEXTILE COMPOSITE,False
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,False
+CSIL,Crescent Star Insurance Limited,INSURANCE,False
+CSILR3,Crescent Star Insurance Limited (Right),INSURANCE,False
+CSM,Cresent Standard Modaraba,MODARABAS,False
+CTM,Colony Textile Mills Limited,TEXTILE SPINNING,False
+CWSM,Chakwal Spinning Mills Limited,TEXTILE SPINNING,False
+CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DAAG,Data Agro Limited,CHEMICAL,False
+DADX,Dadex Eternit Limited,ENGINEERING,False
+DATM,Data Textiles Limited,,False
+DAWH,Dawood Hercules Corporation Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DBCI,Dadabhoy Cement Industries Limited,CEMENT,False
+DBSL,Dadabhoy Sack Limited,"PAPER, BOARD & PACKAGING",False
+DCL,Dewan Cement Limited,CEMENT,False
+DCM,Dawood Capital Management Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,False
+DCTL,Dadabhoy Construction Technology Limited,MISCELLANEOUS,False
+DEL,Dawood Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DFML,Dewan Farooque Motors Limited,AUTOMOBILE ASSEMBLER,False
+DFSM,Dewan Farooque Spinning Mills Limited,TEXTILE SPINNING,False
+DGKC,D.G. Khan Cement Company Limited,CEMENT,False
+DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DIIL,Diamond Industries Limited,MISCELLANEOUS,False
+DINT,Din Textile Mills Limited,TEXTILE SPINNING,False
+DKL,Drekkar Kingsway Limited,ENGINEERING,False
+DKTM,Dewan Khalid Textile Mills Limited,TEXTILE SPINNING,False
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+DMC,D.M. Corporation Limited.,TEXTILE SPINNING,False
+DMIL,D.M. Industries Limited,TEXTILE SPINNING,False
+DMTM,Dewan Mushtaq Textile Mills Limited,TEXTILE SPINNING,False
+DMTX,D.M. Textile Mills Limited,TEXTILE SPINNING,False
+DNCC,Dandot Cement Company Limited,CEMENT,False
+DOL,Descon Oxychem Limited,CHEMICAL,False
+DOLCPS,Descon Oxychem Limited (12%Non-Voting Pref),CHEMICAL,False
+DOMF,Dominion Stock Fund Limited,,False
+DSFL,Dewan Salman Fibre Limited,SYNTHETIC & RAYON,False
+DSIL,D.S. Industries Limited,TEXTILE SPINNING,False
+DSL,Dost Steels Limited,ENGINEERING,False
+DSML,Dar-es-Salaam Textile Mills Limited,TEXTILE SPINNING,False
+DWAE,Dewan Automotive Engineering Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+DWSM,Dewan Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+DWTM,Dewan Textile Mills Limited,TEXTILE SPINNING,False
+DYNO,Dynea Pakistan Limited,CHEMICAL,False
+ECOP,Ecopack Limited,MISCELLANEOUS,False
+EFERT,Engro Fertilizers Limited,FERTILIZER,False
+EFGH,EFG Hermes Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+EFOODS,Engro Foods Limited,,False
+EFUG,EFU General Insurance Limited,INSURANCE,False
+EFUL,EFU Life Assurance Limited,INSURANCE,False
+ELCM,Elahi Cotton Mills Limited,TEXTILE SPINNING,False
+ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,False
+EMCO,Emco Industries Limited,CABLE & ELECTRICAL GOODS,False
+ENGL,English Leasing Limited,LEASING COMPANIES,False
+ENGRO,Engro Corporation Limited,FERTILIZER,False
+ENGROH,Engro Holdings Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+EPCL,Engro Polymer & Chemicals Limited,CHEMICAL,False
+EPCLPS,Engro Poly(Pref),CHEMICAL,False
+EPCLR1,,CHEMICAL,False
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,False
+ESBL,Escorts Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+EWIC,East West Insurance Company Limited,INSURANCE,False
+EWICR1,East West (R),,False
+EWLA,East West Life Assurance Company Limited,INSURANCE,False
+EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+EXTR,Extraction (Pakistan) Limited,,False
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,False
+FAEL,Fatima Enterprises Limited,TEXTILE SPINNING,False
+FANM,First Al-Noor Modaraba,MODARABAS,False
+FASM,Faisal Spinning Mills Limited,TEXTILE COMPOSITE,False
+FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,False
+FCCL,Fauji Cement Company Limited,CEMENT,False
+FCEL,First Capital Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False
+FCIBL,First Credit and Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,False
+FCONM,First Constellation Modaraba,MODARABAS,False
+FCSC,First Capital Securities Corporation,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FDIBL,First Dawood Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FDMF,First Dawood Mutual Fund,CLOSE - END MUTUAL FUND,False
+FDPL,First Dawood Properties Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FECM,First Elite Capital Modaraba,MODARABAS,False
+FECTC,Fecto Cement Limited,CEMENT,False
+FEM,First Equity Modaraba,MODARABAS,False
+FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,False
+FFBL,Fauji Fertilizer Bin Qasim Limited,FERTILIZER,False
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,False
+FFL,Fauji Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+FFLM,First Fidelity Leasing Modaraba,MODARABAS,False
+FFLNV,,FOOD & PERSONAL CARE PRODUCTS,False
+FFLR1,Fauji Foods Ltd(R),,False
+FHAM,First Habib Modaraba,MODARABAS,False
+FIBLM,First IBL Modaraba,MODARABAS,False
+FIL,Fateh Industries Limited,LEATHER & TANNERIES,False
+FIM,First Investec Modaraba,MODARABAS,False
+FIMM,First Imrooz Modaraba,MODARABAS,False
+FLYNG,Flying Cement Company Limited,CEMENT,False
+FLYNGR1,Flying Cement(R),CEMENT,False
+FML,Feroze1888 Mills Limited,TEXTILE COMPOSITE,False
+FNBM,First National Bank Modaraba,MODARABAS,False
+FNEL,First National Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+FPJM,First Punjab Modaraba,MODARABAS,False
+FPRM,First Paramount Modaraba,MODARABAS,False
+FPRMR2,First Paramount Modaraba(Right),MODARABAS,False
+FRCL,Frontier Ceramics Limited,GLASS & CERAMICS,False
+FRSM,Faran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+FSWL,Fateh Sports Wear Limited,TEXTILE COMPOSITE,False
+FTHM,Fateh Textile Mills Limited,TEXTILE COMPOSITE,False
+FTMM,First Treet Manufacturing Modaraba,MODARABAS,False
+FTSM,First Tri-Star Modaraba,MODARABAS,False
+FUDLM,First UDL Modaraba,,False
+FZCM,Fazal Cloth Mills Limited,TEXTILE COMPOSITE,False
+GADT,Gadoon Textile Mills Limited,TEXTILE SPINNING,False
+GAIL,Ghani Automobile Industries Limited,AUTOMOBILE ASSEMBLER,False
+GAILR1,,,False
+GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,False
+GAMON,Gammon Pakistan Limited,MISCELLANEOUS,False
+GASF,Golden Arrow Selected Stocks,CLOSE - END MUTUAL FUND,False
+GATI,Gatron (Industries) Limited,SYNTHETIC & RAYON,False
+GATM,Gul Ahmed Textile Mills Limited,TEXTILE COMPOSITE,False
+GCIL,Ghani Chemical Industries Limited,CHEMICAL,False
+GCILB,Ghani Chemical Industries Limited (B),,False
+GCWL,Ghani Chemworld Limited,CHEMICAL,False
+GCWLPRS,Ghani Chemworld Limited(PRS),CHEMICAL,False
+GCWLR,Ghani Chemworld Limited Right,CHEMICAL,False
+GDL,Ghani Dairies Limited,FOOD & PERSONAL CARE PRODUCTS,False
+GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,False
+GEMBLUEX,Blue-Ex Limited (GEM),TRANSPORT,False
+GEMMEL,Mughal Energy Limited(GEM),POWER GENERATION & DISTRIBUTION,False
+GEMNETS,Nets International Communication Limited,TECHNOLOGY & COMMUNICATION,False
+GEMPACRA,The Pakistan Credit Rating Agency Ltd,MISCELLANEOUS,False
+GEMPAPL,Pak Agro Packaging Limited(GEM),"PAPER, BOARD & PACKAGING",False
+GEMSPNL,Supernet Limited,TECHNOLOGY & COMMUNICATION,False
+GEMUNSL,Universal Network Systems Limited(GEM),,False
+GENP,Genertech Pakistan Limited,POWER GENERATION & DISTRIBUTION,False
+GFIL,Ghazi Fabrics International Limited,TEXTILE COMPOSITE,False
+GGGL,Ghani Global Glass Limited,GLASS & CERAMICS,False
+GGGLR1,Ghani Global(R),,False
+GGL,Ghani Global Holdings Limited,CHEMICAL,False
+GGLR1,Ghani Global(R),,False
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,False
+GHGLR1,,GLASS & CERAMICS,False
+GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,False
+GHNL,Ghandhara Nissan Limited,AUTOMOBILE ASSEMBLER,False
+GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,False
+GLAT,Glamour Textile Mills Limited,TEXTILE SPINNING,False
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,False
+GLOT,Globe Textile Mills Limited,TEXTILE SPINNING,False
+GLPL,Gillette Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False
+GOC,GOC (Pak) Limited.,MISCELLANEOUS,False
+GOEM,Globe Textile Mills (OE) Limited,TEXTILE SPINNING,False
+GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,False
+GRYL,Grays Leasing Limited,LEASING COMPANIES,False
+GSKCH,GlaxoSmithKline Consumer Healthcare,PHARMACEUTICALS,False
+GSPM,Gulshan Spinning Mills Limited,TEXTILE SPINNING,False
+GTECH,G3 Technologies Limited,,False
+GTECHBR,G3 Technologies Ltd.CLASS B,,False
+GTYR,Ghandhara Tyre & Rubber Company Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+GUSM,Gulistan Spinning Mills Limited,TEXTILE SPINNING,False
+GUTM,Gulistan Textile Mills Limited,TEXTILE SPINNING,False
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,False
+GWLC,Gharibwal Cement Limited,CEMENT,False
+HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+HACC,Hashimi Can Company Limited,MISCELLANEOUS,False
+HADC,Haydari Construction Company Limited,MISCELLANEOUS,False
+HAEL,Hala Enterprises Limited,TEXTILE COMPOSITE,False
+HAFL,Hafiz Limited,TEXTILE COMPOSITE,False
+HAJT,Hajra Textile Mills Limited,TEXTILE SPINNING,False
+HAL,Habib-ADM Limited,SUGAR & ALLIED INDUSTRIES,False
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,False
+HASCOL,Hascol Petroleum Limited,OIL & GAS MARKETING COMPANIES,False
+HASCOLR1,Hascol Petre(R),OIL & GAS MARKETING COMPANIES,False
+HATM,Hamid Textile Mills Limited,TEXTILE COMPOSITE,False
+HBL,Habib Bank Limited,COMMERCIAL BANKS,False
+HBLTETF,HBL Total Treasury (ETF),EXCHANGE TRADED FUNDS,True
+HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,False
+HCL,Hallmark Company Limited,TECHNOLOGY & COMMUNICATION,False
+HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,False
+HICL,Habib Insurance Company Limited,INSURANCE,False
+HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,False
+HINO,Hinopak Motors Limited,AUTOMOBILE ASSEMBLER,False
+HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,False
+HIRAT,Hira Textile Mills Limited,TEXTILE SPINNING,False
+HKKT,Hakkim Textile Mills Limited,TEXTILE WEAVING,False
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,False
+HMICL,Hallmark Insurance Company Limited,INSURANCE,False
+HMIM,Haji Mohammad Ismail Mills Limited,TEXTILE SPINNING,False
+HMM,Habib Metro Mod,,False
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,False
+HRPL,Habib Rice Product Limited.,SUGAR & ALLIED INDUSTRIES,False
+HSM,Husein Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+HSMCPS,Husein Sugar(Pref),SUGAR & ALLIED INDUSTRIES,False
+HSMPSR,Husein Sugar(R),,False
+HSMR1,,SUGAR & ALLIED INDUSTRIES,False
+HSPI,Huffaz Seamless Pipe Industries Limited,ENGINEERING,False
+HTL,Hi-Tech Lubricants Limited,OIL & GAS MARKETING COMPANIES,False
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,False
+HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,False
+HUSI,Husein Industries Limited,PROPERTY,False
+HWQS,Haseeb Waqas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+IBFL,Ibrahim Fibres Limited,SYNTHETIC & RAYON,False
+IBLHL,IBL HealthCare Limited,PHARMACEUTICALS,False
+ICCI,ICC Industries Limited,TEXTILE WEAVING,False
+ICCT,ICC Textiles Limited,TEXTILE WEAVING,False
+ICI,ICI Pakistan Limited,CHEMICAL,False
+ICIBL,Invest Capital Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+ICL,Ittehad Chemicals Limted,CHEMICAL,False
+ICLR1,,CHEMICAL,False
+IDEAL,Ideal Dynamics Limited,TEXTILE SPINNING,False
+IDRT,Idrees Textile Mills Limited,TEXTILE SPINNING,False
+IDSM,Ideal Spinning Mills Limited,TEXTILE SPINNING,False
+IDYM,Indus Dyeing & Manufacturing Co. Limited,TEXTILE SPINNING,False
+IFSL,Invest & Finance Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+IGIBL,IGI Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+IGIHL,IGI Holdings Limited,INSURANCE,False
+IGIIL,IGI Insurance Limited,INSURANCE,False
+IGIL,IGI Life Insurance Limited,INSURANCE,False
+ILP,Interloop Limited,TEXTILE COMPOSITE,False
+ILTM,Island Textile Mills Limited,,False
+IMAGE,Image Pakistan Limited,APPAREL,False
+IMAGER1,Image Pak Ltd(R),,False
+IML,Imperial  Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+IMS,Intermarket Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+IMSL,Imperial Sugar Limited,SUGAR & ALLIED INDUSTRIES,False
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,False
+INIL,International Industries Limited,ENGINEERING,False
+INKL,International Knitwear Limited,APPAREL,False
+INL,,INV. BANKS / INV. COS. / SECURITIES COS.,False
+INMF,Investec Mutual Fund Limited,CLOSE - END MUTUAL FUND,False
+IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",False
+IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,False
+ISHT,Ishtiaq Textile Mills Limited,TEXTILE SPINNING,False
+ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,False
+ISL,International Steels Limited,ENGINEERING,False
+ISTM,Ishaq Textile Mills Limited,TEXTILE COMPOSITE,False
+ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,False
+ITSL,Investec Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+ITTEFAQ,Ittefaq Iron Industries Limited,ENGINEERING,False
+JATM,J.A. Textile Mills Limited,TEXTILE SPINNING,False
+JDMT,Janana De Malucho Textile Mills Limited,TEXTILE SPINNING,False
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,False
+JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,False
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,False
+JOPP,Johnson & Phillips (Pakistan) Limited,CABLE & ELECTRICAL GOODS,False
+JOVC,Javed Omer Vohra & Company Limited,,False
+JPGL,Japan Power Generation Limited,,False
+JSBL,JS Bank Limited,COMMERCIAL BANKS,False
+JSBLR1,JS Bank Limited Right (R),,False
+JSCL,Jahangir Siddiqui & Co. Ltd.,INV. BANKS / INV. COS. / SECURITIES COS.,False
+JSCLR1,Jahangi Sidd(R),,False
+JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,True
+JSGCL,JS Global Capital Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+JSIL,JS Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,True
+JSML,Jauharabad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+JSRR,JS Rental REIT,REAL ESTATE INVESTMENT TRUST,False
+JUBS,Jubilee Spinning & Weaving Mills Ltd.,TEXTILE COMPOSITE,False
+JVDC,Javedan Corporation Limited,PROPERTY,False
+JVDCPS,Javedan Corporation (Pref),PROPERTY,False
+JVDCR1,,CEMENT,False
+KACM,Karim Cotton Mills Limited,TEXTILE SPINNING,False
+KAKL,Kaiser Arts & Krafts Limited,TEXTILE COMPOSITE,False
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,False
+KASBM,KASB Modaraba,,False
+KCL,Karam Ceramics Limited,GLASS & CERAMICS,False
+KEL,K-Electric Limited,POWER GENERATION & DISTRIBUTION,False
+KHSM,Khurshid Spinning Mills Limited,TEXTILE SPINNING,False
+KHTC,Khyber Tobacco Company Limited,TOBACCO,False
+KHYT,Khyber Textile Mills Limited,TEXTILE COMPOSITE,False
+KML,Kohinoor Mills Limited,TEXTILE COMPOSITE,False
+KOHC,Kohat Cement Company Limited,CEMENT,False
+KOHE,Kohinoor Energy Limited,POWER GENERATION & DISTRIBUTION,False
+KOHP,Kohinoor Power Company Limited,POWER GENERATION & DISTRIBUTION,False
+KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,False
+KOIL,Kohinoor Industries Limited,TEXTILE COMPOSITE,False
+KOSM,Kohinoor Spinning Mills Limited,TEXTILE SPINNING,False
+KPUS,Khairpur Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+KSBP,KSB Pumps Company Limited,ENGINEERING,False
+KSTM,Khalid Siraj Textile Mills Limited,TEXTILE SPINNING,False
+KTML,Kohinoor Textile Mills Limited,TEXTILE COMPOSITE,False
+LCI,Lucky Core Industries Limited,CHEMICAL,False
+LEUL,Leather Up Limited,LEATHER & TANNERIES,False
+LINDE,Linde Pakistan Limited,CHEMICAL,False
+LIVEN,Liven Pharma Limited,PHARMACEUTICALS,False
+LIVENR,Liven Pharma Limited(Right),PHARMACEUTICALS,False
+LMSM,Landmark Spinning Industries Limited,TEXTILE SPINNING,False
+LOADS,Loads Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+LOADSR1,LOADS Limited (Right),AUTOMOBILE PARTS & ACCESSORIES,False
+LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,False
+LPCL,Lafarge Pakistan Cement Limited,CEMENT,False
+LPGL,Leiner Pak Gelatine Limited,CHEMICAL,False
+LPL,Lalpir Power Limited,POWER GENERATION & DISTRIBUTION,False
+LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False
+LSECLR,LSE Capital Limited.(Right),INV. BANKS / INV. COS. / SECURITIES COS.,False
+LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False
+LSEPL,LSE Proptech Limited,,False
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+LSEVLR,LSE Ventures Limited(RIGHT),INV. BANKS / INV. COS. / SECURITIES COS.,False
+LUCK,Lucky Cement Limited,CEMENT,False
+MACFL,MACPAC Films Limited,"PAPER, BOARD & PACKAGING",False
+MACTER,Macter International Limited,PHARMACEUTICALS,False
+MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,False
+MCB,MCB Bank Limited,COMMERCIAL BANKS,False
+MCBAH,MCB-Arif Habib Savings and Invest,INV. BANKS / INV. COS. / SECURITIES COS.,False
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False
+MDTL,Media Times Limited,TECHNOLOGY & COMMUNICATION,False
+MDTM,Mehr Dastgir Textile Mills Limited,TEXTILE SPINNING,False
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,False
+MEHT,Mehmood Textile Mills Limited,TEXTILE COMPOSITE,False
+MERIT,Merit Packaging Limited,"PAPER, BOARD & PACKAGING",False
+MERITR1,,"PAPER, BOARD & PACKAGING",False
+META,MetaTech Trading Limited,,False
+MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,False
+MFFLR1,Mitchells Fruit Farms Limited(Right),FOOD & PERSONAL CARE PRODUCTS,False
+MFL,Matco Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+MFTM,Mohammad Farooq Textile Mills Limited,TEXTILE COMPOSITE,False
+MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,True
+MIRKS,Mirpurkhas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+MLCF,Maple Leaf Cement Factory Limited,CEMENT,False
+MLCFR1,Maple Leaf (R),,False
+MODAM,Modaraba Al-Mali,,False
+MODAMR1,MODARABA AL-MALI (R),MODARABAS,False
+MOHE,Mohib Exports Limited,TEXTILE WEAVING,False
+MOIL,Morafco Industries Limited,,False
+MOON,Moonlite (Pak) Limited,WOOLLEN,False
+MQTM,Maqbool Textile Mills Limited,TEXTILE SPINNING,False
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+MSCL,Metropolitan Steel Corporation Limited,ENGINEERING,False
+MSOT,Masood Textile Mills Limited,APPAREL,False
+MSOTPS,Masood Textile (Pref),APPAREL,False
+MTIL,Mian Textile Industries Limited,TEXTILE COMPOSITE,False
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,False
+MUBT,Mubarak Textile Mills Limited,TEXTILE COMPOSITE,False
+MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,False
+MUGHALC,Mughal Iron & Steel Industries Ltd(C),ENGINEERING,False
+MUGHALR1,Mughal Iron (R),,False
+MUKT,Mukhtar Textile Mills Limited,TEXTILE SPINNING,False
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,False
+MWMP,Mandviwala Mauser Plastic Industries,MISCELLANEOUS,False
+MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,True
+MZSM,Mirza Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+NAFL,National Fibres Limited,SYNTHETIC & RAYON,False
+NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,False
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+NATM,Nadeem Textile Mills Limited,TEXTILE SPINNING,False
+NBP,National Bank of Pakistan,COMMERCIAL BANKS,False
+NBPGETF,NBP Pakistan  Growth ETF,EXCHANGE TRADED FUNDS,True
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,False
+NCML,Nazir Cotton Mills Limited,TEXTILE SPINNING,False
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,False
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False
+NETSOL,NetSol Technologies Limited,TECHNOLOGY & COMMUNICATION,False
+NEXT,Next Capital Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+NIB,NIB Bank Limited,COMMERCIAL BANKS,False
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,False
+NINA,Nina Industries Limited,TEXTILE COMPOSITE,False
+NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,True
+NMFL,Nirala MSR Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+NML,Nishat Mills Limited,TEXTILE COMPOSITE,False
+NNAR,Naya Nazimabad Apartment REIT,REAL ESTATE INVESTMENT TRUST,False
+NONS,Noon Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+NORS,Noor Silk Mills Limited,SYNTHETIC & RAYON,False
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,False
+NPSM,N. P. Spinning Mills Limited,TEXTILE SPINNING,False
+NRL,National Refinery Limited,REFINERY,False
+NRSL,Nimir Resins Limited,CHEMICAL,False
+NSRM,The National Silk & Rayon Mills Limited,SYNTHETIC & RAYON,False
+OBOY,Oilboy Energy Limited,OIL & GAS MARKETING COMPANIES,False
+OBOYR1,Oilboy Energy(R),OIL & GAS MARKETING COMPANIES,False
+OCTOPUS,Octopus Digital Limited,TECHNOLOGY & COMMUNICATION,False
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,False
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+OLPM,OLP Modaraba,MODARABAS,False
+OLSM,Olympia Spinning and Weaving Mills Limited,TEXTILE SPINNING,False
+OML,Olympia Mills Limited,MISCELLANEOUS,False
+ORIXM,Orix Modaraba,MODARABAS,False
+ORM,Orient Rental Mod,MODARABAS,False
+OTSU,Otsuka Pakistan Limited,PHARMACEUTICALS,False
+PABC,Pakistan Aluminium Beverage Cans Limited,MISCELLANEOUS,False
+PACE,Pace (Pakistan) Limited,PROPERTY,False
+PAEL,Pak Elektron Limited,CABLE & ELECTRICAL GOODS,False
+PAKCEM,Pakcem Limited,CEMENT,False
+PAKD,Pak Datacom Limited,TECHNOLOGY & COMMUNICATION,False
+PAKL,Pak Leather Crafts Limited,LEATHER & TANNERIES,False
+PAKMI,First Pak Modaraba,,False
+PAKOXY,Pakistan Oxygen Limited,CHEMICAL,False
+PAKQATAR,Pak Qatar Family Takaful Limited,INSURANCE,False
+PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,False
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,False
+PASL,Pervez Ahmed Consultancy Services Ltd.,INV. BANKS / INV. COS. / SECURITIES COS.,False
+PASM,Paramount Spinning Mills Limited,TEXTILE COMPOSITE,False
+PCAL,Pakistan Cables Limited,CABLE & ELECTRICAL GOODS,False
+PCML,Punjab Cotton Mill,TEXTILE WEAVING,False
+PDGH,Prudential Discourt & Guarantee House Lt,,False
+PECO,Pakistan Engineering Company Limited,ENGINEERING,False
+PGCL,Pakistan Gum & Chemicals Limited,CHEMICAL,False
+PGF,PICIC Growth Fund,CLOSE - END MUTUAL FUND,False
+PGIC,Pakistan Guarantee Insurance Company Limited,INSURANCE,False
+PGLC,Pak-Gulf Leasing Company Limited,LEASING COMPANIES,False
+PHDL,Pakistan Hotels Developers Limited,MISCELLANEOUS,False
+PIAA,Pakistan International Airlines Corp,,False
+PIAB,Pakistan International Airlines Corporat,,False
+PIAHCLA,PIA Holding Company Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+PIAHCLB,PIA Holding Company LimitedB,INV. BANKS / INV. COS. / SECURITIES COS.,False
+PIBTL,Pakistan International Bulk Terminal,TRANSPORT,False
+PICL,Pakistan Industrial & Commercial Leasing,LEASING COMPANIES,False
+PICT,Pakistan International Container,TRANSPORT,False
+PIF,PICIC Investment Fund,CLOSE - END MUTUAL FUND,False
+PIL,PICIC Insurance Limited,INSURANCE,False
+PIM,Popular Islamic Modaraba,MODARABAS,False
+PINL,Premier Insurance Limited,INSURANCE,False
+PIOC,Pioneer Cement Limited,CEMENT,False
+PKGI,The Pakistan General Insurance Co. Ltd.,INSURANCE,False
+PKGP,Pakgen Power Limited,POWER GENERATION & DISTRIBUTION,False
+PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",False
+PMI,First Prudential Modaraba,MODARABAS,False
+PMPK,Philip Morris (Pakistan) Limited,TOBACCO,False
+PMRS,The Premier Sugar Mills,SUGAR & ALLIED INDUSTRIES,False
+PNGRS,Pangrio Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,False
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,False
+POML,Punjab Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,False
+POWER,Power Cement Limited,CEMENT,False
+POWERPS,Power Cement (Pref),CEMENT,False
+POWERR1,Power Cement (R),,False
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,False
+PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",False
+PPVC,Pakistan PVC Limited,CHEMICAL,False
+PQGTL,Pak Qatar General Takaful Limited,INSURANCE,False
+PREMA,At-Tahur Limited,FOOD & PERSONAL CARE PRODUCTS,False
+PRET,Premium Textile Mills Limited,TEXTILE SPINNING,False
+PRIB,Prudential Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+PRIC,Progressive Insurance Company Limited,INSURANCE,False
+PRL,Pakistan Refinery Limited,REFINERY,False
+PRLR1,Pak Refinery (R),,False
+PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,False
+PSEL,Pakistan Services Limited,MISCELLANEOUS,False
+PSMC,Pak Suzuki Motor Company Limited,AUTOMOBILE ASSEMBLER,False
+PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,False
+PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+PSYL,Pakistan Synthetics Limited,SYNTHETIC & RAYON,False
+PTC,Pakistan Telecommunication Company Ltd,TECHNOLOGY & COMMUNICATION,False
+PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,False
+PUDF,Prudential Stocks Fund Limited,CLOSE - END MUTUAL FUND,False
+QTECH,Quantum Data Technologies Limited,TECHNOLOGY & COMMUNICATION,False
+QUET,Quetta Textile Mills Limited,TEXTILE COMPOSITE,False
+QUICE,Quice Food Industries Limited,FOOD & PERSONAL CARE PRODUCTS,False
+QUSW,Quality Steel Works Limited,,False
+RAVT,Ravi Textile Mills Limited,TEXTILE SPINNING,False
+RCML,Reliance Cotton Spinning Mills Limited,TEXTILE SPINNING,False
+REDCO,Redco Textiles Limited,TEXTILE COMPOSITE,False
+REGAL,Regal Ceramics Limited,GLASS & CERAMICS,False
+REWM,Reliance Weaving Mills Limited,TEXTILE COMPOSITE,False
+RICL,Reliance Insurance Company Limited,INSURANCE,False
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,False
+RPL,Roshan Packages Limited,"PAPER, BOARD & PACKAGING",False
+RUBY,Ruby Textile Mills Limited,TEXTILE SPINNING,False
+RUPL,Rupali Polyester Limited,SYNTHETIC & RAYON,False
+SAIF,Saif Textile Mills Limited,TEXTILE SPINNING,False
+SALT,Salfi Textile Mills Limited,,False
+SANE,Salman Noman Enterprises Limited,TEXTILE SPINNING,False
+SANSM,Sanghar Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SAPL,Sanofi-Aventis Pakistan Limited,PHARMACEUTICALS,False
+SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,False
+SARC,Sardar Chemical Industries Limited,CHEMICAL,False
+SASML,Sindh Abadgars Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,False
+SBL,Samba Bank Limited,COMMERCIAL BANKS,False
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,False
+SCHT,Schon Textiles Limited,TEXTILE COMPOSITE,False
+SCL,Shield Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False
+SDIL,Saleem Denim Industries Limited,TEXTILE WEAVING,False
+SDOT,Sadoon Textile Industries Limited,TEXTILE WEAVING,False
+SEARL,The Searle Company Limited,PHARMACEUTICALS,False
+SEARLR1,Searl Company(R),,False
+SEL,Sitara Energy Limited,POWER GENERATION & DISTRIBUTION,False
+SELECT,Select Technologies Limited,TECHNOLOGY & COMMUNICATION,False
+SEPCO,Southern Electric Power Company Limited,POWER GENERATION & DISTRIBUTION,False
+SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",False
+SERF,Service Fabrics Limited,TEXTILE WEAVING,False
+SERT,Service Industries Textiles Limited,TEXTILE SPINNING,False
+SFAT,Safa Textiles Limited,TEXTILE COMPOSITE,False
+SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,False
+SFLL,SFL Limited,TEXTILE COMPOSITE,False
+SGABL,SG.Allied Businesses Limited,SYNTHETIC & RAYON,False
+SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,False
+SGFL,S.G.Fiber Limited,SYNTHETIC & RAYON,False
+SGPL,S.G. Power Limited,POWER GENERATION & DISTRIBUTION,False
+SGPLR,S.G.Power Limited(RIGHT),POWER GENERATION & DISTRIBUTION,False
+SHCI,Shaffi Chemical Industries Limited,CHEMICAL,False
+SHCM,Shadman Cotton Mills Limited,TEXTILE SPINNING,False
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,False
+SHDTR1,Shadab Textile Mills Limited(Right),TEXTILE SPINNING,False
+SHEL,Shell Pakistan Limited,OIL & GAS MARKETING COMPANIES,False
+SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,False
+SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,False
+SHJS,Shahtaj Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SHNI,Shaheen Insurance Company Limited,INSURANCE,False
+SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SIBL,Security Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+SICL,Standard Insurance Company Limited,INSURANCE,False
+SIEM,Siemens (Pakistan) Engineering,CABLE & ELECTRICAL GOODS,False
+SILK,Silkbank Limited,COMMERCIAL BANKS,False
+SINDM,Sindh Modaraba,MODARABAS,False
+SING,Singer Pakistan ,CABLE & ELECTRICAL GOODS,False
+SITC,Sitara Chemical Industries Limited,CHEMICAL,False
+SJTM,Sajjad Textile Mills Limited,,False
+SKRS,Sakrand Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SLCL,Security Leasing Corporation Limited,LEASING COMPANIES,False
+SLGL,Secure Logistics-Trax Group Limited,TRANSPORT,False
+SLL,SME Leasing Limited,LEASING COMPANIES,False
+SLM,Service Long March Tyres Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+SLSO,Saleem Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+SLSOPP,,SUGAR & ALLIED INDUSTRIES,False
+SLSOPVI,,SUGAR & ALLIED INDUSTRIES,False
+SLYT,Sally Textile Mills Limited,TEXTILE SPINNING,False
+SMBL,Summit Bank Limited,COMMERCIAL BANKS,False
+SMBLCPSA,Summit Bank,COMMERCIAL BANKS,False
+SMBLCPSB,Summit Bank B,COMMERCIAL BANKS,False
+SMCPL,Safe Mix Concrete Limited,CEMENT,False
+SML,Shakarganj Limited,SUGAR & ALLIED INDUSTRIES,False
+SMLR1,,SUGAR & ALLIED INDUSTRIES,False
+SMTM,Samin Textiles Limited,TEXTILE WEAVING,False
+SNAI,Sana Industries Limited,TEXTILE SPINNING,False
+SNBL,Soneri Bank Limited,COMMERCIAL BANKS,False
+SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,False
+SOYASUP,Agro Processors & Atmospheric Gases Ltd,FOOD & PERSONAL CARE PRODUCTS,False
+SPAC1,LSE SPAC-I Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+SPAC2,LSE SPAC-II Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+SPCL,Saudi Pak Consultancy Company Limited,LEASING COMPANIES,False
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",False
+SPL,Sitara Peroxide Limited,CHEMICAL,False
+SPLC,Saudi Pak Leasing Company Limited,LEASING COMPANIES,False
+SPLCTFC3,,LEASING COMPANIES,False
+SPSL,Sitara Petroleum Service Limited,OIL & GAS MARKETING COMPANIES,False
+SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,False
+SRR,Signature Residency REIT,REAL ESTATE INVESTMENT TRUST,False
+SRSM,Sargodha Spinning Mills Limited,TEXTILE SPINNING,False
+SRVI,Service Industries Limited,LEATHER & TANNERIES,False
+SSGC,Sui Southern Gas Company Limited,OIL & GAS MARKETING COMPANIES,False
+SSIC,Silver Star Insurance Company Limited,INSURANCE,False
+SSML,Saritow Spinning Mills Limited,TEXTILE SPINNING,False
+SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,False
+STCL,Shabbir Tiles & Ceramics Limited,GLASS & CERAMICS,False
+STJT,Shahtaj Textile Limited,TEXTILE WEAVING,False
+STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,False
+STLR,Supernet Technologies Limited.(Right),TECHNOLOGY & COMMUNICATION,False
+STML,Shams Textile Mills Limited,TEXTILE COMPOSITE,False
+STPL,Siddiqsons Tin Plate Limited,MISCELLANEOUS,False
+STYLERS,Stylers International Limited,APPAREL,False
+SUCM,Sunshine Cotton Mills Limited,TEXTILE SPINNING,False
+SUHJ,Suhail Jute Mills Limited,JUTE,False
+SURAJ,Suraj Ghee Industries Limited,VANASPATI & ALLIED INDUSTRIES,False
+SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,False
+SUTM,Sunrays Textile Mills Limited,TEXTILE SPINNING,False
+SWL,Standard Worldwide Limited,INSURANCE,False
+SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,False
+SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,False
+SZTM,Shahzad Textile Mills Limited,TEXTILE SPINNING,False
+TAJT,Taj Textile Mills Limited,TEXTILE COMPOSITE,False
+TATM,Tata Textile Mills Limited,TEXTILE SPINNING,False
+TBL,Treet Battery Limited.,AUTOMOBILE PARTS & ACCESSORIES,False
+TCLTC,Treet Corporation (Ptc),FOOD & PERSONAL CARE PRODUCTS,False
+TCORP,Tariq Corporation Limited,SUGAR & ALLIED INDUSTRIES,False
+TCORPR1,Tariq Corporation (Pvt) Ltd (R),,False
+TCORPR2,Tariq Corporation Limited(Right),SUGAR & ALLIED INDUSTRIES,False
+TDIL,TPL Direct Insurance Limited,INSURANCE,False
+TELE,Telecard Limited,TECHNOLOGY & COMMUNICATION,False
+TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,False
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+THAS,Taha Spinning Mills Limited,TEXTILE SPINNING,False
+THCCL,Thatta Cement Company Limited,CEMENT,False
+TICL,The Thal Industries Corporation Limited,SUGAR & ALLIED INDUSTRIES,False
+TISL,Tasdeeq Information Services Limited,MISCELLANEOUS,False
+TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,False
+TOWL,Towellers Limited,TEXTILE COMPOSITE,False
+TPL,TPL Corp Limited,TECHNOLOGY & COMMUNICATION,False
+TPLI,TPL Insurance Limited,INSURANCE,False
+TPLL,TPL Life Insurance Limited,INSURANCE,False
+TPLP,TPL Properties Limited,PROPERTY,False
+TPLRF1,TPL REIT Fund I,REAL ESTATE INVESTMENT TRUST,False
+TPLT,TPL Trakker Limited,TECHNOLOGY & COMMUNICATION,False
+TREET,Treet Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False
+TREI,Transmission Engineering Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,False
+TRG,TRG Pakistan Limited,TECHNOLOGY & COMMUNICATION,False
+TRIBL,Trust Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+TRIPF,Tri-Pack Films Limited,MISCELLANEOUS,False
+TRPOL,Tri-Star Polyester Limited,SYNTHETIC & RAYON,False
+TRSM,Trust Modaraba,MODARABAS,False
+TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False
+TSMF,Tri-Star Mutual Fund Limited,CLOSE - END MUTUAL FUND,False
+TSML,Tandlianwala Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False
+TSPL,Tri-Star Power Limited,POWER GENERATION & DISTRIBUTION,False
+UBDL,United Brands Limited,MISCELLANEOUS,False
+UBL,United Bank Limited,COMMERCIAL BANKS,False
+UBLGSFO,,,False
+UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,True
+UCAPM,Unicap Modaraba,MODARABAS,False
+UDLI,UDL International Limited,MISCELLANEOUS,False
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,False
+UNIC,The United Insurance Company,INSURANCE,False
+UNITY,Unity Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+UNITYR1,Unity Foods(R),,False
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False
+USMT,Usman Textile Mills Limited,TEXTILE COMPOSITE,False
+UVIC,The Universal Insurance Company Limited,INSURANCE,False
+WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,False
+WAHDAT,Wahdat Poultry Farm Limited,FOOD & PERSONAL CARE PRODUCTS,False
+WAHN,Wah Noble Chemicals Limited,CHEMICAL,False
+WASL,Wasl Mobility Modaraba,MODARABAS,False
+WASLR,Wasl Mobility Modaraba(Right),MODARABAS,False
+WAVES,Waves Corporation Limited,CABLE & ELECTRICAL GOODS,False
+WAVESAPP,Waves Home Appliances Limited,CABLE & ELECTRICAL GOODS,False
+WAVESAPPR,Waves Home Appliances Limited(Right),CABLE & ELECTRICAL GOODS,False
+WAVESR1,Waves Singer Pakistan Limited (R),,False
+WHALE,Waves Home Appliances Limited,CABLE & ELECTRICAL GOODS,False
+WTL,Worldcall Telecom Limited,TECHNOLOGY & COMMUNICATION,False
+WYETH,Wyeth Pakistan Limited,PHARMACEUTICALS,False
+YOUW,Yousaf Weaving Mills Limited,TEXTILE WEAVING,False
+ZAHID,Zahidjee Textile Mills Limited,TEXTILE COMPOSITE,False
+ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,False
+ZELP,Zeal Pak Cement Factory Limited,CEMENT,False
+ZHCM,Zahur Cotton Mills Limited,TEXTILE COMPOSITE,False
+ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,False
+ZTL,Zephyr Textiles Limited,TEXTILE WEAVING,False
+ZUMA,Zuma Resources Limited,TECHNOLOGY & COMMUNICATION,False
