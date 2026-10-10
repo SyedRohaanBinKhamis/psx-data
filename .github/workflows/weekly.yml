@@ -1,0 +1,27 @@
+name: Weekly PSX financials
+
+on:
+  schedule:
+    - cron: "0 5 * * 0"       # Sunday 10am PKT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install git+https://github.com/umairsandhu/psx-dps beautifulsoup4 lxml
+      - run: python fetch_extra.py
+      - name: Commit changes
+        run: |
+          git config user.name "psx-bot"
+          git config user.email "psx-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Weekly PSX financials $(date -u +%F)" && git pull --rebase && git push)

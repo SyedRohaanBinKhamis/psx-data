@@ -19,9 +19,11 @@ jobs:
           python-version: "3.12"
       - run: pip install git+https://github.com/umairsandhu/psx-dps
       - run: python fetch_psx.py
+      - run: python fetch_announcements.py
+        continue-on-error: true
       - name: Commit changes
         run: |
           git config user.name "psx-bot"
           git config user.email "psx-bot@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "Daily PSX update $(date -u +%F)" && git push)
+          git diff --cached --quiet || (git commit -m "Daily PSX update $(date -u +%F)" && git pull --rebase && git push)
