@@ -18,8 +18,8 @@ OUT = Path("data/dividends.csv")
 PAGE = 100
 MAX_PAGES = 150
 FIELDS = ["symbol", "company", "sector", "announcement", "announced_at",
-          "book_closure", "cash_pct", "bonus_pct", "right_pct"]
-DATE_FORMATS = ["%b %d, %Y %I:%M %p", "%b %d, %Y %H:%M:%S", "%b %d, %Y %H:%M",
+          "book_closure", "cash_pct", "bonus_pct", "right_pct", "cash_rs"]
+DATE_FORMATS = ["%B %d, %Y %I:%M %p", "%B %d, %Y", "%b %d, %Y %I:%M %p", "%b %d, %Y %H:%M:%S", "%b %d, %Y %H:%M",
                 "%b %d, %Y", "%d-%m-%Y %H:%M:%S", "%d-%m-%Y", "%Y-%m-%d"]
 TOKEN = re.compile(r"(\d+(?:\.\d+)?)\s*%\s*(?:\(\s*[A-Za-z]+\s*\)\s*)*?\(\s*([DBR])\s*\)")
 
@@ -35,9 +35,15 @@ def parse_date(text):
 
 
 def parse_announcement(text):
-    """Return (cash_pct, bonus_pct, right_pct); percentages of face value."""
-    cash = bonus = right = 0.0
-    for pct, kind in TOKEN.findall(text or ""):
+    """Return (cash_pct, bonus_pct, right_pct, cash_rs).
+
+    Percentages are of face value. PSX text is messy ("50%)F) (D)", "DIVIDEND =12%(F)",
+    "Rs. 8.25 (D)", rights with premiums), so a clean pass is tried first and a
+    looser single-entry fallback second. The raw text is always kept.
+    """
+    text = text or ""
+    cash = bonus = right = rs = 0.0
+    for pct, kind in TOKEN.findall(text):
         v = float(pct)
         if kind == "D":
             cash += v
@@ -45,7 +51,23 @@ def parse_announcement(text):
             bonus += v
         else:
             right += v
-    return cash, bonus, right
+    if cash or bonus or right:
+        return cash, bonus, right, rs
+    t = text.upper()
+    m = re.search(r"(\d+(?:\.\d+)?)", t)
+    if not m or t.strip() in ("", "-", "NIL"):
+        return 0.0, 0.0, 0.0, 0.0
+    v = float(m.group(1))
+    is_rs = "%" not in t and re.search(r"RS\.?\s*\d", t) is not None
+    if "PREMIUM" in t or "DISCOUNT" in t or "(R)" in t:
+        right = v
+    elif "(B)" in t or "BONUS" in t:
+        bonus = v
+    elif is_rs:
+        rs = v
+    else:
+        cash = v
+    return cash, bonus, right, rs
 
 
 def pick(row, *names):
@@ -60,6 +82,9 @@ def main():
     if OUT.exists():
         with open(OUT, newline="", encoding="utf-8") as f:
             existing = list(csv.DictReader(f))
+        for r in existing:  # re-parse old rows so parser fixes apply retroactively
+            c, b, rt, rs = parse_announcement(r.get("announcement", ""))
+            r.update(cash_pct=c, bonus_pct=b, right_pct=rt, cash_rs=rs)
     days_back = 45 if existing else 365 * 3
     cutoff = datetime.now() - timedelta(days=days_back)
     start = (date.today() - timedelta(days=days_back)).isoformat()
@@ -82,7 +107,7 @@ def main():
             for r in rows:
                 ann = pick(r, "dividend")
                 ts = pick(r, "date / time", "date")
-                cash, bonus, right = parse_announcement(ann)
+                cash, bonus, right, rs = parse_announcement(ann)
                 dt = parse_date(ts)
                 if dt:
                     dates.append(dt)
@@ -90,7 +115,7 @@ def main():
                     "symbol": pick(r, "symbol"), "company": pick(r, "company"),
                     "sector": pick(r, "sector"), "announcement": ann, "announced_at": ts,
                     "book_closure": pick(r, "book closure"),
-                    "cash_pct": cash, "bonus_pct": bonus, "right_pct": right})
+                    "cash_pct": cash, "bonus_pct": bonus, "right_pct": right, "cash_rs": rs})
             if len(rows) < PAGE:
                 break
             if dates and max(dates) < cutoff:  # pages are newest-first

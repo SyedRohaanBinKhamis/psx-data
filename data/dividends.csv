@@ -1,722 +1,722 @@
-symbol,company,sector,announcement,announced_at,book_closure,cash_pct,bonus_pct,right_pct
-SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,50%(F) (D),"October 6, 2026 3:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0
-IMAGE,Image Pakistan Limited,APPAREL,10%(F) (D),"October 6, 2026 3:39 PM",23/10/2026 - 30/10/2026,10.0,0.0,0.0
-HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,50%)F) (D),"October 6, 2026 3:07 PM",21/10/2026 - 28/10/2026,0.0,0.0,0.0
-MSOTPS,Masood Textile (Pref),APPAREL,1.29% (D),"October 5, 2026 3:52 PM",20/10/2026 - 27/10/2026,1.29,0.0,0.0
-BFMOD,B.F. Modaraba,MODARABAS,5%(F) (D),"October 5, 2026 3:41 PM",22/10/2026 - 28/10/2026,5.0,0.0,0.0
-AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,7.50%(F) (D),"October 5, 2026 3:40 PM",21/10/2026 - 28/10/2026,7.5,0.0,0.0
-GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,30%(F) (D),"October 5, 2026 3:29 PM",19/10/2026 - 26/10/2026,30.0,0.0,0.0
-DIIL,Diamond Industries Limited,MISCELLANEOUS,10%(F) (D),"October 2, 2026 4:40 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0
-CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,15% (B),"October 1, 2026 4:07 PM",09/10/2026 - 09/10/2026,0.0,15.0,0.0
-FZCM,Fazal Cloth Mills Limited,TEXTILE COMPOSITE,150%(F) (D),"October 1, 2026 4:01 PM",22/10/2026 - 28/10/2026,150.0,0.0,0.0
-KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,15%(F) (D),"October 1, 2026 4:00 PM",21/10/2026 - 27/10/2026,15.0,0.0,0.0
-SMCPL,Safe Mix Concrete Limited,CEMENT,30%(F) (D),"October 1, 2026 3:57 PM",20/10/2026 - 27/10/2026,30.0,0.0,0.0
-ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"September 30, 2026 4:03 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0
-MSOT,Masood Textile Mills Limited,APPAREL,10%(F) (D),"September 30, 2026 3:50 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0
-HAFL,Hafiz Limited,TEXTILE COMPOSITE,10%(F) (D),"September 30, 2026 3:46 PM",15/10/2026 - 22/10/2026,10.0,0.0,0.0
-NML,Nishat Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"September 30, 2026 3:29 PM",21/10/2026 - 28/10/2026,20.0,0.0,0.0
-AHCL,Arif Habib Corporation Limited,FERTILIZER,125%(F) (D),"September 30, 2026 3:24 PM",21/10/2026 - 28/10/2026,125.0,0.0,0.0
-SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,10%(F) (D),"September 30, 2026 3:22 PM",17/10/2026 - 23/10/2026,10.0,0.0,0.0
-UDLI,UDL International Limited,MISCELLANEOUS,12.50%(F) (D),"September 29, 2026 3:44 PM",22/10/2026 - 28/10/2026,12.5,0.0,0.0
-FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,55%(F) (D),"September 29, 2026 3:37 PM",21/10/2026 - 28/10/2026,55.0,0.0,0.0
-NETSOL,NetSol Technologies Limited,TECHNOLOGY & COMMUNICATION,15%(F) (D),"September 29, 2026 3:27 PM",22/10/2026 - 28/10/2026,15.0,0.0,0.0
-GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,6%(F) (D),"September 29, 2026 3:22 PM",19/10/2026 - 26/10/2026,6.0,0.0,0.0
-NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,60%(F) (D),"September 29, 2026 2:56 PM",22/10/2026 - 28/10/2026,60.0,0.0,0.0
-PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,25%(F) (D),"September 29, 2026 2:56 PM",22/10/2026 - 28/10/2026,25.0,0.0,0.0
-ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,50%(F) (D),"September 29, 2026 2:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0
-SITC,Sitara Chemical Industries Limited,CHEMICAL,130%(F) (D),"September 29, 2026 12:46 PM",21/10/2026 - 27/10/2026,130.0,0.0,0.0
-SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,100%(F) (D),"September 28, 2026 4:04 PM",15/10/2026 - 22/10/2026,100.0,0.0,0.0
-SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,135%(F) (D),"September 28, 2026 4:03 PM",21/10/2026 - 27/10/2026,135.0,0.0,0.0
-NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,10%(F) (D),"September 28, 2026 4:02 PM",09/10/2026 - 23/10/2026,10.0,0.0,0.0
-FIMM,First Imrooz Modaraba,MODARABAS,100%(F) (D),"September 28, 2026 4:01 PM",14/10/2026 - 27/10/2026,100.0,0.0,0.0
-NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,10%(F) (D),"September 28, 2026 4:00 PM",16/10/2026 - 23/10/2026,10.0,0.0,0.0
-SARC,Sardar Chemical Industries Limited,CHEMICAL,15%(F) (D),"September 28, 2026 3:59 PM",22/10/2026 - 28/10/2026,15.0,0.0,0.0
-STYLERS,Stylers International Limited,APPAREL,7.50%(F) (D),"September 28, 2026 3:56 PM",20/10/2026 - 27/10/2026,7.5,0.0,0.0
-PNSC,Pakistan National Shipping Corporation,TRANSPORT,100%(F) (D),"September 28, 2026 3:49 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0
-PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,100%(F) (D),"September 25, 2026 5:06 PM",21/10/2026 - 28/10/2026,100.0,0.0,0.0
-SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,100%(F) (D),"September 25, 2026 5:00 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0
-SEARL,The Searle Company Limited,PHARMACEUTICALS,10%(F) (D),"September 25, 2026 4:56 PM",15/10/2026 - 22/10/2026,10.0,0.0,0.0
-SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,12.5%(F) (D),"September 25, 2026 4:50 PM",22/10/2026 - 28/10/2026,12.5,0.0,0.0
-ORM,Orient Rental Mod,MODARABAS,DIVIDEND =12%(F),"September 25, 2026 4:45 PM",20/10/2026 - 27/10/2026,0.0,0.0,0.0
-LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,5% (B),"September 25, 2026 4:42 PM",03/11/2026 - 03/11/2026,0.0,5.0,0.0
-LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"September 25, 2026 4:40 PM",21/10/2026 - 28/10/2026,10.0,0.0,0.0
-PINL,Premier Insurance Limited,INSURANCE,40% (R),"September 24, 2026 3:49 PM",-,0.0,0.0,40.0
-STJT,Shahtaj Textile Limited,TEXTILE WEAVING,115%(F) (D),"September 24, 2026 3:47 PM",19/10/2026 - 28/10/2026,115.0,0.0,0.0
-SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,100%(F) (D),"September 24, 2026 3:45 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0
-BIFO,Biafo Industries Limited,CHEMICAL,25%(F) (D),"September 24, 2026 3:37 PM",16/10/2026 - 23/10/2026,25.0,0.0,0.0
-STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,2.5%(F) (D),"September 24, 2026 2:51 PM",22/10/2026 - 28/10/2026,2.5,0.0,0.0
-SINDM,Sindh Modaraba,MODARABAS,14%(F) (D),"September 24, 2026 2:45 PM",13/10/2026 - 20/10/2026,14.0,0.0,0.0
-BERG,Berger Paints Pakistan Limited,CHEMICAL,50%(F) (D),"September 23, 2026 3:51 PM",16/10/2026 - 23/10/2026,50.0,0.0,0.0
-TCORPCPS,Tariq Corporation Limited(Pref),SUGAR & ALLIED INDUSTRIES,10%(F) (D),"September 23, 2026 3:47 PM",30/09/2026 - 30/09/2026,10.0,0.0,0.0
-WAHN,Wah Noble Chemicals Limited,CHEMICAL,50%(F) (D),"September 23, 2026 3:44 PM",21/10/2026 - 28/10/2026,50.0,0.0,0.0
-ICL,Ittehad Chemicals Limted,CHEMICAL,30%(F) (D),"September 22, 2026 3:14 PM",21/10/2026 - 28/10/2026,30.0,0.0,0.0
-HTL,Hi-Tech Lubricants Limited,OIL & GAS MARKETING COMPANIES,11.50%(F) (D),"September 21, 2026 3:42 PM",21/10/2026 - 27/10/2026,11.5,0.0,0.0
-NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,30%(F) (D),"September 18, 2026 4:50 PM",16/10/2026 - 23/10/2026,30.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,100%(F) (D),"September 18, 2026 4:47 PM",19/10/2026 - 26/10/2026,100.0,0.0,0.0
-GOC,GOC (Pak) Limited.,MISCELLANEOUS,20%(F) (D),"September 18, 2026 4:46 PM",07/10/2026 - 14/10/2026,20.0,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,145%(F) (D),"September 18, 2026 4:44 PM",16/10/2026 - 23/10/2026,145.0,0.0,0.0
-GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,120%(F) (D),"September 17, 2026 3:55 PM",06/10/2026 - 13/10/2026,120.0,0.0,0.0
-GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,120%(F) (D),"September 17, 2026 3:49 PM",06/10/2026 - 13/10/2026,120.0,0.0,0.0
-OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,40%(F) (D),"September 17, 2026 3:47 PM",15/10/2026 - 22/10/2026,40.0,0.0,0.0
-MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,220%(F) (D),"September 16, 2026 3:47 PM",20/10/2026 - 27/10/2026,220.0,0.0,0.0
-OLPM,OLP Modaraba,MODARABAS,25%(F) (D),"September 15, 2026 3:01 PM",21/10/2026 - 28/10/2026,25.0,0.0,0.0
-GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(F) (D),"September 15, 2026 2:59 PM",22/10/2026 - 28/10/2026,10.0,0.0,0.0
-MUGHALC,Mughal Iron & Steel Industries Ltd(C),ENGINEERING,20%(F) (D),"September 15, 2026 2:57 PM",20/10/2026 - 28/10/2026,20.0,0.0,0.0
-MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,20%(F) (D),"September 15, 2026 2:55 PM",20/10/2026 - 28/10/2026,20.0,0.0,0.0
-JVDCPS,Javedan Corporation (Pref),PROPERTY,12%(F) (D),"September 15, 2026 2:52 PM",30/09/2026 - 17/10/2026,12.0,0.0,0.0
-JVDC,Javedan Corporation Limited,PROPERTY,60%(F) (D),"September 15, 2026 2:49 PM",30/09/2026 - 17/10/2026,60.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,60%(F) (D),"September 15, 2026 11:34 AM",21/10/2026 - 19/10/2026,60.0,0.0,0.0
-GCIL,Ghani Chemical Industries Limited,CHEMICAL,20.04% (R),"September 15, 2026 11:28 AM",-,0.0,0.0,20.04
-ARPL,Archroma Pakistan Limited,CHEMICAL,450%(i) (D),"September 15, 2026 11:27 AM",24/09/2026 - 24/09/2026,450.0,0.0,0.0
-IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,1.45%(i) (D),"September 15, 2026 11:24 AM",15/09/2026 - 16/09/2026,1.45,0.0,0.0
-LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,= 58.89% (R),"September 15, 2026 11:22 AM",-,0.0,0.0,58.89
-ECOP,Ecopack Limited,MISCELLANEOUS,30%(F) (D),"September 15, 2026 11:21 AM",15/10/2026 - 28/10/2026,30.0,0.0,0.0
-SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,50%(F) (D),"September 15, 2026 11:19 AM",16/10/2026 - 24/10/2026,50.0,0.0,0.0
-CENI,Century Insurance Company Limited,INSURANCE,= 81% (R),"September 11, 2026 4:51 PM",-,0.0,0.0,81.0
-BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,20% (B),"September 11, 2026 3:57 PM",22/09/2026 - 22/09/2026,0.0,20.0,0.0
-BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,10%(F) (D),"September 11, 2026 3:55 PM",09/10/2026 - 15/10/2026,10.0,0.0,0.0
-KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,15%(F) (D),"September 11, 2026 3:52 PM",20/10/2026 - 26/10/2026,15.0,0.0,0.0
-NRSL,Nimir Resins Limited,CHEMICAL,15%(F) (D),"September 11, 2026 3:51 PM",07/10/2026 - 13/10/2026,15.0,0.0,0.0
-ILP,Interloop Limited,TEXTILE COMPOSITE,20%(F) (D),"September 10, 2026 3:35 PM",07/10/2026 - 14/10/2026,20.0,0.0,0.0
-IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",20%(F) (D),"September 10, 2026 3:33 PM",19/10/2026 - 26/10/2026,20.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(F) (D),"September 10, 2026 12:06 PM",13/10/2026 - 19/10/2026,20.0,0.0,0.0
-DYNO,Dynea Pakistan Limited,CHEMICAL,185%(F) (D),"September 10, 2026 12:04 PM",15/10/2026 - 22/10/2026,185.0,0.0,0.0
-PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",80%(F) (D),"September 10, 2026 12:02 PM",19/10/2026 - 12/10/2026,80.0,0.0,0.0
-JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 10, 2026 11:54 AM",30/09/2026 - 07/10/2026,20.0,0.0,0.0
-BAPL,Bawany Air Products Limited,CHEMICAL,98.965% (R),"September 10, 2026 11:51 AM",-,0.0,0.0,98.965
-THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,300% (F) (D),"September 8, 2026 1:02 PM",-,300.0,0.0,0.0
-PRET,Premium Textile Mills Limited,TEXTILE SPINNING,150% (F) (D),"September 8, 2026 1:00 PM",21/10/2026 - 28/10/2026,150.0,0.0,0.0
-IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,0.85% (F) (D),"September 8, 2026 12:59 PM",15/09/2026 - 16/09/2026,0.85,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,60% (F) (D),"September 8, 2026 12:51 PM",09/10/2026 - 16/10/2026,60.0,0.0,0.0
-PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,20% (F) (D),"September 8, 2026 12:50 PM",14/10/2026 - 20/10/2026,20.0,0.0,0.0
-DOL,Descon Oxychem Limited,CHEMICAL,20% (F) (D) - 20% (F) (D),"September 8, 2026 12:28 PM",13/10/2026 - 13/10/2026 - 20/10/2026 - 20/10/2026,40.0,0.0,0.0
-AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,100% (F) (D),"September 8, 2026 12:00 PM",16/10/2026 - 22/10/2026,100.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,470%(F) (D),"August 31, 2026 3:51 PM",22/09/2026 - 28/09/2026,470.0,0.0,0.0
-ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,50%(F) (D),"August 28, 2026 4:52 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0
-BOP,The Bank of Punjab,COMMERCIAL BANKS,16%(i) (D),"August 28, 2026 4:48 PM",11/09/2026 - 13/09/2026,16.0,0.0,0.0
-DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,30%(ii) (D),"August 28, 2026 4:42 PM",09/09/2026 - 09/09/2026,30.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,350%(ii) (D),"August 27, 2026 4:00 PM",08/09/2026 - 0/09//2026,350.0,0.0,0.0
-AICL,Adamjee Insurance Company Limited,INSURANCE,30%(i) (D),"August 27, 2026 3:48 PM",09/09/2026 - 11/09/2026,30.0,0.0,0.0
-DGKC,D.G. Khan Cement Company Limited,CEMENT,10%(F) (D),"August 27, 2026 3:20 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0
-ATIL,Atlas Insurance Limited,INSURANCE,25%(i) (D),"August 27, 2026 3:17 PM",07/09/2026 - 09/09/2026,25.0,0.0,0.0
-GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(F) (D),"August 27, 2026 3:13 PM",22/10/2026 - 28/10/2026,10.0,0.0,0.0
-HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,100%(i) (D),"August 27, 2026 3:11 PM",08/09/2026 - 09/09/2026,100.0,0.0,0.0
-PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"August 27, 2026 3:07 PM",30/09/2026 - 06/10/2026,10.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(F) (D),"August 27, 2026 12:50 PM",13/10/2026 - 20/10/2026,50.0,0.0,0.0
-ATRL,Attock Refinery Limited,REFINERY,150%(F) (D),"August 27, 2026 12:42 PM",13/10/2026 - 19/10/2026,150.0,0.0,0.0
-POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,725%(F) (D),"August 27, 2026 12:39 PM",13/10/2026 - 19/10/2026,725.0,0.0,0.0
-APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,400%(F) (D),"August 27, 2026 11:40 AM",13/10/2026 - 19/10/2026,400.0,0.0,0.0
-IGIHL,IGI Holdings Limited,INSURANCE,25%(i) (D),"August 25, 2026 3:47 PM",07/09/2026 - 08/10/2026,25.0,0.0,0.0
-ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,10%(i) (D),"August 25, 2026 3:41 PM",07/09/2026 - 08/09/2026,10.0,0.0,0.0
-GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,70%(i) (D),"August 25, 2026 3:39 PM",03/09/2026 - 04/09/2026,70.0,0.0,0.0
-BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(F) (D),"August 25, 2026 3:37 PM",19/09/2026 - 26/09/2026,100.0,0.0,0.0
-AGP,AGP Limited,PHARMACEUTICALS,20%(i) (D),"August 24, 2026 4:08 PM",03/09/2026 - 04/09/2026,20.0,0.0,0.0
-AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,125%(F) (D),"August 24, 2026 3:54 PM",19/09/2026 - 25/09/2026,125.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,15%(ii) (D),"August 21, 2026 5:09 PM",01/09/2026 - 01/09/2026,15.0,0.0,0.0
-SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,30%(i) (D),"August 21, 2026 5:08 PM",04/09/2026 - 08/09/2026,30.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,42.857% (R),"August 21, 2026 5:01 PM",-,0.0,0.0,42.857
-EFUL,EFU Life Assurance Limited,INSURANCE,15%(ii) (D),"August 21, 2026 4:59 PM",01/09/2026 - 01/09/2026,15.0,0.0,0.0
-INIL,International Industries Limited,ENGINEERING,50%(F) (D),"August 21, 2026 3:55 PM",29/09/2026 - 07/10/2026,50.0,0.0,0.0
-CHCC,Cherat Cement Company Limited,CEMENT,40%(F) (D),"August 21, 2026 3:52 PM",06/10/2026 - 13/10/2026,40.0,0.0,0.0
-HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,800%(ii) (D),"August 20, 2026 3:50 PM",03/09/2026 - 04/09/2026,800.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(ii) (D),"August 20, 2026 3:47 PM",01/09/2026 - 03/09/2026,35.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,600%(ii) (D),"August 20, 2026 3:43 PM",03/09/2026 - 05/09/2026,600.0,0.0,0.0
-GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,40%(F) (D),"August 20, 2026 3:42 PM",06/10/2026 - 08/10/2026,40.0,0.0,0.0
-ISL,International Steels Limited,ENGINEERING,30%(F) (D),"August 20, 2026 3:40 PM",29/09/2026 - 05/10/2026,30.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(ii) (D),"August 19, 2026 3:56 PM",31/08/2026 - 02/09/2026,40.0,0.0,0.0
-BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,15%(i) (D),"August 19, 2026 3:53 PM",02/09/2026 - 04/09/2026,15.0,0.0,0.0
-ASLCPS,Aisha Steel Convt (Pref) Right,ENGINEERING,Rs. 8.25 (D),"August 19, 2026 3:50 PM",16/10/2026 - 23/10/2026,0.0,0.0,0.0
-ASLPS,Aisha Steel Convertible (Pref),ENGINEERING,Rs. 7.76 (D),"August 19, 2026 3:49 PM",16/10/2026 - 23/10/2026,0.0,0.0,0.0
-JLICL,Jubilee Life Insurance Company Limited,INSURANCE,30%(i) (D) - 50% (B),"August 18, 2026 3:55 PM",28/08/2026 - 28/08/2026,30.0,50.0,0.0
-CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",30%(F) (D),"August 18, 2026 3:46 PM",01/10/2026 - 08/10/2026,30.0,0.0,0.0
-FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,15%(F) (D),"August 18, 2026 3:44 PM",16/10/2026 - 22/10/2026,15.0,0.0,0.0
-CENI,Century Insurance Company Limited,INSURANCE,80%(i) (D),"August 18, 2026 3:41 PM",01/09/2026 - 03/09/2026,80.0,0.0,0.0
-SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",10%(F) (D),"August 18, 2026 3:36 PM",03/10/2026 - 09/10/2026,10.0,0.0,0.0
-FECTC,Fecto Cement Limited,CEMENT,40%(F) (D),"August 17, 2026 3:47 PM",16/10/2026 - 26/10/2026,40.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(ii) (D),"August 13, 2026 3:24 PM",25/08/2026 - 27/08/2026,25.0,0.0,0.0
-FCCL,Fauji Cement Company Limited,CEMENT,15%(F) (D),"August 11, 2026 4:09 PM",22/08/2026 - 28/08/2026,15.0,0.0,0.0
-LUCK,Lucky Cement Limited,CEMENT,250%(F) (D),"August 10, 2026 4:15 PM",18/09/2026 - 25/09/2026,250.0,0.0,0.0
-MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,187%(F) (D),"August 7, 2026 4:30 PM",22/09/2026 - 25/09/2026,187.0,0.0,0.0
-FHAM,First Habib Modaraba,MODARABAS,22.5%(F) (D),"August 6, 2026 3:43 PM",01/10/2026 - 09/10/2026,22.5,0.0,0.0
-TATM,Tata Textile Mills Limited,TEXTILE SPINNING,90%(F) (D),"August 6, 2026 3:42 PM",22/10/2026 - 27/10/2026,90.0,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(ii) (D),"August 6, 2026 3:39 PM",19/08/2026 - 20/08/2026,90.0,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,80(ii) (D),"August 6, 2026 3:37 PM",19/08/2026 - 20/08/2026,0.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(ii) (D),"August 6, 2026 3:34 PM",20/08/2026 - 22/08/2026,15.0,0.0,0.0
-GADT,Gadoon Textile Mills Limited,TEXTILE SPINNING,50%(F) (D),"August 5, 2026 10:06 AM",21/09/2026 - 28/09/2026,50.0,0.0,0.0
-MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,40%(F) (D),"August 5, 2026 10:04 AM",22/10/2026 - 28/10/2026,40.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,60% (ii) (D),"August 4, 2026 2:44 PM",17/08/2026 - 18/08/2026,60.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,350% (iii) (D),"August 4, 2026 2:34 PM",17/08/2026 - 19/08/2026,350.0,0.0,0.0
-LCI,Lucky Core Industries Limited,CHEMICAL,262.5% (F) (D),"August 4, 2026 2:31 PM",19/09/2026 - 25/09/2026,262.5,0.0,0.0
-COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,DIVIDEND =350% (F),"August 3, 2026 2:29 PM",17/09/2026 - 24/09/2026,0.0,0.0,0.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(ii) (D),"July 31, 2026 4:20 PM",13/08/2026 - 18/08/2026,20.0,0.0,0.0
-CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,35%(F) (D),"July 31, 2026 4:15 PM",22/10/2026 - 28/10/2026,35.0,0.0,0.0
-SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",90%(F) (D),"July 30, 2026 4:17 PM",19/25/2026 - 25/09/2026,90.0,0.0,0.0
-EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,10%(i) (D),"July 30, 2026 4:14 PM",12/08/2026 - 13/08/2026,10.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(ii) (D),"July 30, 2026 3:53 PM",13/08/2026 - 16/08/2026,30.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,17.5%(ii) (D),"July 30, 2026 3:50 PM",11/08/2026 - 12/08/2026,17.5,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,145%(ii) (D),"July 29, 2026 3:23 PM",11/08/2026 - 13/08/2026,145.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,100%(F) (D),"July 23, 2026 4:18 PM",25/08/2026 - 31/08/2026,100.0,0.0,0.0
-NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2130%(i) (D),"July 23, 2026 4:16 PM",05/08/2026 - 07/08/2026,2130.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,160%(ii) (D),"July 22, 2026 3:47 PM",03/08/2026 - 08/08/2026,160.0,0.0,0.0
-LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,15%(ii) (D),"July 16, 2026 3:58 PM",27/07/2026 - 29/07/2026,15.0,0.0,0.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.6%(F) (D),"July 15, 2026 4:01 PM",25/07/2026 - 27/07/2026,6.6,0.0,0.0
-STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,85% (R),"July 15, 2026 3:54 PM",-,0.0,0.0,85.0
-ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,10% (B),"July 10, 2026 4:54 PM",21/07/2026 - 21/07/2026,0.0,10.0,0.0
-GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(i) (D),"July 1, 2026 4:57 PM",04/07/2026 - 07/07/2026,10.0,0.0,0.0
-HBLTETF,HBL Total Treasury (ETF),EXCHANGE TRADED FUNDS,9.75%(i) (D),"June 29, 2026 4:15 PM",07/07/2026 - 07/07/2026,9.75,0.0,0.0
-HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,2.10%(i) (D),"June 29, 2026 4:14 PM",07/07/2026 - 07/07/2026,2.1,0.0,0.0
-HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,6.6%(i) (D),"June 29, 2026 4:14 PM",07/07/2026 - 07/07/2026,6.6,0.0,0.0
-ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,1.6%(i) (D),"June 29, 2026 4:13 PM",01/07/2026 - 01/07/2026,1.6,0.0,0.0
-EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,50%(F) (D),"June 29, 2026 4:06 PM",23/07/2026 - 29/07/2026,50.0,0.0,0.0
-UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,129.111%(i) (D),"June 22, 2026 3:58 PM",30/06/2026 - 30/06/2026,129.111,0.0,0.0
-MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,35%(i) (D),"June 22, 2026 3:56 PM",29/06/2026 - 29/06/2026,35.0,0.0,0.0
-NBPGETF,NBP Pakistan Growth ETF,EXCHANGE TRADED FUNDS,53.69%(i) (D),"June 19, 2026 4:55 PM",30/06/2026 - 30/06/2026,53.69,0.0,0.0
-NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,42.50%(i) (D),"June 19, 2026 4:54 PM",29/06/2026 - 29/06/2026,42.5,0.0,0.0
-HINO,Hinopak Motors Limited,AUTOMOBILE ASSEMBLER,109%(F) (D),"June 18, 2026 3:52 PM",21/07/2026 - 28/07/2026,109.0,0.0,0.0
-MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,7.5%(i) (D),"June 15, 2026 4:03 PM",23/06/2026 - 24/06/2026,7.5,0.0,0.0
-FPRM,First Paramount Modaraba,MODARABAS,= 50% (R),"June 10, 2026 3:51 PM",-,0.0,0.0,50.0
-TCORPCPS,Tariq Corporation Limited(Pref),SUGAR & ALLIED INDUSTRIES,20%(F) (D),"May 25, 2026 3:45 PM",09/06/2026 - 16/06/2026,20.0,0.0,0.0
-TCORP,Tariq Corporation Limited,SUGAR & ALLIED INDUSTRIES,23.855376% AT A PREMIUM RS.10/= PER SHARES (R),"May 25, 2026 3:44 PM",-,0.0,0.0,0.0
-SGPL,S.G. Power Limited,POWER GENERATION & DISTRIBUTION,= 300% (R),"May 20, 2026 3:57 PM",-,0.0,0.0,300.0
-HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,90%(F) (D),"May 19, 2026 3:47 PM",16/06/2026 - 29/06/2026,90.0,0.0,0.0
-AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,75%(ii) (D),"May 18, 2026 3:54 PM",01/06/2026 - 03/06/2026,75.0,0.0,0.0
-MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,5%(ii) (D),"May 15, 2026 4:55 PM",25/05/2026 - 26/05/2026,5.0,0.0,0.0
-JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,50%(ii) (D),"May 15, 2026 4:53 PM",25/05/2026 - 26/05/2026,50.0,0.0,0.0
-CSIL,Crescent Star Insurance Limited,INSURANCE,100% AT A DISCOUNT OF RS. 5/= PER SHARES (R),"May 4, 2026 4:02 PM",-,0.0,0.0,0.0
-HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,50%(i) (D),"April 30, 2026 3:53 PM",12/05/2026 - 15/05/2026,50.0,0.0,0.0
-AVN,Avanceon Limited,TECHNOLOGY & COMMUNICATION,10%(F) (D),"April 30, 2026 2:53 PM",16/05/2026 - 23/05/2026,10.0,0.0,0.0
-ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,560%(F) (D),"April 30, 2026 2:52 PM",16/06/2026 - 29/06/2026,560.0,0.0,0.0
-JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,200%(ii) (D),"April 29, 2026 3:58 PM",07/05/2026 - 08/05/2026,200.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,32.50%(iii) (D),"April 29, 2026 3:56 PM",12/05/2026 - 13/05/2026,32.5,0.0,0.0
-DIIL,Diamond Industries Limited,MISCELLANEOUS,10%(i) (D),"April 29, 2026 3:20 PM",05/05/2026 - 08/05/2026,10.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(iii) (D),"April 29, 2026 3:18 PM",14/05/2026 - 18/05/2026,20.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(iii) (D),"April 29, 2026 3:06 PM",08/05/2026 - 12/05/2026,12.5,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,85%(i) (D),"April 29, 2026 2:58 PM",12/05/2026 - 14/05/2026,85.0,0.0,0.0
-STYLERS,Stylers International Limited,APPAREL,5%(ii) (D),"April 29, 2026 2:56 PM",07/05/2026 - 08/05/2026,5.0,0.0,0.0
-DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,30%(ii) (D),"April 29, 2026 2:36 PM",08/05/2026 - 08/05/2026,30.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,350%(ii) (D),"April 29, 2026 9:40 AM",11/05/2026 - 13/05/2026,350.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,80%(iii) (D),"April 28, 2026 4:05 PM",12/05/2026 - 14/05/2026,80.0,0.0,0.0
-NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"April 28, 2026 4:03 PM",11/05/2026 - 12/05/2026,15.0,0.0,0.0
-NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"April 28, 2026 4:02 PM",11/05/2026 - 12/05/2026,15.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,3310%(i) (D),"April 28, 2026 4:00 PM",11/05/2026 - 13/05/2026,3310.0,0.0,0.0
-GWLC,Gharibwal Cement Limited,CEMENT,5%(ii) (D),"April 28, 2026 2:50 PM",07/05/2026 - 17/05/2026,5.0,0.0,0.0
-OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"April 27, 2026 3:57 PM",11/05/2026 - 13/05/2026,20.0,0.0,0.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(i) (D),"April 27, 2026 3:54 PM",08/05/2026 - 12/05/2026,20.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,10%(iii) (D),"April 27, 2026 3:52 PM",06/05/2026 - 08/05/2026,10.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,510%(iii) (D),"April 27, 2026 3:50 PM",08/05/2026 - 12/05/2026,510.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,15%(i) (D),"April 24, 2026 4:37 PM",05/05/2026 - 05/05/2026,15.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(i) (D) - 25%(i) (D),"April 24, 2026 4:35 PM",06/05/2026 - 06/05/2026 - 08/05/2026 - 08/05/2026,50.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"April 24, 2026 9:45 AM",05/05/2026 - 05/05/2026,15.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(i) (D),"April 23, 2026 4:04 PM",05/05/2026 - 07/05/2026,35.0,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(i) (D),"April 23, 2026 3:56 PM",06/05/2026 - 08/05/2026,90.0,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,75%(i) (D),"April 23, 2026 3:51 PM",06/05/2026 - 07/05/2026,75.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(i) (D),"April 23, 2026 3:49 PM",06/05/2026 - 07/05/2026,30.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(i) (D),"April 23, 2026 3:46 PM",01/05/2026 - 03/05/2026,15.0,0.0,0.0
-ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,10%(i) (D),"April 22, 2026 4:02 PM",04/05/2026 - 06/05/2026,10.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(iii) (D),"April 22, 2026 12:35 PM",06/05/2026 - 08/05/2026,50.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(i) (D),"April 21, 2026 3:41 PM",04/05/2026 - 06/05/2026,40.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,20%(i) (D),"April 20, 2026 3:41 PM",05/05/2026 - 06/05/2026,20.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,200%(iii) (D),"April 20, 2026 2:40 PM",01/05/2026 - 03/05/2026,200.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,60%(i) (D),"April 17, 2026 5:10 PM",29/04/2026 - 30/04/2026,60.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,940% (D),"April 17, 2026 5:04 PM",28/04/2026 - 29/04/2026,940.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,100%(iii) (D),"April 16, 2026 3:50 PM",24/04/2026 - 27/04/2026,100.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,160%(i) (D),"April 15, 2026 3:51 PM",24/04/2026 - 27/04/2026,160.0,0.0,0.0
-ACPL,Attock Cement Pakistan Limited,CEMENT,5%(i) (D),"April 10, 2026 4:54 PM",17/04/2026 - 21/04/2026,5.0,0.0,0.0
-PAKQATAR,Pak Qatar Family Takaful Limited,INSURANCE,10%(F) (D),"April 9, 2026 4:15 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0
-PQGTL,Pak Qatar General Takaful Limited,INSURANCE,10%(F) (D),"April 9, 2026 4:14 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0
-PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,10%(F) (D),"April 8, 2026 3:44 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0
-HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,500%(F) (D),"April 7, 2026 4:00 PM",23/04/2026 - 30/04/2026,500.0,0.0,0.0
-SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"April 7, 2026 3:57 PM",04/05/2026 - 11/05/2026,100.0,0.0,0.0
-EWIC,East West Insurance Company Limited,INSURANCE,10% (B),"April 6, 2026 4:56 PM",14/04/2026 - 14/04/2026,0.0,10.0,0.0
-RICL,Reliance Insurance Company Limited,INSURANCE,30% (B),"April 1, 2026 4:07 PM",08/04/2026 - 08/04/2026,0.0,30.0,0.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.6%(ii) (D),"March 31, 2026 4:32 PM",10/04/2026 - 12/04/2026,6.6,0.0,0.0
-SHNI,Shaheen Insurance Company Limited,INSURANCE,30% (B),"March 31, 2026 4:25 PM",08/04/2026 - 08/04/2026,0.0,30.0,0.0
-HICL,Habib Insurance Company Limited,INSURANCE,12.50%(F) (D),"March 27, 2026 5:04 PM",10/04/2026 - 24/04/2026,12.5,0.0,0.0
-KSBP,KSB Pumps Company Limited,ENGINEERING,10%(F) (D),"March 27, 2026 5:00 PM",15/04/2026 - 22/04/2026,10.0,0.0,0.0
-PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",160%(F) (D),"March 26, 2026 3:56 PM",23/04/2026 - 30/04/2026,160.0,0.0,0.0
-GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,120%(F) (D),"March 26, 2026 3:54 PM",23/04/2026 - 30/04/2026,120.0,0.0,0.0
-SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,7.5%(F) (D),"March 26, 2026 3:51 PM",18/04/2026 - 24/04/2026,7.5,0.0,0.0
-IGIHL,IGI Holdings Limited,INSURANCE,55%(F) (D),"March 25, 2026 4:03 PM",24/04/2026 - 30/04/2026,55.0,0.0,0.0
-AGP,AGP Limited,PHARMACEUTICALS,60%(F) (D),"March 24, 2026 4:16 PM",14/04/2026 - 20/04/2026,60.0,0.0,0.0
-DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,140%(i) (D),"March 24, 2026 4:15 PM",26/03/2026 - 26/03/2026,140.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,350%(i) (D),"March 19, 2026 2:17 PM",30/03/2026 - 01/04/2026,350.0,0.0,0.0
-SRVI,Service Industries Limited,LEATHER & TANNERIES,175%(F) (D),"March 18, 2026 2:33 PM",23/04/2026 - 29/04/2026,175.0,0.0,0.0
-SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,20%(F) (D),"March 18, 2026 2:29 PM",23/04/2026 - 29/04/2026,20.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1500%(F) (D),"March 17, 2026 2:23 PM",18/04/2026 - 24/04/2026,1500.0,0.0,0.0
-ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,400%(F) (D),"March 16, 2026 2:30 PM",23/04/2026 - 30/04/2026,400.0,0.0,0.0
-AGIC,Askari General Insurance Company Limited,INSURANCE,25%(F) (D),"March 16, 2026 2:26 PM",21/04/2026 - 28/04/2026,25.0,0.0,0.0
-GCWL,Ghani Chemworld Limited,CHEMICAL,= 0.5 % (R),"March 16, 2026 2:16 PM",-,0.0,0.0,0.5
-UNIC,The United Insurance Company,INSURANCE,20% (B),"March 16, 2026 2:14 PM",25/03/2026 - 25/03/2026,0.0,20.0,0.0
-UNIC,The United Insurance Company,INSURANCE,20% (B),"March 12, 2026 2:31 PM",18/04/2026 - 25/04/2026,0.0,20.0,0.0
-CENI,Century Insurance Company Limited,INSURANCE,60%(F) (D),"March 12, 2026 2:24 PM",22/04/2026 - 29/04/2026,60.0,0.0,0.0
-MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,= 12.1433 AT A PREMIUM RS. 170/- PER SHARE (R),"March 11, 2026 2:28 PM",17/03/2026 - 17/03/2026,0.0,0.0,0.0
-FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,25%(F) (D),"March 9, 2026 2:14 PM",10/04/2026 - 17/04/2026,25.0,0.0,0.0
-BOK,The Bank of Khyber,COMMERCIAL BANKS,17%(F) (D),"March 6, 2026 2:00 PM",23/03/2026 - 30/03/2026,17.0,0.0,0.0
-PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,20%(i) (D),"March 5, 2026 2:45 PM",12/03/2026 - 13/03/2026,20.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,55%(F) (D),"March 3, 2026 2:28 PM",19/03/2026 - 30/03/2026,55.0,0.0,0.0
-HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,150%(F) (D),"March 3, 2026 2:17 PM",22/04/2026 - 28/04/2026,150.0,0.0,0.0
-SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,= 37.65% AT A PREMIUM RS. 30/= PER SHARE (R),"March 2, 2026 11:40 AM",10/03/2026 - 10/03/2026,0.0,0.0,0.0
-STYLERS,Stylers International Limited,APPAREL,2.5%(i) (D),"March 2, 2026 11:37 AM",10/03/2026 - 12/03/2026,2.5,0.0,0.0
-KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"March 2, 2026 11:32 AM",14/03/2026 - 16/03/2026,15.0,0.0,0.0
-GEMPAPL,Pak Agro Packaging Limited(GEM),"PAPER, BOARD & PACKAGING",5%(i) (D),"March 2, 2026 11:30 AM",10/03/2026 - 12/03/2026,5.0,0.0,0.0
-WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,40%(F) (D),"March 2, 2026 11:27 AM",21/04/2026 - 29/04/2026,40.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,105%(F) (D),"February 26, 2026 2:46 PM",19/03/2026 - 30/03/2026,105.0,0.0,0.0
-JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,60%(F) (D),"February 26, 2026 2:45 PM",25/03/2026 - 31/03/2026,60.0,0.0,0.0
-IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,2%(i) (D),"February 26, 2026 2:43 PM",06/03/2026 - 09/03/2026,2.0,0.0,0.0
-ATIL,Atlas Insurance Limited,INSURANCE,60%(F) (D),"February 26, 2026 2:39 PM",06/04/2026 - 20/04/2026,60.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,100%(ii) (D),"February 26, 2026 12:08 PM",09/03/2025 - 11/03/2025,100.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(ii) (D),"February 26, 2026 12:07 PM",09/03/2025 - 11/03/2025,12.5,0.0,0.0
-SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,30%(F) (D),"February 26, 2026 12:05 PM",18/03/2026 - 27/03/2026,30.0,0.0,0.0
-NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(i) (D),"February 26, 2026 12:01 PM",10/03/2025 - 11/03/2025,10.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,60%(ii) (D),"February 25, 2026 2:24 PM",11/03/2025 - 13/03/2025,60.0,0.0,0.0
-GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(ii) (D),"February 25, 2026 2:23 PM",11/03/2025 - 13/03/2025,10.0,0.0,0.0
-DYNO,Dynea Pakistan Limited,CHEMICAL,125%(i) (D),"February 25, 2026 2:21 PM",09/03/2025 - 11/03/2025,125.0,0.0,0.0
-DOL,Descon Oxychem Limited,CHEMICAL,20%(i) (D),"February 25, 2026 12:30 PM",10/03/2025 - 12/03/2025,20.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,160%(F) (D),"February 25, 2026 12:28 PM",26/03/2026 - 26/03/2026,160.0,0.0,0.0
-NBP,National Bank of Pakistan,COMMERCIAL BANKS,350%(F) (D),"February 25, 2026 12:26 PM",18/03/2026 - 30/03/2026,350.0,0.0,0.0
-MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,12.1433 AT A PREMIUM RS. 170 PER SHARE (R),"February 25, 2026 12:25 PM",-,0.0,0.0,0.0
-TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,50%(i) (D),"February 24, 2026 3:02 PM",06/03/2025 - 09/03/2025,50.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,2160%(F) (D),"February 24, 2026 3:00 PM",18/04/2026 - 22/04/2026,2160.0,0.0,0.0
-SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,100%(i) (D),"February 24, 2026 2:57 PM",09/03/2025 - 11/03/2025,100.0,0.0,0.0
-JLICL,Jubilee Life Insurance Company Limited,INSURANCE,100%(F) (D),"February 24, 2026 2:56 PM",18/03/2026 - 30/03/2026,100.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(ii) (D),"February 24, 2026 2:38 PM",09/03/2025 - 11/03/2025,50.0,0.0,0.0
-ATRL,Attock Refinery Limited,REFINERY,25%(i) (D),"February 24, 2026 2:37 PM",09/03/2025 - 11/03/2025,25.0,0.0,0.0
-POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,275%(i) (D),"February 24, 2026 2:17 PM",09/03/2025 - 11/03/2025,275.0,0.0,0.0
-APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,200%(i) (D),"February 24, 2026 1:06 PM",03/03/2025 - 05/03/2025,200.0,0.0,0.0
-PNSC,Pakistan National Shipping Corporation,TRANSPORT,50%(ii) (D),"February 23, 2026 2:27 PM",09/03/2026 - 11/03/2026,50.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,42.50%(ii) (D),"February 23, 2026 1:25 PM",07/03/2026 - 09/03/2026,42.5,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,120%(F) (D),"February 23, 2026 1:19 PM",03/03/2026 - 04/03/2026,120.0,0.0,0.0
-JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,55%(F) (D),"February 23, 2026 1:18 PM",26/02/2026 - 03/03/2026,55.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,460%(ii) (D),"February 23, 2026 1:14 PM",06/03/2026 - 10/03/2026,460.0,0.0,0.0
-CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 19, 2026 2:22 PM",03/03/2026 - 04/03/2026,10.0,0.0,0.0
-NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2560%(F) (D),"February 19, 2026 2:17 PM",10/04/2026 - 17/04/2026,2560.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,20%(F) (D),"February 19, 2026 1:27 PM",20/03/2026 - 26/03/2026,20.0,0.0,0.0
-AICL,Adamjee Insurance Company Limited,INSURANCE,20%(F) (D),"February 18, 2026 4:09 PM",21/04/2026 - 28/03/2026,20.0,0.0,0.0
-BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,12.50%(F) (D),"February 18, 2026 4:04 PM",20/03/2026 - 27/03/2026,12.5,0.0,0.0
-HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,1900%(F) (D),"February 18, 2026 3:56 PM",02/04/2026 - 08/04/2026,1900.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,60%(F) (D),"February 18, 2026 3:51 PM",23/03/2026 - 30/03/2026,60.0,0.0,0.0
-SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 18, 2026 3:41 PM",25/02/2026 - 25/02/2026,10.0,0.0,0.0
-CHCC,Cherat Cement Company Limited,CEMENT,15%(i) (D),"February 18, 2026 3:39 PM",28/02/2026 - 02/03/2026,15.0,0.0,0.0
-THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,300%(i) (D),"February 18, 2026 3:21 PM",23/02/2026 - 25/02/2026,300.0,0.0,0.0
-ICL,Ittehad Chemicals Limted,CHEMICAL,10%(i) (D),"February 17, 2026 4:48 PM",03/03/2026 - 05/03/2026,10.0,0.0,0.0
-BOP,The Bank of Punjab,COMMERCIAL BANKS,15%(F) (D),"February 17, 2026 4:40 PM",20/03/2026 - 26/03/2026,15.0,0.0,0.0
-BIFO,Biafo Industries Limited,CHEMICAL,25%(i) (D),"February 17, 2026 4:26 PM",03/03/2026 - 05/03/2026,25.0,0.0,0.0
-MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,200%(i) (D),"February 17, 2026 3:48 PM",04/03/2026 - 06/04/2026,200.0,0.0,0.0
-ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,15%(F) (D),"February 17, 2026 3:46 PM",21/04/2026 - 27/04/2026,15.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(F) (D),"February 17, 2026 3:41 PM",18/03/2026 - 30/03/2026,40.0,0.0,0.0
-FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,35%(F) (D),"February 17, 2026 3:38 PM",17/04/2026 - 24/04/2026,35.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(ii) (D),"February 16, 2026 4:36 PM",02/03/2026 - 04/03/2026,20.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(F) (D),"February 16, 2026 4:25 PM",17/03/2026 - 26/03/2026,30.0,0.0,0.0
-ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,25%(F) (D),"February 13, 2026 4:50 PM",10/04/2026 - 16/04/2026,25.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(F) (D),"February 13, 2026 4:00 PM",27/02/2026 - 03/03/2026,20.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,45%F) (D),"February 13, 2026 3:57 PM",23/03/2026 - 30/03/2026,0.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,40%(F) (D),"February 12, 2026 3:27 PM",17/03/2026 - 25/03/2026,40.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,45%(F) (D),"February 11, 2026 3:57 PM",16/03/2026 - 30/03/2026,45.0,0.0,0.0
-BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(i) (D),"February 10, 2026 4:18 PM",18/02/2026 - 19/02/2026,100.0,0.0,0.0
-TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,150% (R),"February 9, 2026 3:57 PM",17/02/2026 - 17/02/2026,0.0,0.0,150.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,17.50% (D),"February 9, 2026 3:47 PM",10/03/2026 - 17/03/2026,17.5,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(F) (D),"February 9, 2026 3:36 PM",25/03/2026 - 27/03/2026,70.0,0.0,0.0
-CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,20%(i) (D),"February 6, 2026 4:29 PM",18/02/2026 - 20/02/2026,20.0,0.0,0.0
-EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,12.50%(F) (D),"February 6, 2026 4:15 PM",19/03/2026 - 25/03/2026,12.5,0.0,0.0
-SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,37.65% (R),"February 6, 2026 4:05 PM",-,0.0,0.0,37.65
-ILP,Interloop Limited,TEXTILE COMPOSITE,20%(i) (D),"February 6, 2026 4:01 PM",17/02/2026 - 18/02/2026,20.0,0.0,0.0
-MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,30%(i) (D),"February 3, 2026 3:54 PM",16/02/2026 - 17/02/2026,30.0,0.0,0.0
-COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,290%(i) (D),"February 2, 2026 4:11 PM",03/03/2026 - 10/03/2026,290.0,0.0,0.0
-INIL,International Industries Limited,ENGINEERING,20%(i) (D),"January 29, 2026 3:55 PM",10/02/2026 - 12/02/2026,20.0,0.0,0.0
-SNBL,Soneri Bank Limited,COMMERCIAL BANKS,15%(F) (D),"January 29, 2026 3:24 PM",05/03/2026 - 12/03/2026,15.0,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,85%(F) (D),"January 29, 2026 3:14 PM",09/03/2026 - 16/03/2026,85.0,0.0,0.0
-MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(i) (D),"January 28, 2026 4:08 PM",09/02/2026 - 10/02/2026,15.0,0.0,0.0
-ISL,International Steels Limited,ENGINEERING,20%(i) (D),"January 27, 2026 4:55 PM",10/02/2026 - 12/02/2026,20.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,150%(ii) (D),"January 27, 2026 4:45 PM",10/02/2026 - 12/02/2026,150.0,0.0,0.0
-LCI,Lucky Core Industries Limited,CHEMICAL,262.50%(i) (D),"January 27, 2026 4:39 PM",09/02/2026 - 11/02/2026,262.5,0.0,0.0
-MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,83%(i) (D),"January 26, 2026 4:05 PM",03/02/2026 - 05/02/2026,83.0,0.0,0.0
-LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,50%(i) (D),"January 21, 2026 4:02 PM",04/02/2026 - 06/02/2026,50.0,0.0,0.0
-TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,150% (R),"January 19, 2026 3:45 PM",-,0.0,0.0,150.0
-LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,6.82% (R),"January 16, 2026 4:46 PM",-,0.0,0.0,6.82
-LOADS,Loads Limited,AUTOMOBILE PARTS & ACCESSORIES,47.761% (R),"January 15, 2026 3:48 PM",-,0.0,0.0,47.761
-MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,30%(F) (D),"January 6, 2026 3:19 PM",22/01/2026 - 28/01/2026,30.0,0.0,0.0
-ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"January 5, 2026 3:32 PM",17/01/2026 - 27/01/2026,40.0,0.0,0.0
-AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,130%(F) (D),"January 5, 2026 3:23 PM",22/01/2026 - 28/01/2026,130.0,0.0,0.0
-JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10%(i) (D),"January 1, 2026 4:25 PM",12/01/2026 - 12/01/2026,10.0,0.0,0.0
-SHJS,Shahtaj Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,12.50%(F) (D),"December 31, 2025 4:01 PM",20/01/2026 - 29/01/2026,12.5,0.0,0.0
-ALNRS,Al-Noor Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"December 31, 2025 4:00 PM",21/01/2026 - 28/01/2026,40.0,0.0,0.0
-SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,60%(F) (D),"December 30, 2025 4:09 PM",21/01/2026 - 28/01/2026,60.0,0.0,0.0
-SASML,Sindh Abadgars Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,20%(F) (D),"December 29, 2025 4:07 PM",16/01/2026 - 23/01/2026,20.0,0.0,0.0
-TICL,The Thal Industries Corporation Limited,SUGAR & ALLIED INDUSTRIES,100%(F) (D),"December 24, 2025 3:53 PM",17/01/2026 - 24/01/2026,100.0,0.0,0.0
-BAFS,Baba Farid Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,20%(F) (D),"December 24, 2025 3:50 PM",19/01/2026 - 26/01/2026,20.0,0.0,0.0
-NONS,Noon Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"December 24, 2025 3:49 PM",21/01/2026 - 27/01/2026,40.0,0.0,0.0
-JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(F) (D),"December 22, 2025 3:41 PM",16/01/2026 - 24/01/2026,250.0,0.0,0.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.3%(ii) (D),"December 18, 2025 4:07 PM",30/12/2025 - 01/01/2026,6.3,0.0,0.0
-HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(F) (D),"December 17, 2025 4:08 PM",16/01/2026 - 27/01/2026,120.0,0.0,0.0
-FTMM,First Treet Manufacturing Modaraba,MODARABAS,15%(i) (D),"November 19, 2025 4:29 PM",27/11/2025 - 29/11/2025,15.0,0.0,0.0
-SSGC,Sui Southern Gas Company Limited,OIL & GAS MARKETING COMPANIES,5%(F) (D),"November 5, 2025 4:24 PM",20/11/2025 - 27/11/2025,5.0,0.0,0.0
-LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"November 3, 2025 3:31 PM",21/11/2025 - 27/11/2025,10.0,0.0,0.0
-SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,30%(F) (D),"November 3, 2025 3:26 PM",21/11/2025 - 27/11/2025,30.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(i) (D),"October 30, 2025 4:28 PM",12/11/2025 - 14/11/2025,50.0,0.0,0.0
-ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,460%(i) (D),"October 30, 2025 4:18 PM",13/11/2025 - 14/11/2025,460.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1300%(iii) (D),"October 30, 2025 4:16 PM",11/11/2025 - 12/11/2025,1300.0,0.0,0.0
-PNSC,Pakistan National Shipping Corporation,TRANSPORT,50%(i) (D),"October 30, 2025 4:14 PM",04/11/2025 - 06/11/2025,50.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,35%(i) (D),"October 29, 2025 4:08 PM",11/11/2025 - 12/11/2025,35.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,15%(iii) (D),"October 29, 2025 3:23 PM",06/11/2025 - 06/11/2025,15.0,0.0,0.0
-ARPL,Archroma Pakistan Limited,CHEMICAL,100%(F) (D),"October 29, 2025 3:22 PM",17/12/2025 - 24/12/2025,100.0,0.0,0.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,12.5%(ii (D),"October 29, 2025 3:16 PM",10/11/2025 - 12/11/2025,0.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(i) (D),"October 29, 2025 3:14 PM",12/11/2025 - 14/11/2025,20.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,510%(i) (D),"October 28, 2025 4:40 PM",07/11/2025 - 11/11/2025,510.0,0.0,0.0
-ATIL,Atlas Insurance Limited,INSURANCE,25%(I) (D),"October 28, 2025 4:36 PM",07/11/2025 - 09/11/2025,25.0,0.0,0.0
-WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,30%(I) (D),"October 28, 2025 4:33 PM",07/11/2025 - 09/11/2025,30.0,0.0,0.0
-GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(i) (D),"October 28, 2025 3:59 PM",11/11/2025 - 13/11/2025,10.0,0.0,0.0
-GHGL,Ghani Glass Limited,GLASS & CERAMICS,5%(i) (D),"October 28, 2025 3:54 PM",11/11/2025 - 13/13/2025,5.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,DIVIDEND =15%(iii),"October 28, 2025 3:53 PM",05/11/2025 - 05/11/2025,0.0,0.0,0.0
-SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,10%(i) (D),"October 28, 2025 3:51 PM",06/11/2025 - 07/11/2025,10.0,0.0,0.0
-HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,50%(ii) (D),"October 27, 2025 3:59 PM",06/11/2025 - 07/11/2025,50.0,0.0,0.0
-GWLC,Gharibwal Cement Limited,CEMENT,5%(i) (D),"October 27, 2025 3:57 PM",06/07/2025 - 07/11/2025,5.0,0.0,0.0
-BRRG,B.R.R Guardian Limited,PROPERTY,5%(F) (D),"October 27, 2025 3:55 PM",21/11/2025 - 27/11/2025,5.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,200%(v) (D),"October 27, 2025 11:16 AM",03/11/2025 - 05/11/2025,200.0,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,50%(i) (D),"October 27, 2025 11:15 AM",05/11/2025 - 06/11/2025,50.0,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(iii) (D),"October 27, 2025 11:09 AM",05/11/2025 - 07/11/2025,70.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(iii) (D),"October 27, 2025 11:03 AM",05/11/2025 - 07/11/2025,25.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,4660%(iii) (D),"October 23, 2025 4:19 PM",05/11/2025 - 07/11/2025,4660.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(iii) (D),"October 23, 2025 3:50 PM",03/11/2025 - 04/11/2025,35.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,50%(iii) (D),"October 23, 2025 3:48 PM",04/11/2025 - 05/11/2025,50.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(iii) (D),"October 23, 2025 3:45 PM",06/11/2025 - 08/11/2025,15.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(iii) (D),"October 23, 2025 3:42 PM",04/11/2025 - 06/11/2025,40.0,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,95%(iii) (D),"October 23, 2025 3:41 PM",05/11/2025 - 07/11/2025,95.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(iii) (D),"October 23, 2025 3:27 PM",05/11/2025 - 06/11/2025,25.0,0.0,0.0
-AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,20%(i) (D),"October 23, 2025 3:22 PM",04/11/2025 - 06/11/2025,20.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,170%(i) (D),"October 23, 2025 2:18 PM",03/11/2025 - 04/11/2025,170.0,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(iii) (D),"October 22, 2025 3:42 PM",03/11/2025 - 05/11/2025,90.0,0.0,0.0
-EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,5%(iii) (D),"October 22, 2025 3:27 PM",04/11/2025 - 05/11/2025,5.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,10%(i) (D),"October 22, 2025 3:16 PM",05/11/2025 - 07/11/2025,10.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,360%i) (D),"October 20, 2025 4:00 PM",-,0.0,0.0,0.0
-KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,25%(F) (D),"October 20, 2025 11:11 AM",18/10/2025 - 24/10/2025,25.0,0.0,0.0
-NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,780%(ii) (D),"October 16, 2025 4:00 PM",27/10/2025 - 29/10/2025,780.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,100%(i) (D),"October 15, 2025 4:01 PM",27/10/2025 - 29/10/2025,100.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,150%(i) (D),"October 15, 2025 3:57 PM",29/10/2025 - 31/10/2025,150.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,160%(iii) (D),"October 15, 2025 3:53 PM",27/10/2025 - 29/10/2025,160.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,45%(iii) (D),"October 15, 2025 3:50 PM",28/10/2025 - 29/10/2025,45.0,0.0,0.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.30%(i) (D),"October 10, 2025 4:51 PM",22/10/2025 - 21/10/2025,6.3,0.0,0.0
-HAFL,Hafiz Limited,TEXTILE COMPOSITE,25% (F) (D),"October 8, 2025 3:49 PM",16/10/2025 - 23/10/2025,25.0,0.0,0.0
-IMAGE,Image Pakistan Limited,APPAREL,10%(F) (D),"October 7, 2025 3:39 PM",23/10/2025 - 28/10/2025,10.0,0.0,0.0
-KOIL,Kohinoor Industries Limited,TEXTILE COMPOSITE,7.50%(F) (D),"October 6, 2025 4:40 PM",22/10/2025 - 28/10/2025,7.5,0.0,0.0
-SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,50%(F) (D),"October 6, 2025 4:39 PM",22/10/2025 - 28/10/2025,50.0,0.0,0.0
-AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,15%(F) (D),"October 6, 2025 4:38 PM",21/10/2025 - 28/10/2025,15.0,0.0,0.0
-MSOTPS,Masood Textile (Pref),APPAREL,1.82%(F) (D),"October 6, 2025 4:30 PM",21/10/2025 - 28/10/2025,1.82,0.0,0.0
-SEARL,The Searle Company Limited,PHARMACEUTICALS,15% (B),"October 6, 2025 4:21 PM",13/10/2025 - 13/10/2025,0.0,15.0,0.0
-PIM,Popular Islamic Modaraba,MODARABAS,10%(F) (D),"October 6, 2025 4:20 PM",21/10/2025 - 28/10/2025,10.0,0.0,0.0
-AGIC,Askari General Insurance Company Limited,INSURANCE,40% (R),"October 2, 2025 4:36 PM",06/11/2025 - 06/11/2025,0.0,0.0,40.0
-CPHL,Citi Pharma Ltd.,PHARMACEUTICALS,35%(F) (D),"October 2, 2025 4:35 PM",21/10/2025 - 27/10/2025,35.0,0.0,0.0
-IBLHL,IBL HealthCare Limited,PHARMACEUTICALS,15% (B),"October 1, 2025 3:51 PM",09/10/2025 - 09/10/2025,0.0,15.0,0.0
-PAKD,Pak Datacom Limited,TECHNOLOGY & COMMUNICATION,60%(F) (D),"October 1, 2025 3:48 PM",20/10/2025 - 27/10/2025,60.0,0.0,0.0
-AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"October 1, 2025 3:45 PM",21/10/2025 - 27/10/2025,10.0,0.0,0.0
-NML,Nishat Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"September 30, 2025 3:34 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0
-NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,10%(F) (D),"September 30, 2025 3:31 PM",22/10/2025 - 28/10/2025,10.0,0.0,0.0
-GHGL,Ghani Glass Limited,GLASS & CERAMICS,15%(F) (D),"September 30, 2025 3:30 PM",22/10/2025 - 28/10/2025,15.0,0.0,0.0
-KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,10%(F) (D),"September 30, 2025 3:28 PM",18/10/2025 - 28/10/2025,10.0,0.0,0.0
-PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,DIVIDEND =25%(F),"September 30, 2025 3:27 PM",22/10/2025 - 28/10/2025,0.0,0.0,0.0
-PRET,Premium Textile Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 30, 2025 3:25 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0
-STYLERS,Stylers International Limited,APPAREL,7.50%(F) (D),"September 30, 2025 3:22 PM",21/10/2025 - 28/10/2025,7.5,0.0,0.0
-ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,40%(F) (D),"September 30, 2025 3:21 PM",22/10/2025 - 28/10/2025,40.0,0.0,0.0
-INKL,International Knitwear Limited,APPAREL,10%(F) (D),"September 30, 2025 3:17 PM",02/10/2025 - 27/10/2025,10.0,0.0,0.0
-WASL,Wasl Mobility Modaraba,MODARABAS,52.60% (R),"September 29, 2025 5:00 PM",14/10/2025 - 28/10/2025,0.0,0.0,52.6
-SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,70%(F) (D),"September 29, 2025 4:57 PM",21/10/2025 - 28/10/2025,70.0,0.0,0.0
-FIMM,First Imrooz Modaraba,MODARABAS,150%(F) (D),"September 29, 2025 4:56 PM",14/10/2025 - 27/10/2025,150.0,0.0,0.0
-GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,100%(F) (D),"September 29, 2025 4:54 PM",17/10/2025 - 25/10/2025,100.0,0.0,0.0
-GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,100%(F) (D),"September 29, 2025 4:41 PM",17/10/2025 - 25/10/2025,100.0,0.0,0.0
-AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,45%(F) (D),"September 29, 2025 3:40 PM",16/10/2025 - 22/10/2025,45.0,0.0,0.0
-786,786 Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,33.33% (R),"September 29, 2025 3:23 PM",14/10/2025 - 21/10/2025,0.0,0.0,33.33
-TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,10% (B),"September 29, 2025 3:18 PM",14/10/2025 - 21/10/2025,0.0,10.0,0.0
-ECOP,Ecopack Limited,MISCELLANEOUS,20%(F) (D),"September 29, 2025 3:14 PM",15/10/2025 - 28/10/2025,20.0,0.0,0.0
-ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"September 29, 2025 10:57 AM",21/10/2025 - 27/10/2025,100.0,0.0,0.0
-PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,DIVIDEND =20%(F),"September 29, 2025 10:51 AM",22/10/2025 - 28/10/2025,0.0,0.0,0.0
-SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,12.50%(F) (D),"September 29, 2025 10:48 AM",22/10/2025 - 28/10/2025,12.5,0.0,0.0
-SARC,Sardar Chemical Industries Limited,CHEMICAL,15%(F) (D),"September 29, 2025 10:47 AM",21/10/2025 - 27/10/2025,15.0,0.0,0.0
-PIOC,Pioneer Cement Limited,CEMENT,50%(F) (D),"September 29, 2025 10:44 AM",21/10/2025 - 28/10/2025,50.0,0.0,0.0
-SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,50%(F) (D),"September 29, 2025 10:41 AM",21/10/2025 - 27/10/2025,50.0,0.0,0.0
-GOC,GOC (Pak) Limited.,MISCELLANEOUS,10%(F) (D),"September 29, 2025 10:30 AM",15/10/2025 - 22/10/2025,10.0,0.0,0.0
-GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,3.90%(F) (D),"September 29, 2025 10:19 AM",21/10/2025 - 28/10/2025,3.9,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(F) (D),"September 29, 2025 10:18 AM",21/10/2025 - 27/10/2025,12.5,0.0,0.0
-SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,100%(F) (D),"September 29, 2025 10:14 AM",21/10/2025 - 27/10/2025,100.0,0.0,0.0
-RCML,Reliance Cotton Spinning Mills Limited,TEXTILE SPINNING,60%(F) (D),"September 29, 2025 10:11 AM",21/10/2025 - 27/10/2025,60.0,0.0,0.0
-PNSC,Pakistan National Shipping Corporation,TRANSPORT,230%(F) (D),"September 26, 2025 5:43 PM",22/10/2025 - 28/10/2025,230.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(iv) (D),"September 26, 2025 5:36 PM",06/10/2025 - 08/10/2025,300.0,0.0,0.0
-BERG,Berger Paints Pakistan Limited,CHEMICAL,50%(F) (D),"September 25, 2025 4:44 PM",21/10/2025 - 27/10/2025,50.0,0.0,0.0
-WAHN,Wah Noble Chemicals Limited,CHEMICAL,100%(F) (D),"September 25, 2025 4:41 PM",20/10/2025 - 27/10/2025,100.0,0.0,0.0
-BIFO,Biafo Industries Limited,CHEMICAL,35%(F) (D),"September 25, 2025 4:40 PM",16/10/2025 - 23/10/2025,35.0,0.0,0.0
-UDLI,UDL International Limited,MISCELLANEOUS,5%(F) (D),"September 25, 2025 4:37 PM",21/10/2025 - 27/10/2025,5.0,0.0,0.0
-FECTC,Fecto Cement Limited,CEMENT,20%(F) (D),"September 25, 2025 4:34 PM",17/10/2025 - 27/10/2025,20.0,0.0,0.0
-OLPM,OLP Modaraba,MODARABAS,25%(F) (D),"September 25, 2025 4:30 PM",21/10/2025 - 28/10/2025,25.0,0.0,0.0
-OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,35%(F) (D),"September 25, 2025 4:24 PM",17/10/2025 - 24/10/2025,35.0,0.0,0.0
-FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,40%(F) (D),"September 23, 2025 4:40 PM",18/10/2025 - 25/10/2025,40.0,0.0,0.0
-JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10% (D),"September 23, 2025 4:32 PM",06/10/2025 - 06/10/2025,10.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,50%(F) (D),"September 23, 2025 4:03 PM",23/10/2025 - 24/10/2025,50.0,0.0,0.0
-AHCL,Arif Habib Corporation Limited,FERTILIZER,100%(F) (D),"September 23, 2025 3:48 PM",17/10/2025 - 24/10/2025,100.0,0.0,0.0
-ORM,Orient Rental Mod,MODARABAS,DIVIDEND =12%(F),"September 23, 2025 3:40 PM",20/10/2025 - 27/10/2025,0.0,0.0,0.0
-SITC,Sitara Chemical Industries Limited,CHEMICAL,110%(F) (D),"September 22, 2025 3:50 PM",16/10/2025 - 23/10/2025,110.0,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,145%(F) (D),"September 19, 2025 4:24 PM",17/10/2025 - 24/10/2025,145.0,0.0,0.0
-NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(F) (D),"September 19, 2025 4:18 PM",15/10/2025 - 22/10/2025,10.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,25%(F) (D),"September 19, 2025 4:11 PM",21/10/2025 - 27/10/2025,25.0,0.0,0.0
-SINDM,Sindh Modaraba,MODARABAS,13.50%(F) (D),"September 19, 2025 4:09 PM",17/10/2025 - 24/10/2025,13.5,0.0,0.0
-ICL,Ittehad Chemicals Limted,CHEMICAL,20%(F) (D),"September 19, 2025 4:05 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0
-IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",6%(F) (D),"September 18, 2025 4:15 PM",17/10/2025 - 23/10/2025,6.0,0.0,0.0
-JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 17, 2025 3:42 PM",17/10/2025 - 24/10/2025,20.0,0.0,0.0
-PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,17%(F) (D),"September 15, 2025 3:59 PM",22/10/2025 - 28/10/2025,17.0,0.0,0.0
-MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,150%(F) (D),"September 15, 2025 3:56 PM",17/10/2025 - 24/10/2025,150.0,0.0,0.0
-SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,5%(F) (D),"September 15, 2025 3:50 PM",22/10/2025 - 28/10/2025,5.0,0.0,0.0
-DYNO,Dynea Pakistan Limited,CHEMICAL,200%(F) (D),"September 15, 2025 3:40 PM",11/10/2025 - 20/10/2025,200.0,0.0,0.0
-LIVEN,Liven Pharma Limited,PHARMACEUTICALS,21.496% (R),"September 12, 2025 6:01 PM",27/11/2025 - 27/11/2025 -,0.0,0.0,21.496
-LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,11.14% (R),"September 12, 2025 6:00 PM",17/12/2025 - 17/12/2025,0.0,0.0,11.14
-PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",50%(F) (D),"September 12, 2025 5:53 PM",07/10/2025 - 09/10/2025,50.0,0.0,0.0
-THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,120%(F) (D),"September 12, 2025 5:35 PM",14/10/2025 - 20/10/2025,120.0,0.0,0.0
-GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,30%(F) (D),"September 11, 2025 4:27 PM",04/10/2025 - 11/10/2025,30.0,0.0,0.0
-ILP,Interloop Limited,TEXTILE COMPOSITE,10%(F) (D),"September 10, 2025 3:12 PM",03/10/2025 - 10/10/2025,10.0,0.0,0.0
-SMCPL,Safe Mix Concrete Limited,CEMENT,25%(F) (D),"September 9, 2025 4:26 PM",21/10/2025 - 28/10/2025,25.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,100%(F) (D),"September 9, 2025 4:21 PM",13/10/2025 - 20/10/2025,100.0,0.0,0.0
-JVDCPS,Javedan Corporation (Pref),PROPERTY,12%(F) (D),"September 9, 2025 4:18 PM",10/10/2025 - 18/10/2025,12.0,0.0,0.0
-JVDC,Javedan Corporation Limited,PROPERTY,50%(F) (D),"September 9, 2025 4:16 PM",10/10/2025 - 18/10/2025,50.0,0.0,0.0
-BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,70%(F) (D),"September 8, 2025 3:41 PM",26/09/2025 - 04/10/2025,70.0,0.0,0.0
-SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,50%(F) (D),"September 8, 2025 3:37 PM",17/10/2025 - 25/10/2025,50.0,0.0,0.0
-DOL,Descon Oxychem Limited,CHEMICAL,20%(F) (D),"September 4, 2025 3:42 PM",15/10/2025 - 22/10/2025,20.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,100%(F) (D),"September 3, 2025 3:56 PM",08/10/2025 - 15/10/2025,100.0,0.0,0.0
-MACFL,MACPAC Films Limited,"PAPER, BOARD & PACKAGING",5%(F) (D),"September 1, 2025 11:22 AM",17/10/2025 - 24/10/2025,5.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,200%(F) (D),"September 1, 2025 11:16 AM",19/09/2025 - 25/09/2025,200.0,0.0,0.0
-BOP,The Bank of Punjab,COMMERCIAL BANKS,10%(i) (D),"August 29, 2025 5:56 PM",12/09/2025 - 14/09/2025,10.0,0.0,0.0
-FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,5%(F) (D),"August 29, 2025 5:31 PM",20/10/2025 - 27/10/2025,5.0,0.0,0.0
-ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,50%(F) (D),"August 29, 2025 5:23 PM",02/10/2025 - 08/10/2025,50.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,500%(F) (D),"August 29, 2025 5:08 PM",03/10/2025 - 09/10/2025,500.0,0.0,0.0
-DGKC,D.G. Khan Cement Company Limited,CEMENT,20%(F) (D),"August 28, 2025 4:47 PM",15/10/2025 - 28/10/2025,20.0,0.0,0.0
-AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,35%(F) (D),"August 28, 2025 4:44 PM",14/10/2025 - 20/10/2025,35.0,0.0,0.0
-AICL,Adamjee Insurance Company Limited,INSURANCE,20%(I) (D),"August 28, 2025 4:17 PM",10/09/2025 - 12/09/2025,20.0,0.0,0.0
-AGIC,Askari General Insurance Company Limited,INSURANCE,25%(ii) (D),"August 28, 2025 3:44 PM",09/09/2025 - 10/09/2025,25.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(ii) (D),"August 28, 2025 3:40 PM",11/09/2025 - 13/09/2025,15.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(ii) (D),"August 28, 2025 3:34 PM",09/09/2025 - 10/09/2025,1000.0,0.0,0.0
-FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,35%(i) (D),"August 27, 2025 4:34 PM",09/09/2025 - 10/09/2025,35.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(ii) (D),"August 27, 2025 4:33 PM",05/09/2025 - 09/09/2025,35.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,15%(ii) (D),"August 27, 2025 4:30 PM",04/09/2025 - 04/09/2025,15.0,0.0,0.0
-AGP,AGP Limited,PHARMACEUTICALS,20%(i) (D),"August 27, 2025 3:59 PM",04/09/2025 - 05/09/2025,20.0,0.0,0.0
-BOK,The Bank of Khyber,COMMERCIAL BANKS,15%(i) (D),"August 26, 2025 4:21 PM",08/09/2025 - 10/09/2025,15.0,0.0,0.0
-IGIHL,IGI Holdings Limited,INSURANCE,25%(i) (D),"August 26, 2025 4:02 PM",08/09/2025 - 09/09/2025,25.0,0.0,0.0
-HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,100%(i) (D),"August 26, 2025 3:52 PM",04/09/2025 - 05/09/2025,100.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"August 26, 2025 3:37 PM",03/09/2025 - 03/09/2025,15.0,0.0,0.0
-GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,50%(i) (D),"August 26, 2025 3:34 PM",09/09/2025 - 11/09/2025,50.0,0.0,0.0
-DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(ii) (D),"August 26, 2025 3:27 PM",04/09/2025 - 05/09/2025,10.0,0.0,0.0
-SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,35%(i) (D),"August 26, 2025 3:25 PM",08/09/2025 - 10/09/2025,35.0,0.0,0.0
-ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,10%(i) (D),"August 22, 2025 5:31 PM",05/09/2025 - 08/09/2025,10.0,0.0,0.0
-INIL,International Industries Limited,ENGINEERING,40%(F) (D),"August 22, 2025 5:10 PM",18/09/2025 - 26/09/2025,40.0,0.0,0.0
-BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,15%(i) (D),"August 21, 2025 4:34 PM",02/09/2025 - 04/09/2025,15.0,0.0,0.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(i) (D),"August 21, 2025 4:27 PM",02/09/2025 - 04/09/2025,20.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(ii) (D),"August 21, 2025 4:21 PM",02/09/2025 - 04/09/2025,40.0,0.0,0.0
-CHCC,Cherat Cement Company Limited,CEMENT,40%(F) (D),"August 21, 2025 3:53 PM",02/10/2025 - 09/10/2025,40.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,4440%(ii) (D),"August 20, 2025 4:20 PM",03/09/2025 - 05/09/2025,4440.0,0.0,0.0
-CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",20%(F) (D),"August 20, 2025 4:14 PM",15/10/2025 - 23/10/2025,20.0,0.0,0.0
-ISL,International Steels Limited,ENGINEERING,25%(F) (D),"August 20, 2025 3:40 PM",17/09/2025 - 24/09/2025,25.0,0.0,0.0
-JLICL,Jubilee Life Insurance Company Limited,INSURANCE,30%(i) (D),"August 19, 2025 4:23 PM",27/08/2025 - 29/08/2025,30.0,0.0,0.0
-PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,100%(F) (D),"August 19, 2025 4:17 PM",17/10/2025 - 24/10/2025,100.0,0.0,0.0
-AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,100%(F) (D),"August 19, 2025 3:40 PM",15/10/2025 - 21/10/2025,100.0,0.0,0.0
-SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",DIVIDEND =8%(F),"August 18, 2025 3:29 PM",24/09/2025 - 30/09/2025,0.0,0.0,0.0
-HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,500%(i) (D),"August 13, 2025 3:45 PM",26/08/2025 - 27/08/2025,500.0,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(ii) (D),"August 13, 2025 3:40 PM",27/08/2025 - 28/08/2025,70.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(ii) (D),"August 13, 2025 3:38 PM",25/08/2025 - 27/08/2025,25.0,0.0,0.0
-POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,500%(F) (D),"August 11, 2025 3:29 PM",21/10/2025 - 27/10/2025,500.0,0.0,0.0
-ATRL,Attock Refinery Limited,REFINERY,50%(F) (D),"August 11, 2025 3:24 PM",21/10/2025 - 27/10/2025,50.0,0.0,0.0
-ACPL,Attock Cement Pakistan Limited,CEMENT,80%(F) (D),"August 11, 2025 3:13 PM",23/09/2025 - 30/09/2025,80.0,0.0,0.0
-APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,130%(F) (D),"August 11, 2025 3:05 PM",21/10/2025 - 27/10/2025,130.0,0.0,0.0
-LUCK,Lucky Cement Limited,CEMENT,200%(F) (D),"August 11, 2025 11:11 AM",19/09/2025 - 26/09/2025,200.0,0.0,0.0
-FCCL,Fauji Cement Company Limited,CEMENT,12.50%(F) (D),"August 11, 2025 11:05 AM",24/09/2025 - 30/09/2025,12.5,0.0,0.0
-MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,217%(F) (D),"August 11, 2025 10:57 AM",22/09/2025 - 26/09/2025,217.0,0.0,0.0
-KTML,Kohinoor Textile Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"August 8, 2025 5:01 PM",10/10/2025 - 16/10/2025,20.0,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(ii) (D),"August 6, 2025 3:49 PM",22/08/2025 - 22/08/2025,90.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,400%( iii) (D),"August 5, 2025 3:43 PM",18/08/2025 - 20/08/2025,400.0,0.0,0.0
-MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,35%(F) (D),"August 5, 2025 3:39 PM",22/10/2025 - 28/10/2025,35.0,0.0,0.0
-LCI,Lucky Core Industries Limited,CHEMICAL,310%(F) (D),"August 1, 2025 2:47 PM",20/09/2025 - 26/09/2025,310.0,0.0,0.0
-CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,25%(F) (D),"August 1, 2025 2:42 PM",22/10/2025 - 28/10/2025,25.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(ii) (D),"July 31, 2025 3:53 PM",12/08/2025 - 14/08/2025,25.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,45%(ii) (D),"July 31, 2025 3:49 PM",12/08/2025 - 13/08/2025,45.0,0.0,0.0
-GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,35%(F) (D),"July 31, 2025 3:31 PM",14/08/2025 - 16/08/2025,35.0,0.0,0.0
-SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",90%(F) (D),"July 30, 2025 3:42 PM",20/09/2025 - 26/09/2025,90.0,0.0,0.0
-EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,25%(ii) (D),"July 30, 2025 3:29 PM",12/08/2025 - 13/08/2025,25.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,42.50%(ii) (D),"July 30, 2025 3:24 PM",12/08/2025 - 14/08/2025,42.5,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,120%(ii) (D),"July 29, 2025 3:26 PM",11/08/2025 - 13/08/2025,120.0,0.0,0.0
-ARPL,Archroma Pakistan Limited,CHEMICAL,200%(i) (D),"July 29, 2025 3:22 PM",06/08/2025 - 08/08/2025,200.0,0.0,0.0
-AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(ii) (D),"July 29, 2025 3:17 PM",12/08/2025 - 14/08/2025,250.0,0.0,0.0
-MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(ii) (D),"July 29, 2025 3:11 PM",06/08/2025 - 08/08/2025,15.0,0.0,0.0
-JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,200%(I) (D),"July 28, 2025 4:21 PM",05/08/2025 - 07/08/2025,200.0,0.0,0.0
-NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2230%(i) (D),"July 24, 2025 3:44 PM",06/08/2025 - 08/08/2025,2230.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,300%(iii) (D),"July 23, 2025 3:42 PM",30/07/2025 - 31/07/2025,300.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,100%(F) (D),"July 15, 2025 3:55 PM",09/08/2025 - 15/08/2025,100.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,160%(II) (D),"July 11, 2025 5:05 PM",22/07/2025 - 24/07/2025,160.0,0.0,0.0
-ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,5%(i) (B),"July 4, 2025 5:05 PM",15/07/2025 - 22/07/2025,0.0,5.0,0.0
-HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,10.50%(i) (D),"June 30, 2025 4:50 PM",08/07/2025 - 08/07/2025,10.5,0.0,0.0
-HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,3.30%(i) (D),"June 30, 2025 4:43 PM",08/07/2025 - 08/07/2025,3.3,0.0,0.0
-EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(F) (D),"June 30, 2025 4:36 PM",23/07/2025 - 29/07/2025,100.0,0.0,0.0
-UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,8.78(i) (D),"June 26, 2025 4:05 PM",04/07/2025 - 04/07/2025,0.0,0.0,0.0
-MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,22.50%(i) (D),"June 25, 2025 10:38 AM",28/06/2025 - 28/06/2025,22.5,0.0,0.0
-HBLTETF,HBL Total Treasury (ETF),EXCHANGE TRADED FUNDS,16%(i) (D),"June 25, 2025 10:35 AM",27/06/2025 - 27/06/2025,16.0,0.0,0.0
-ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,6%(I) (D),"June 20, 2025 5:04 PM",27/06/2025 - 27/06/2025,6.0,0.0,0.0
-NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,23.285%(i) (D),"June 20, 2025 4:04 PM",27/06/2025 - 28/06/2025,23.285,0.0,0.0
-NBPGETF,NBP Pakistan Growth ETF,EXCHANGE TRADED FUNDS,29.84%(i) (D),"June 19, 2025 4:07 PM",01/07/2025 - 01/07/2025,29.84,0.0,0.0
-JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10%(iii) (D),"June 19, 2025 4:05 PM",26/06/2025 - 26/06/2025,10.0,0.0,0.0
-MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,22.50%(I) (D),"June 17, 2025 3:39 PM",24/06/2025 - 26/06/2025,22.5,0.0,0.0
-AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(i) (D),"May 29, 2025 3:45 PM",12/06/2025 - 14/06/2025,120.0,0.0,0.0
-DSL,Dost Steels Limited,ENGINEERING,100% AT A DISCOUNT OF Rs.1/= PER SHARE (R),"May 27, 2025 3:46 PM",-,0.0,0.0,0.0
-SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,70%(i) (D),"May 26, 2025 4:37 PM",09/06/2025 - 11/06/2025,70.0,0.0,0.0
-BAPL,Bawany Air Products Limited,CHEMICAL,7997.32% (R),"May 26, 2025 4:29 PM",03/06/2025 - 10/06/2025,0.0,0.0,7997.32
-MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,10%(i) (D),"May 26, 2025 4:26 PM",09/06/2025 - 11/06/2025,10.0,0.0,0.0
-HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,80%(F) (D),"May 23, 2025 3:25 PM",12/06/2025 - 24/06/2025,80.0,0.0,0.0
-IMS,Intermarket Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"May 5, 2025 4:26 PM",14/05/2025 - 16/05/2025,20.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,30%(iii) (D),"April 30, 2025 4:16 PM",13/05/2025 - 15/05/2025,30.0,0.0,0.0
-PKGP,Pakgen Power Limited,POWER GENERATION & DISTRIBUTION,20%(i) (D),"April 29, 2025 4:57 PM",10/05/2025 - 12/05/2025,20.0,0.0,0.0
-CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,30%(ii) (D),"April 29, 2025 4:49 PM",13/05/2025 - 15/05/2025,30.0,0.0,0.0
-CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,40%(i) (D),"April 29, 2025 4:48 PM",13/05/2025 - 14/05/2025,40.0,0.0,0.0
-DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,9%(i) (D),"April 29, 2025 4:47 PM",13/05/2025 - 14/05/2025,9.0,0.0,0.0
-STYLERS,Stylers International Limited,APPAREL,2.5%(i) (D),"April 29, 2025 4:46 PM",08/05/2025 - 10/05/2025,2.5,0.0,0.0
-GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%9(ii) (D),"April 29, 2025 4:44 PM",13/05/2025 - 15/05/2025,0.0,0.0,0.0
-KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,10%(i) (D),"April 29, 2025 4:38 PM",06/05/2025 - 08/05/2025,10.0,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,10%(iii) (D),"April 29, 2025 2:46 PM",13/05/2025 - 15/05/2025,10.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,15%(i) (D),"April 28, 2025 3:43 PM",06/05/2025 - 06/05/2025,15.0,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,70%(i) (D),"April 28, 2025 3:39 PM",11/05/2025 - 13/05/2025,70.0,0.0,0.0
-IMAGE,Image Pakistan Limited,APPAREL,10%(I) (D),"April 28, 2025 3:21 PM",13/05/2025 - 15/05/2025,10.0,0.0,0.0
-SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,75%(F) (D),"April 28, 2025 12:03 PM",15/05/2025 - 22/05/2025,75.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,500%(iii) (D),"April 28, 2025 12:00 PM",09/05/2025 - 13/05/2025,500.0,0.0,0.0
-MACTER,Macter International Limited,PHARMACEUTICALS,18%(i) (D),"April 28, 2025 11:52 AM",07/05/2025 - 09/05/2025,18.0,0.0,0.0
-GWLC,Gharibwal Cement Limited,CEMENT,10%(i) (D),"April 28, 2025 11:50 AM",09/05/2025 - 13/05/2025,10.0,0.0,0.0
-SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",6%(ii) (D),"April 28, 2025 10:37 AM",07/05/2025 - 09/05/2025,6.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"April 25, 2025 5:31 PM",06/05/2025 - 06/05/2025,15.0,0.0,0.0
-NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,20%(iii) (D),"April 25, 2025 5:30 PM",07/05/2025 - 08/05/2025,20.0,0.0,0.0
-TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,20%(II) (D),"April 25, 2025 5:28 PM",09/05/2025 - 13/05/2025,20.0,0.0,0.0
-NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,20%(iii) (D),"April 25, 2025 5:26 PM",07/05/2025 - 08/05/2025,20.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,45%(i) (D),"April 25, 2025 4:31 PM",07/05/2025 - 09/05/2025,45.0,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,100%(iii) (D),"April 25, 2025 3:07 PM",06/05/2025 - 07/05/2025,100.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,15%(ii) (D),"April 25, 2025 3:00 PM",06/05/2025 - 08/05/2025,15.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,5250%(i) (D),"April 24, 2025 4:18 PM",09/05/2025 - 11/05/2025,5250.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(i) (D),"April 24, 2025 4:02 PM",06/05/2025 - 08/05/2025,35.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(ii) (D),"April 24, 2025 3:59 PM",05/05/2025 - 07/05/2025,300.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40% (i) (D),"April 24, 2025 3:47 PM",07/05/2025 - 09/05/2025,40.0,0.0,0.0
-BIFO,Biafo Industries Limited,CHEMICAL,DIVIDEND =15%(i),"April 24, 2025 3:38 PM",08/05/2025 - 10/05/2025,0.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,15% (I) (D),"April 24, 2025 3:18 PM",08/05/2025 - 10/05/2025,15.0,0.0,0.0
-OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"April 24, 2025 12:45 PM",07/05/2025 - 09/05/2025,20.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(ii) (D),"April 24, 2025 12:44 PM",05/05/2025 - 07/05/2025,12.5,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,40%(i) (D),"April 23, 2025 3:47 PM",07/05/2025 - 09/05/2025,40.0,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(i) (D),"April 23, 2025 3:39 PM",05/05/2025 - 07/05/2025,90.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(i) (D),"April 23, 2025 3:22 PM",06/05/2025 - 08/05/2025,25.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,22.5%(i) (D),"April 22, 2025 5:01 PM",05/05/2025 - 06/06/2025,22.5,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(i) (D),"April 21, 2025 4:10 PM",02/05/2025 - 04/05/2025,70.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,DIVIDEND =120%(iii),"April 21, 2025 4:06 PM",01/05/2025 - 03/05/2025,0.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(i) (D),"April 17, 2025 3:56 PM",30/04/2025 - 02/05/2025,25.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,80%(iii) (D),"April 17, 2025 3:50 PM",30/04/2025 - 02/05/2025,80.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(i) (D),"April 17, 2025 3:48 PM",30/04/2025 - 02/05/2025,1000.0,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,110%(i) (D),"April 16, 2025 4:52 PM",30/04/2025 - 02/05/2025,110.0,0.0,0.0
-EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,75%(i) (D),"April 15, 2025 3:55 PM",29/04/2025 - 30/04/2025,75.0,0.0,0.0
-PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,20%(F) (D),"April 7, 2025 4:15 PM",23/04/2025 - 30/04/2025,20.0,0.0,0.0
-HICL,Habib Insurance Company Limited,INSURANCE,DIVIDEND =20%(F),"April 3, 2025 3:33 PM",16/04/2025 - 29/04/2025,0.0,0.0,0.0
-RICL,Reliance Insurance Company Limited,INSURANCE,51% (B),"April 3, 2025 3:30 PM",21/04/2025 - 30/04/2025,0.0,51.0,0.0
-CSIL,Crescent Star Insurance Limited,INSURANCE,38% AT A DISCOUNT RS.3/- PER SHARE (R),"April 3, 2025 3:19 PM",-,0.0,0.0,0.0
-JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,20%(i) (D),"March 27, 2025 2:37 PM",14/04/2025 - 14/04/2025,20.0,0.0,0.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,5.5%(i) (D),"March 27, 2025 2:34 PM",10/04/2025 - 12/04/2025,5.5,0.0,0.0
-SHNI,Shaheen Insurance Company Limited,INSURANCE,25% (B),"March 27, 2025 2:33 PM",22/04/2025 - 28/04/2025,0.0,25.0,0.0
-UNIC,The United Insurance Company,INSURANCE,20% (B),"March 27, 2025 2:27 PM",18/04/2025 - 25/04/2025,0.0,20.0,0.0
-HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,400%(F) (D),"March 26, 2025 2:45 PM",22/04/2025 - 29/04/2025,400.0,0.0,0.0
-PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",150%(F) (D),"March 26, 2025 2:30 PM",23/04/2025 - 30/04/2025,150.0,0.0,0.0
-SRVI,Service Industries Limited,LEATHER & TANNERIES,150%(F) (D),"March 26, 2025 2:23 PM",22/04/2025 - 28/04/2025,150.0,0.0,0.0
-SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,40%(F) (D),"March 25, 2025 2:20 PM",22/04/2025 - 28/04/2025,40.0,0.0,0.0
-IGIHL,IGI Holdings Limited,INSURANCE,40%(F) (D),"March 25, 2025 2:17 PM",24/04/2025 - 30/04/2025,40.0,0.0,0.0
-SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,60%(F) (D),"March 24, 2025 2:14 PM",22/04/2025 - 28/04/2025,60.0,0.0,0.0
-GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,100%(F) (D),"March 24, 2025 2:13 PM",22/04/2025 - 28/04/2025,100.0,0.0,0.0
-SIBL,Security Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,15%(F) (D),"March 24, 2025 2:11 PM",22/04/2025 - 29/04/2025,15.0,0.0,0.0
-AGIC,Askari General Insurance Company Limited,INSURANCE,25%(F) (D),"March 18, 2025 2:26 PM",29/04/2025 - 29/04/2025,25.0,0.0,0.0
-FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,42.5%(F) (D),"March 14, 2025 1:12 PM",11/04/2025 - 18/04/2025,42.5,0.0,0.0
-JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,DIVIDEND =55%(F),"March 13, 2025 2:18 PM",19/04/2025 - 25/04/2025,0.0,0.0,0.0
-PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(i) (D),"March 12, 2025 2:17 PM",20/03/2025 - 24/03/2025,300.0,0.0,0.0
-DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,50%(F) (D),"March 7, 2025 12:50 PM",19/04/2025 - 25/04/2025,50.0,0.0,0.0
-JSCLPSA,Jahangir Sidd(Pref),INV. BANKS / INV. COS. / SECURITIES COS.,6%(F) (D),"March 6, 2025 2:25 PM",21/04/2025 - 28/04/2025,6.0,0.0,0.0
-BOK,The Bank of Khyber,COMMERCIAL BANKS,17%(F) (D),"March 5, 2025 1:38 PM",21/03/2025 - 28/03/2025,17.0,0.0,0.0
-AICL,Adamjee Insurance Company Limited,INSURANCE,15%(F) (D),"March 4, 2025 2:31 PM",22/04/2025 - 29/04/2025,15.0,0.0,0.0
-NBP,National Bank of Pakistan,COMMERCIAL BANKS,80%(F) (D),"March 3, 2025 1:03 PM",18/03/2025 - 25/03/2025,80.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,6000%(F) (D),"March 3, 2025 11:56 AM",18/04/2025 - 22/04/2025,6000.0,0.0,0.0
-AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,25%(i) (D),"February 28, 2025 5:20 PM",12/03/2025 - 14/03/2025,25.0,0.0,0.0
-GCIL,Ghani Chemical Industries Limited,CHEMICAL,6%(i) (D),"February 28, 2025 4:38 PM",14/03/2025 - 16/03/2025,6.0,0.0,0.0
-ATIL,Atlas Insurance Limited,INSURANCE,60%(F) (D),"February 28, 2025 4:37 PM",01/04/2025 - 15/04/2025,60.0,0.0,0.0
-OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,40.50% (D),"February 28, 2025 4:32 PM",12/03/2025 - 14/03/2025,40.5,0.0,0.0
-PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(ii) (D),"February 28, 2025 4:26 PM",14/03/2025 - 18/03/2025,20.0,0.0,0.0
-PIOC,Pioneer Cement Limited,CEMENT,50%(i) (D),"February 28, 2025 4:24 PM",10/03/2025 - 12/03/2025,50.0,0.0,0.0
-AGP,AGP Limited,PHARMACEUTICALS,40%(F) (D),"February 28, 2025 11:04 AM",03/04/2025 - 10/04/2025,40.0,0.0,0.0
-INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,370%(ii) (D),"February 28, 2025 10:58 AM",12/03/2025 - 14/03/2025,370.0,0.0,0.0
-BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,12.50%(F) (D),"February 27, 2025 4:16 PM",20/03/2025 - 27/03/2025,12.5,0.0,0.0
-NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,20%(i) (D),"February 27, 2025 2:56 PM",12/03/2025 - 13/03/2025,20.0,0.0,0.0
-THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,80%(i) (D),"February 27, 2025 12:01 PM",11/03/2025 - 13/03/2025,80.0,0.0,0.0
-UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,20%(i) (D),"February 27, 2025 11:32 AM",11/03/2025 - 13/03/2025,20.0,0.0,0.0
-EFUG,EFU General Insurance Limited,INSURANCE,55%(F) (D),"February 26, 2025 4:17 PM",19/03/2025 - 25/03/2025,55.0,0.0,0.0
-SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,255%(i) (D),"February 26, 2025 3:58 PM",10/03/2025 - 12/03/2025,255.0,0.0,0.0
-CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"February 26, 2025 3:11 PM",16/04/2025 - 22/04/2025,10.0,0.0,0.0
-NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(i) (D),"February 26, 2025 3:08 PM",11/03/2025 - 12/03/2025,10.0,0.0,0.0
-HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(i) (D),"February 26, 2025 12:53 PM",11/03/2025 - 13/03/2025,50.0,0.0,0.0
-CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,25% (B),"February 26, 2025 12:52 PM",12/03/2025 - 18/03/2025,0.0,25.0,0.0
-JLICL,Jubilee Life Insurance Company Limited,INSURANCE,100%(F) (D),"February 26, 2025 12:49 PM",26/03/2025 - 07/04/2025,100.0,0.0,0.0
-KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,45%(i) (D),"February 25, 2025 4:14 PM",12/03/2025 - 14/03/2025,45.0,0.0,0.0
-GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(i) (D),"February 25, 2025 4:13 PM",11/03/2025 - 13/03/2025,10.0,0.0,0.0
-EFUL,EFU Life Assurance Limited,INSURANCE,105%(F) (D),"February 25, 2025 4:08 PM",19/03/2025 - 25/03/2025,105.0,0.0,0.0
-MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,9.85% AT A PREMIUM RS.35/- PER SHARE (R),"February 25, 2025 3:52 PM",12/03/2025 - 18/03/2025,0.0,0.0,0.0
-AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(i) (D),"February 25, 2025 12:02 PM",07/03/2025 - 10/03/2025,10.0,0.0,0.0
-NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,40%(i) (D),"February 25, 2025 11:49 AM",07/03/2025 - 11/03/2025,40.0,0.0,0.0
-SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,100%(ii) (D),"February 24, 2025 4:25 PM",10/03/2025 - 12/03/2025,100.0,0.0,0.0
-AKBL,Askari Bank Limited,COMMERCIAL BANKS,30%(F) (D),"February 24, 2025 4:18 PM",18/03/2025 - 24/03/2025,30.0,0.0,0.0
-PNSC,Pakistan National Shipping Corporation,TRANSPORT,100%(i) (D),"February 24, 2025 12:27 PM",05/03/2025 - 07/03/2025,100.0,0.0,0.0
-ALTN,Altern Energy Limited,POWER GENERATION & DISTRIBUTION,97%(i) (D),"February 21, 2025 5:00 PM",03/03/2025 - 05/03/2025,97.0,0.0,0.0
-SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,55%(F) (D),"February 21, 2025 4:59 PM",18/03/2025 - 27/03/2025,55.0,0.0,0.0
-RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(F) (D),"February 21, 2025 4:57 PM",18/04/2025 - 24/04/2025,1000.0,0.0,0.0
-TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,20%(i) (D),"February 21, 2025 4:55 PM",06/03/2025 - 10/03/2025,20.0,0.0,0.0
-CHCC,Cherat Cement Company Limited,CEMENT,15%(i) (D),"February 21, 2025 2:43 PM",03/03/2025 - 04/03/2025,15.0,0.0,0.0
-DYNO,Dynea Pakistan Limited,CHEMICAL,100%(i) (D),"February 21, 2025 2:41 PM",05/03/2025 - 07/03/2025,100.0,0.0,0.0
-MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,120%(ii) (D),"February 21, 2025 2:40 PM",27/02/2025 - 28/02/2025,120.0,0.0,0.0
-HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,DIVIDEND =1100%(F),"February 20, 2025 3:48 PM",02/04/2025 - 08/04/2025,0.0,0.0,0.0
-ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,100%(F) (D),"February 20, 2025 3:45 PM",16/04/2025 - 23/04/2025,100.0,0.0,0.0
-CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 20, 2025 3:39 PM",28/02/2025 - 03/03/2025,10.0,0.0,0.0
-FABL,Faysal Bank Limited,COMMERCIAL BANKS,25%(F) (D),"February 20, 2025 3:26 PM",19/03/2025 - 25/03/2025,25.0,0.0,0.0
-HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,45%(F) (D),"February 20, 2025 3:24 PM",21/03/2025 - 28/03/2025,45.0,0.0,0.0
-BWCL,Bestway Cement Limited,CEMENT,80%(ii) (D),"February 19, 2025 4:03 PM",03/03/2025 - 05/03/2025,80.0,0.0,0.0
-HBL,Habib Bank Limited,COMMERCIAL BANKS,42.5%(F) (D),"February 19, 2025 3:45 PM",19/03/2025 - 26/03/2025,42.5,0.0,0.0
-UBL,United Bank Limited,COMMERCIAL BANKS,110%(F) (D),"February 19, 2025 3:42 PM",13/03/2025 - 19/03/2025,110.0,0.0,0.0
-MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,450%(i) (D),"February 19, 2025 3:39 PM",05/03/2025 - 07/03/2025,450.0,0.0,0.0
-DOL,Descon Oxychem Limited,CHEMICAL,20%(i) (D),"February 19, 2025 3:35 PM",05/03/2025 - 07/03/2025,20.0,0.0,0.0
-BOP,The Bank of Punjab,COMMERCIAL BANKS,18%(F) (D),"February 17, 2025 3:51 PM",19/03/2025 - 25/03/2025,18.0,0.0,0.0
-CENI,Century Insurance Company Limited,INSURANCE,60%(F) (D),"February 17, 2025 3:47 PM",22/04/2025 - 29/04/2025,60.0,0.0,0.0
-ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,25%(F) (D),"February 14, 2025 4:16 PM",16/04/2025 - 22/04/2025,25.0,0.0,0.0
-ICL,Ittehad Chemicals Limted,CHEMICAL,20%(i) (D),"February 14, 2025 4:11 PM",01/03/2025 - 03/03/2025,20.0,0.0,0.0
-FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,28%(F) (D),"February 14, 2025 4:02 PM",15/04/2025 - 21/04/2025,28.0,0.0,0.0
-NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,300%(F) (D),"February 13, 2025 3:32 PM",15/04/2025 - 22/04/2025,300.0,0.0,0.0
-MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(F) (D),"February 13, 2025 3:30 PM",24/03/2025 - 27/03/2025,70.0,0.0,0.0
-NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(i) (D),"February 13, 2025 3:27 PM",01/03/2025 - 03/03/2025,20.0,0.0,0.0
-EFERT,Engro Fertilizers Limited,FERTILIZER,80%(F) (D),"February 10, 2025 3:39 PM",18/03/2025 - 24/03/2025,80.0,0.0,0.0
-SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",DIVIDEND =6%(i),"February 7, 2025 5:12 PM",18/02/2025 - 20/02/2025,0.0,0.0,0.0
-SNBL,Soneri Bank Limited,COMMERCIAL BANKS,17.50%(i) (D),"February 7, 2025 5:07 PM",07/03/2025 - 13/03/2025,17.5,0.0,0.0
-MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(F) (D),"February 6, 2025 4:25 PM",18/03/2025 - 27/03/2025,90.0,0.0,0.0
-HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,150%(F) (D),"February 6, 2025 4:23 PM",13/03/2025 - 20/03/2025,150.0,0.0,0.0
-MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,35%(i) (D),"February 6, 2025 4:18 PM",18/02/2025 - 20/02/2025,35.0,0.0,0.0
-ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(F) (D),"February 4, 2025 3:55 PM",17/03/2025 - 24/03/2025,40.0,0.0,0.0
-BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,60%(ii) (D),"February 4, 2025 3:52 PM",12/02/2025 - 14/02/2025,60.0,0.0,0.0
-THCCL,Thatta Cement Company Limited,CEMENT,5%(ii) (D),"February 3, 2025 3:35 PM",10/02/2025 - 12/02/2025,5.0,0.0,0.0
-CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,20%(i) (D),"January 31, 2025 4:51 PM",14/02/2025 - 18/02/2025,20.0,0.0,0.0
-BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,65%(F) (D),"January 30, 2025 4:05 PM",17/02/2025 - 27/02/2025,65.0,0.0,0.0
-BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(F) (D),"January 30, 2025 4:00 PM",12/03/2025 - 20/03/2025,25.0,0.0,0.0
-FFC,Fauji Fertilizer Company Limited,FERTILIZER,210%(F) (D),"January 29, 2025 3:36 PM",23/03/2025 - 25/03/2025,210.0,0.0,0.0
-LCI,Lucky Core Industries Limited,CHEMICAL,340%(i) (D),"January 28, 2025 3:07 PM",10/02/2025 - 12/02/2025,340.0,0.0,0.0
-POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,250%(i) (D),"January 27, 2025 4:28 PM",10/02/2025 - 12/02/2025,250.0,0.0,0.0
-ATRL,Attock Refinery Limited,REFINERY,50%(I) (D),"January 27, 2025 4:25 PM",10/02/2025 - 12/02/2025,50.0,0.0,0.0
-APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,125%(i) (D),"January 27, 2025 4:17 PM",10/02/2025 - 12/02/2025,125.0,0.0,0.0
-COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,320%(i) (D),"January 27, 2025 4:13 PM",07/02/2025 - 09/02/2025,320.0,0.0,0.0
-PECO,Pakistan Engineering Company Limited,ENGINEERING,50% At a Premium Rs. 90/- Per Share (R),"January 21, 2025 3:25 PM",-,0.0,0.0,0.0
-OBOY,Oilboy Energy Limited,OIL & GAS MARKETING COMPANIES,= 100% (R),"January 16, 2025 3:58 PM",18/03/2025 - 24/03/2025,0.0,0.0,100.0
-DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,5.5%(ii) (D),"January 7, 2025 4:15 PM",17/01/2025 - 19/01/2025,5.5,0.0,0.0
-ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(F) (D),"January 6, 2025 3:23 PM",18/01/2025 - 28/01/2025,15.0,0.0,0.0
-JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,300%(F) (D),"January 3, 2025 5:41 PM",22/01/2025 - 28/01/2025,300.0,0.0,0.0
-AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(F) (D),"January 2, 2025 3:51 PM",22/01/2025 - 28/01/2025,250.0,0.0,0.0
-JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,27.322%(ii) (D),"January 1, 2025 4:04 PM",13/01/2025 - 14/01/2025,27.322,0.0,0.0
-JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,25%(i) (D),"January 1, 2025 4:03 PM",10/01/2025 - 10/01/2025,25.0,0.0,0.0
-HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(F) (D),"December 11, 2024 3:46 PM",14/01/2025 - 23/01/2025,120.0,0.0,0.0
-EWIC,East West Insurance Company Limited,INSURANCE,15% (R),"November 22, 2024 5:08 PM",30/11/2024 - 02/12/2024,0.0,0.0,15.0
-LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,5%(F) (D),"November 20, 2024 4:18 PM",20/11/2024 - 27/11/2024,5.0,0.0,0.0
-TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,20.203% AT A PREMIUM OF Rs.17/= PER SHARE (R),"November 18, 2024 4:03 PM",-,0.0,0.0,0.0
-FRSM,Faran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,58% AT A PREMIUM OF Rs.35/= PER SHARE (R),"November 13, 2024 4:36 PM",22/11/2024 - 29/11/2024,0.0,0.0,0.0
-NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,50%(I) (D),"November 13, 2024 4:33 PM",25/11/2024 - 26/11/2024,50.0,0.0,0.0
-LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"November 5, 2024 4:34 PM",20/11/2024 - 27/11/2024,10.0,0.0,0.0
-AHCL,Arif Habib Corporation Limited,FERTILIZER,70%(F) (D),"November 5, 2024 11:33 AM",13/11/2024 - 15/11/2024,70.0,0.0,0.0
-LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,5%(F) (D),"November 4, 2024 4:38 PM",20/11/2024 - 27/11/2024,5.0,0.0,0.0
+symbol,company,sector,announcement,announced_at,book_closure,cash_pct,bonus_pct,right_pct,cash_rs
+SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,50%(F) (D),"October 6, 2026 3:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+IMAGE,Image Pakistan Limited,APPAREL,10%(F) (D),"October 6, 2026 3:39 PM",23/10/2026 - 30/10/2026,10.0,0.0,0.0,0.0
+HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,50%)F) (D),"October 6, 2026 3:07 PM",21/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+MSOTPS,Masood Textile (Pref),APPAREL,1.29% (D),"October 5, 2026 3:52 PM",20/10/2026 - 27/10/2026,1.29,0.0,0.0,0.0
+BFMOD,B.F. Modaraba,MODARABAS,5%(F) (D),"October 5, 2026 3:41 PM",22/10/2026 - 28/10/2026,5.0,0.0,0.0,0.0
+AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,7.50%(F) (D),"October 5, 2026 3:40 PM",21/10/2026 - 28/10/2026,7.5,0.0,0.0,0.0
+GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,30%(F) (D),"October 5, 2026 3:29 PM",19/10/2026 - 26/10/2026,30.0,0.0,0.0,0.0
+DIIL,Diamond Industries Limited,MISCELLANEOUS,10%(F) (D),"October 2, 2026 4:40 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0,0.0
+CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,15% (B),"October 1, 2026 4:07 PM",09/10/2026 - 09/10/2026,0.0,15.0,0.0,0.0
+FZCM,Fazal Cloth Mills Limited,TEXTILE COMPOSITE,150%(F) (D),"October 1, 2026 4:01 PM",22/10/2026 - 28/10/2026,150.0,0.0,0.0,0.0
+KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,15%(F) (D),"October 1, 2026 4:00 PM",21/10/2026 - 27/10/2026,15.0,0.0,0.0,0.0
+SMCPL,Safe Mix Concrete Limited,CEMENT,30%(F) (D),"October 1, 2026 3:57 PM",20/10/2026 - 27/10/2026,30.0,0.0,0.0,0.0
+ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"September 30, 2026 4:03 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0,0.0
+MSOT,Masood Textile Mills Limited,APPAREL,10%(F) (D),"September 30, 2026 3:50 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0,0.0
+HAFL,Hafiz Limited,TEXTILE COMPOSITE,10%(F) (D),"September 30, 2026 3:46 PM",15/10/2026 - 22/10/2026,10.0,0.0,0.0,0.0
+NML,Nishat Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"September 30, 2026 3:29 PM",21/10/2026 - 28/10/2026,20.0,0.0,0.0,0.0
+AHCL,Arif Habib Corporation Limited,FERTILIZER,125%(F) (D),"September 30, 2026 3:24 PM",21/10/2026 - 28/10/2026,125.0,0.0,0.0,0.0
+SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,10%(F) (D),"September 30, 2026 3:22 PM",17/10/2026 - 23/10/2026,10.0,0.0,0.0,0.0
+UDLI,UDL International Limited,MISCELLANEOUS,12.50%(F) (D),"September 29, 2026 3:44 PM",22/10/2026 - 28/10/2026,12.5,0.0,0.0,0.0
+FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,55%(F) (D),"September 29, 2026 3:37 PM",21/10/2026 - 28/10/2026,55.0,0.0,0.0,0.0
+NETSOL,NetSol Technologies Limited,TECHNOLOGY & COMMUNICATION,15%(F) (D),"September 29, 2026 3:27 PM",22/10/2026 - 28/10/2026,15.0,0.0,0.0,0.0
+GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,6%(F) (D),"September 29, 2026 3:22 PM",19/10/2026 - 26/10/2026,6.0,0.0,0.0,0.0
+NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,60%(F) (D),"September 29, 2026 2:56 PM",22/10/2026 - 28/10/2026,60.0,0.0,0.0,0.0
+PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,25%(F) (D),"September 29, 2026 2:56 PM",22/10/2026 - 28/10/2026,25.0,0.0,0.0,0.0
+ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,50%(F) (D),"September 29, 2026 2:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+SITC,Sitara Chemical Industries Limited,CHEMICAL,130%(F) (D),"September 29, 2026 12:46 PM",21/10/2026 - 27/10/2026,130.0,0.0,0.0,0.0
+SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,100%(F) (D),"September 28, 2026 4:04 PM",15/10/2026 - 22/10/2026,100.0,0.0,0.0,0.0
+SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,135%(F) (D),"September 28, 2026 4:03 PM",21/10/2026 - 27/10/2026,135.0,0.0,0.0,0.0
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,10%(F) (D),"September 28, 2026 4:02 PM",09/10/2026 - 23/10/2026,10.0,0.0,0.0,0.0
+FIMM,First Imrooz Modaraba,MODARABAS,100%(F) (D),"September 28, 2026 4:01 PM",14/10/2026 - 27/10/2026,100.0,0.0,0.0,0.0
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,10%(F) (D),"September 28, 2026 4:00 PM",16/10/2026 - 23/10/2026,10.0,0.0,0.0,0.0
+SARC,Sardar Chemical Industries Limited,CHEMICAL,15%(F) (D),"September 28, 2026 3:59 PM",22/10/2026 - 28/10/2026,15.0,0.0,0.0,0.0
+STYLERS,Stylers International Limited,APPAREL,7.50%(F) (D),"September 28, 2026 3:56 PM",20/10/2026 - 27/10/2026,7.5,0.0,0.0,0.0
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,100%(F) (D),"September 28, 2026 3:49 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0,0.0
+PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,100%(F) (D),"September 25, 2026 5:06 PM",21/10/2026 - 28/10/2026,100.0,0.0,0.0,0.0
+SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,100%(F) (D),"September 25, 2026 5:00 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0,0.0
+SEARL,The Searle Company Limited,PHARMACEUTICALS,10%(F) (D),"September 25, 2026 4:56 PM",15/10/2026 - 22/10/2026,10.0,0.0,0.0,0.0
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,12.5%(F) (D),"September 25, 2026 4:50 PM",22/10/2026 - 28/10/2026,12.5,0.0,0.0,0.0
+ORM,Orient Rental Mod,MODARABAS,DIVIDEND =12%(F),"September 25, 2026 4:45 PM",20/10/2026 - 27/10/2026,12.0,0.0,0.0,0.0
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,5% (B),"September 25, 2026 4:42 PM",03/11/2026 - 03/11/2026,0.0,5.0,0.0,0.0
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"September 25, 2026 4:40 PM",21/10/2026 - 28/10/2026,10.0,0.0,0.0,0.0
+PINL,Premier Insurance Limited,INSURANCE,40% (R),"September 24, 2026 3:49 PM",-,0.0,0.0,40.0,0.0
+STJT,Shahtaj Textile Limited,TEXTILE WEAVING,115%(F) (D),"September 24, 2026 3:47 PM",19/10/2026 - 28/10/2026,115.0,0.0,0.0,0.0
+SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,100%(F) (D),"September 24, 2026 3:45 PM",22/10/2026 - 28/10/2026,100.0,0.0,0.0,0.0
+BIFO,Biafo Industries Limited,CHEMICAL,25%(F) (D),"September 24, 2026 3:37 PM",16/10/2026 - 23/10/2026,25.0,0.0,0.0,0.0
+STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,2.5%(F) (D),"September 24, 2026 2:51 PM",22/10/2026 - 28/10/2026,2.5,0.0,0.0,0.0
+SINDM,Sindh Modaraba,MODARABAS,14%(F) (D),"September 24, 2026 2:45 PM",13/10/2026 - 20/10/2026,14.0,0.0,0.0,0.0
+BERG,Berger Paints Pakistan Limited,CHEMICAL,50%(F) (D),"September 23, 2026 3:51 PM",16/10/2026 - 23/10/2026,50.0,0.0,0.0,0.0
+TCORPCPS,Tariq Corporation Limited(Pref),SUGAR & ALLIED INDUSTRIES,10%(F) (D),"September 23, 2026 3:47 PM",30/09/2026 - 30/09/2026,10.0,0.0,0.0,0.0
+WAHN,Wah Noble Chemicals Limited,CHEMICAL,50%(F) (D),"September 23, 2026 3:44 PM",21/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+ICL,Ittehad Chemicals Limted,CHEMICAL,30%(F) (D),"September 22, 2026 3:14 PM",21/10/2026 - 28/10/2026,30.0,0.0,0.0,0.0
+HTL,Hi-Tech Lubricants Limited,OIL & GAS MARKETING COMPANIES,11.50%(F) (D),"September 21, 2026 3:42 PM",21/10/2026 - 27/10/2026,11.5,0.0,0.0,0.0
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,30%(F) (D),"September 18, 2026 4:50 PM",16/10/2026 - 23/10/2026,30.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,100%(F) (D),"September 18, 2026 4:47 PM",19/10/2026 - 26/10/2026,100.0,0.0,0.0,0.0
+GOC,GOC (Pak) Limited.,MISCELLANEOUS,20%(F) (D),"September 18, 2026 4:46 PM",07/10/2026 - 14/10/2026,20.0,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,145%(F) (D),"September 18, 2026 4:44 PM",16/10/2026 - 23/10/2026,145.0,0.0,0.0,0.0
+GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,120%(F) (D),"September 17, 2026 3:55 PM",06/10/2026 - 13/10/2026,120.0,0.0,0.0,0.0
+GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,120%(F) (D),"September 17, 2026 3:49 PM",06/10/2026 - 13/10/2026,120.0,0.0,0.0,0.0
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,40%(F) (D),"September 17, 2026 3:47 PM",15/10/2026 - 22/10/2026,40.0,0.0,0.0,0.0
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,220%(F) (D),"September 16, 2026 3:47 PM",20/10/2026 - 27/10/2026,220.0,0.0,0.0,0.0
+OLPM,OLP Modaraba,MODARABAS,25%(F) (D),"September 15, 2026 3:01 PM",21/10/2026 - 28/10/2026,25.0,0.0,0.0,0.0
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(F) (D),"September 15, 2026 2:59 PM",22/10/2026 - 28/10/2026,10.0,0.0,0.0,0.0
+MUGHALC,Mughal Iron & Steel Industries Ltd(C),ENGINEERING,20%(F) (D),"September 15, 2026 2:57 PM",20/10/2026 - 28/10/2026,20.0,0.0,0.0,0.0
+MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,20%(F) (D),"September 15, 2026 2:55 PM",20/10/2026 - 28/10/2026,20.0,0.0,0.0,0.0
+JVDCPS,Javedan Corporation (Pref),PROPERTY,12%(F) (D),"September 15, 2026 2:52 PM",30/09/2026 - 17/10/2026,12.0,0.0,0.0,0.0
+JVDC,Javedan Corporation Limited,PROPERTY,60%(F) (D),"September 15, 2026 2:49 PM",30/09/2026 - 17/10/2026,60.0,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,60%(F) (D),"September 15, 2026 11:34 AM",21/10/2026 - 19/10/2026,60.0,0.0,0.0,0.0
+GCIL,Ghani Chemical Industries Limited,CHEMICAL,20.04% (R),"September 15, 2026 11:28 AM",-,0.0,0.0,20.04,0.0
+ARPL,Archroma Pakistan Limited,CHEMICAL,450%(i) (D),"September 15, 2026 11:27 AM",24/09/2026 - 24/09/2026,450.0,0.0,0.0,0.0
+IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,1.45%(i) (D),"September 15, 2026 11:24 AM",15/09/2026 - 16/09/2026,1.45,0.0,0.0,0.0
+LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,= 58.89% (R),"September 15, 2026 11:22 AM",-,0.0,0.0,58.89,0.0
+ECOP,Ecopack Limited,MISCELLANEOUS,30%(F) (D),"September 15, 2026 11:21 AM",15/10/2026 - 28/10/2026,30.0,0.0,0.0,0.0
+SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,50%(F) (D),"September 15, 2026 11:19 AM",16/10/2026 - 24/10/2026,50.0,0.0,0.0,0.0
+CENI,Century Insurance Company Limited,INSURANCE,= 81% (R),"September 11, 2026 4:51 PM",-,0.0,0.0,81.0,0.0
+BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,20% (B),"September 11, 2026 3:57 PM",22/09/2026 - 22/09/2026,0.0,20.0,0.0,0.0
+BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,10%(F) (D),"September 11, 2026 3:55 PM",09/10/2026 - 15/10/2026,10.0,0.0,0.0,0.0
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,15%(F) (D),"September 11, 2026 3:52 PM",20/10/2026 - 26/10/2026,15.0,0.0,0.0,0.0
+NRSL,Nimir Resins Limited,CHEMICAL,15%(F) (D),"September 11, 2026 3:51 PM",07/10/2026 - 13/10/2026,15.0,0.0,0.0,0.0
+ILP,Interloop Limited,TEXTILE COMPOSITE,20%(F) (D),"September 10, 2026 3:35 PM",07/10/2026 - 14/10/2026,20.0,0.0,0.0,0.0
+IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",20%(F) (D),"September 10, 2026 3:33 PM",19/10/2026 - 26/10/2026,20.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(F) (D),"September 10, 2026 12:06 PM",13/10/2026 - 19/10/2026,20.0,0.0,0.0,0.0
+DYNO,Dynea Pakistan Limited,CHEMICAL,185%(F) (D),"September 10, 2026 12:04 PM",15/10/2026 - 22/10/2026,185.0,0.0,0.0,0.0
+PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",80%(F) (D),"September 10, 2026 12:02 PM",19/10/2026 - 12/10/2026,80.0,0.0,0.0,0.0
+JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 10, 2026 11:54 AM",30/09/2026 - 07/10/2026,20.0,0.0,0.0,0.0
+BAPL,Bawany Air Products Limited,CHEMICAL,98.965% (R),"September 10, 2026 11:51 AM",-,0.0,0.0,98.965,0.0
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,300% (F) (D),"September 8, 2026 1:02 PM",-,300.0,0.0,0.0,0.0
+PRET,Premium Textile Mills Limited,TEXTILE SPINNING,150% (F) (D),"September 8, 2026 1:00 PM",21/10/2026 - 28/10/2026,150.0,0.0,0.0,0.0
+IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,0.85% (F) (D),"September 8, 2026 12:59 PM",15/09/2026 - 16/09/2026,0.85,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,60% (F) (D),"September 8, 2026 12:51 PM",09/10/2026 - 16/10/2026,60.0,0.0,0.0,0.0
+PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,20% (F) (D),"September 8, 2026 12:50 PM",14/10/2026 - 20/10/2026,20.0,0.0,0.0,0.0
+DOL,Descon Oxychem Limited,CHEMICAL,20% (F) (D) - 20% (F) (D),"September 8, 2026 12:28 PM",13/10/2026 - 13/10/2026 - 20/10/2026 - 20/10/2026,40.0,0.0,0.0,0.0
+AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,100% (F) (D),"September 8, 2026 12:00 PM",16/10/2026 - 22/10/2026,100.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,470%(F) (D),"August 31, 2026 3:51 PM",22/09/2026 - 28/09/2026,470.0,0.0,0.0,0.0
+ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,50%(F) (D),"August 28, 2026 4:52 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+BOP,The Bank of Punjab,COMMERCIAL BANKS,16%(i) (D),"August 28, 2026 4:48 PM",11/09/2026 - 13/09/2026,16.0,0.0,0.0,0.0
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,30%(ii) (D),"August 28, 2026 4:42 PM",09/09/2026 - 09/09/2026,30.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,350%(ii) (D),"August 27, 2026 4:00 PM",08/09/2026 - 0/09//2026,350.0,0.0,0.0,0.0
+AICL,Adamjee Insurance Company Limited,INSURANCE,30%(i) (D),"August 27, 2026 3:48 PM",09/09/2026 - 11/09/2026,30.0,0.0,0.0,0.0
+DGKC,D.G. Khan Cement Company Limited,CEMENT,10%(F) (D),"August 27, 2026 3:20 PM",20/10/2026 - 27/10/2026,10.0,0.0,0.0,0.0
+ATIL,Atlas Insurance Limited,INSURANCE,25%(i) (D),"August 27, 2026 3:17 PM",07/09/2026 - 09/09/2026,25.0,0.0,0.0,0.0
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(F) (D),"August 27, 2026 3:13 PM",22/10/2026 - 28/10/2026,10.0,0.0,0.0,0.0
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,100%(i) (D),"August 27, 2026 3:11 PM",08/09/2026 - 09/09/2026,100.0,0.0,0.0,0.0
+PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"August 27, 2026 3:07 PM",30/09/2026 - 06/10/2026,10.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(F) (D),"August 27, 2026 12:50 PM",13/10/2026 - 20/10/2026,50.0,0.0,0.0,0.0
+ATRL,Attock Refinery Limited,REFINERY,150%(F) (D),"August 27, 2026 12:42 PM",13/10/2026 - 19/10/2026,150.0,0.0,0.0,0.0
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,725%(F) (D),"August 27, 2026 12:39 PM",13/10/2026 - 19/10/2026,725.0,0.0,0.0,0.0
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,400%(F) (D),"August 27, 2026 11:40 AM",13/10/2026 - 19/10/2026,400.0,0.0,0.0,0.0
+IGIHL,IGI Holdings Limited,INSURANCE,25%(i) (D),"August 25, 2026 3:47 PM",07/09/2026 - 08/10/2026,25.0,0.0,0.0,0.0
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,10%(i) (D),"August 25, 2026 3:41 PM",07/09/2026 - 08/09/2026,10.0,0.0,0.0,0.0
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,70%(i) (D),"August 25, 2026 3:39 PM",03/09/2026 - 04/09/2026,70.0,0.0,0.0,0.0
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(F) (D),"August 25, 2026 3:37 PM",19/09/2026 - 26/09/2026,100.0,0.0,0.0,0.0
+AGP,AGP Limited,PHARMACEUTICALS,20%(i) (D),"August 24, 2026 4:08 PM",03/09/2026 - 04/09/2026,20.0,0.0,0.0,0.0
+AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,125%(F) (D),"August 24, 2026 3:54 PM",19/09/2026 - 25/09/2026,125.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,15%(ii) (D),"August 21, 2026 5:09 PM",01/09/2026 - 01/09/2026,15.0,0.0,0.0,0.0
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,30%(i) (D),"August 21, 2026 5:08 PM",04/09/2026 - 08/09/2026,30.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,42.857% (R),"August 21, 2026 5:01 PM",-,0.0,0.0,42.857,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,15%(ii) (D),"August 21, 2026 4:59 PM",01/09/2026 - 01/09/2026,15.0,0.0,0.0,0.0
+INIL,International Industries Limited,ENGINEERING,50%(F) (D),"August 21, 2026 3:55 PM",29/09/2026 - 07/10/2026,50.0,0.0,0.0,0.0
+CHCC,Cherat Cement Company Limited,CEMENT,40%(F) (D),"August 21, 2026 3:52 PM",06/10/2026 - 13/10/2026,40.0,0.0,0.0,0.0
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,800%(ii) (D),"August 20, 2026 3:50 PM",03/09/2026 - 04/09/2026,800.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(ii) (D),"August 20, 2026 3:47 PM",01/09/2026 - 03/09/2026,35.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,600%(ii) (D),"August 20, 2026 3:43 PM",03/09/2026 - 05/09/2026,600.0,0.0,0.0,0.0
+GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,40%(F) (D),"August 20, 2026 3:42 PM",06/10/2026 - 08/10/2026,40.0,0.0,0.0,0.0
+ISL,International Steels Limited,ENGINEERING,30%(F) (D),"August 20, 2026 3:40 PM",29/09/2026 - 05/10/2026,30.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(ii) (D),"August 19, 2026 3:56 PM",31/08/2026 - 02/09/2026,40.0,0.0,0.0,0.0
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,15%(i) (D),"August 19, 2026 3:53 PM",02/09/2026 - 04/09/2026,15.0,0.0,0.0,0.0
+ASLCPS,Aisha Steel Convt (Pref) Right,ENGINEERING,Rs. 8.25 (D),"August 19, 2026 3:50 PM",16/10/2026 - 23/10/2026,0.0,0.0,0.0,8.25
+ASLPS,Aisha Steel Convertible (Pref),ENGINEERING,Rs. 7.76 (D),"August 19, 2026 3:49 PM",16/10/2026 - 23/10/2026,0.0,0.0,0.0,7.76
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,30%(i) (D) - 50% (B),"August 18, 2026 3:55 PM",28/08/2026 - 28/08/2026,30.0,50.0,0.0,0.0
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",30%(F) (D),"August 18, 2026 3:46 PM",01/10/2026 - 08/10/2026,30.0,0.0,0.0,0.0
+FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,15%(F) (D),"August 18, 2026 3:44 PM",16/10/2026 - 22/10/2026,15.0,0.0,0.0,0.0
+CENI,Century Insurance Company Limited,INSURANCE,80%(i) (D),"August 18, 2026 3:41 PM",01/09/2026 - 03/09/2026,80.0,0.0,0.0,0.0
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",10%(F) (D),"August 18, 2026 3:36 PM",03/10/2026 - 09/10/2026,10.0,0.0,0.0,0.0
+FECTC,Fecto Cement Limited,CEMENT,40%(F) (D),"August 17, 2026 3:47 PM",16/10/2026 - 26/10/2026,40.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(ii) (D),"August 13, 2026 3:24 PM",25/08/2026 - 27/08/2026,25.0,0.0,0.0,0.0
+FCCL,Fauji Cement Company Limited,CEMENT,15%(F) (D),"August 11, 2026 4:09 PM",22/08/2026 - 28/08/2026,15.0,0.0,0.0,0.0
+LUCK,Lucky Cement Limited,CEMENT,250%(F) (D),"August 10, 2026 4:15 PM",18/09/2026 - 25/09/2026,250.0,0.0,0.0,0.0
+MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,187%(F) (D),"August 7, 2026 4:30 PM",22/09/2026 - 25/09/2026,187.0,0.0,0.0,0.0
+FHAM,First Habib Modaraba,MODARABAS,22.5%(F) (D),"August 6, 2026 3:43 PM",01/10/2026 - 09/10/2026,22.5,0.0,0.0,0.0
+TATM,Tata Textile Mills Limited,TEXTILE SPINNING,90%(F) (D),"August 6, 2026 3:42 PM",22/10/2026 - 27/10/2026,90.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(ii) (D),"August 6, 2026 3:39 PM",19/08/2026 - 20/08/2026,90.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,80(ii) (D),"August 6, 2026 3:37 PM",19/08/2026 - 20/08/2026,80.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(ii) (D),"August 6, 2026 3:34 PM",20/08/2026 - 22/08/2026,15.0,0.0,0.0,0.0
+GADT,Gadoon Textile Mills Limited,TEXTILE SPINNING,50%(F) (D),"August 5, 2026 10:06 AM",21/09/2026 - 28/09/2026,50.0,0.0,0.0,0.0
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,40%(F) (D),"August 5, 2026 10:04 AM",22/10/2026 - 28/10/2026,40.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,60% (ii) (D),"August 4, 2026 2:44 PM",17/08/2026 - 18/08/2026,60.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,350% (iii) (D),"August 4, 2026 2:34 PM",17/08/2026 - 19/08/2026,350.0,0.0,0.0,0.0
+LCI,Lucky Core Industries Limited,CHEMICAL,262.5% (F) (D),"August 4, 2026 2:31 PM",19/09/2026 - 25/09/2026,262.5,0.0,0.0,0.0
+COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,DIVIDEND =350% (F),"August 3, 2026 2:29 PM",17/09/2026 - 24/09/2026,350.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(ii) (D),"July 31, 2026 4:20 PM",13/08/2026 - 18/08/2026,20.0,0.0,0.0,0.0
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,35%(F) (D),"July 31, 2026 4:15 PM",22/10/2026 - 28/10/2026,35.0,0.0,0.0,0.0
+SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",90%(F) (D),"July 30, 2026 4:17 PM",19/25/2026 - 25/09/2026,90.0,0.0,0.0,0.0
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,10%(i) (D),"July 30, 2026 4:14 PM",12/08/2026 - 13/08/2026,10.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(ii) (D),"July 30, 2026 3:53 PM",13/08/2026 - 16/08/2026,30.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,17.5%(ii) (D),"July 30, 2026 3:50 PM",11/08/2026 - 12/08/2026,17.5,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,145%(ii) (D),"July 29, 2026 3:23 PM",11/08/2026 - 13/08/2026,145.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,100%(F) (D),"July 23, 2026 4:18 PM",25/08/2026 - 31/08/2026,100.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2130%(i) (D),"July 23, 2026 4:16 PM",05/08/2026 - 07/08/2026,2130.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,160%(ii) (D),"July 22, 2026 3:47 PM",03/08/2026 - 08/08/2026,160.0,0.0,0.0,0.0
+LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,15%(ii) (D),"July 16, 2026 3:58 PM",27/07/2026 - 29/07/2026,15.0,0.0,0.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.6%(F) (D),"July 15, 2026 4:01 PM",25/07/2026 - 27/07/2026,6.6,0.0,0.0,0.0
+STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,85% (R),"July 15, 2026 3:54 PM",-,0.0,0.0,85.0,0.0
+ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,10% (B),"July 10, 2026 4:54 PM",21/07/2026 - 21/07/2026,0.0,10.0,0.0,0.0
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(i) (D),"July 1, 2026 4:57 PM",04/07/2026 - 07/07/2026,10.0,0.0,0.0,0.0
+HBLTETF,HBL Total Treasury (ETF),EXCHANGE TRADED FUNDS,9.75%(i) (D),"June 29, 2026 4:15 PM",07/07/2026 - 07/07/2026,9.75,0.0,0.0,0.0
+HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,2.10%(i) (D),"June 29, 2026 4:14 PM",07/07/2026 - 07/07/2026,2.1,0.0,0.0,0.0
+HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,6.6%(i) (D),"June 29, 2026 4:14 PM",07/07/2026 - 07/07/2026,6.6,0.0,0.0,0.0
+ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,1.6%(i) (D),"June 29, 2026 4:13 PM",01/07/2026 - 01/07/2026,1.6,0.0,0.0,0.0
+EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,50%(F) (D),"June 29, 2026 4:06 PM",23/07/2026 - 29/07/2026,50.0,0.0,0.0,0.0
+UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,129.111%(i) (D),"June 22, 2026 3:58 PM",30/06/2026 - 30/06/2026,129.111,0.0,0.0,0.0
+MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,35%(i) (D),"June 22, 2026 3:56 PM",29/06/2026 - 29/06/2026,35.0,0.0,0.0,0.0
+NBPGETF,NBP Pakistan Growth ETF,EXCHANGE TRADED FUNDS,53.69%(i) (D),"June 19, 2026 4:55 PM",30/06/2026 - 30/06/2026,53.69,0.0,0.0,0.0
+NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,42.50%(i) (D),"June 19, 2026 4:54 PM",29/06/2026 - 29/06/2026,42.5,0.0,0.0,0.0
+HINO,Hinopak Motors Limited,AUTOMOBILE ASSEMBLER,109%(F) (D),"June 18, 2026 3:52 PM",21/07/2026 - 28/07/2026,109.0,0.0,0.0,0.0
+MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,7.5%(i) (D),"June 15, 2026 4:03 PM",23/06/2026 - 24/06/2026,7.5,0.0,0.0,0.0
+FPRM,First Paramount Modaraba,MODARABAS,= 50% (R),"June 10, 2026 3:51 PM",-,0.0,0.0,50.0,0.0
+TCORPCPS,Tariq Corporation Limited(Pref),SUGAR & ALLIED INDUSTRIES,20%(F) (D),"May 25, 2026 3:45 PM",09/06/2026 - 16/06/2026,20.0,0.0,0.0,0.0
+TCORP,Tariq Corporation Limited,SUGAR & ALLIED INDUSTRIES,23.855376% AT A PREMIUM RS.10/= PER SHARES (R),"May 25, 2026 3:44 PM",-,0.0,0.0,23.855376,0.0
+SGPL,S.G. Power Limited,POWER GENERATION & DISTRIBUTION,= 300% (R),"May 20, 2026 3:57 PM",-,0.0,0.0,300.0,0.0
+HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,90%(F) (D),"May 19, 2026 3:47 PM",16/06/2026 - 29/06/2026,90.0,0.0,0.0,0.0
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,75%(ii) (D),"May 18, 2026 3:54 PM",01/06/2026 - 03/06/2026,75.0,0.0,0.0,0.0
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,5%(ii) (D),"May 15, 2026 4:55 PM",25/05/2026 - 26/05/2026,5.0,0.0,0.0,0.0
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,50%(ii) (D),"May 15, 2026 4:53 PM",25/05/2026 - 26/05/2026,50.0,0.0,0.0,0.0
+CSIL,Crescent Star Insurance Limited,INSURANCE,100% AT A DISCOUNT OF RS. 5/= PER SHARES (R),"May 4, 2026 4:02 PM",-,0.0,0.0,100.0,0.0
+HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,50%(i) (D),"April 30, 2026 3:53 PM",12/05/2026 - 15/05/2026,50.0,0.0,0.0,0.0
+AVN,Avanceon Limited,TECHNOLOGY & COMMUNICATION,10%(F) (D),"April 30, 2026 2:53 PM",16/05/2026 - 23/05/2026,10.0,0.0,0.0,0.0
+ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,560%(F) (D),"April 30, 2026 2:52 PM",16/06/2026 - 29/06/2026,560.0,0.0,0.0,0.0
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,200%(ii) (D),"April 29, 2026 3:58 PM",07/05/2026 - 08/05/2026,200.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,32.50%(iii) (D),"April 29, 2026 3:56 PM",12/05/2026 - 13/05/2026,32.5,0.0,0.0,0.0
+DIIL,Diamond Industries Limited,MISCELLANEOUS,10%(i) (D),"April 29, 2026 3:20 PM",05/05/2026 - 08/05/2026,10.0,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(iii) (D),"April 29, 2026 3:18 PM",14/05/2026 - 18/05/2026,20.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(iii) (D),"April 29, 2026 3:06 PM",08/05/2026 - 12/05/2026,12.5,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,85%(i) (D),"April 29, 2026 2:58 PM",12/05/2026 - 14/05/2026,85.0,0.0,0.0,0.0
+STYLERS,Stylers International Limited,APPAREL,5%(ii) (D),"April 29, 2026 2:56 PM",07/05/2026 - 08/05/2026,5.0,0.0,0.0,0.0
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,30%(ii) (D),"April 29, 2026 2:36 PM",08/05/2026 - 08/05/2026,30.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,350%(ii) (D),"April 29, 2026 9:40 AM",11/05/2026 - 13/05/2026,350.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,80%(iii) (D),"April 28, 2026 4:05 PM",12/05/2026 - 14/05/2026,80.0,0.0,0.0,0.0
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"April 28, 2026 4:03 PM",11/05/2026 - 12/05/2026,15.0,0.0,0.0,0.0
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"April 28, 2026 4:02 PM",11/05/2026 - 12/05/2026,15.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,3310%(i) (D),"April 28, 2026 4:00 PM",11/05/2026 - 13/05/2026,3310.0,0.0,0.0,0.0
+GWLC,Gharibwal Cement Limited,CEMENT,5%(ii) (D),"April 28, 2026 2:50 PM",07/05/2026 - 17/05/2026,5.0,0.0,0.0,0.0
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"April 27, 2026 3:57 PM",11/05/2026 - 13/05/2026,20.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(i) (D),"April 27, 2026 3:54 PM",08/05/2026 - 12/05/2026,20.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,10%(iii) (D),"April 27, 2026 3:52 PM",06/05/2026 - 08/05/2026,10.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,510%(iii) (D),"April 27, 2026 3:50 PM",08/05/2026 - 12/05/2026,510.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,15%(i) (D),"April 24, 2026 4:37 PM",05/05/2026 - 05/05/2026,15.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(i) (D) - 25%(i) (D),"April 24, 2026 4:35 PM",06/05/2026 - 06/05/2026 - 08/05/2026 - 08/05/2026,50.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"April 24, 2026 9:45 AM",05/05/2026 - 05/05/2026,15.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(i) (D),"April 23, 2026 4:04 PM",05/05/2026 - 07/05/2026,35.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(i) (D),"April 23, 2026 3:56 PM",06/05/2026 - 08/05/2026,90.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,75%(i) (D),"April 23, 2026 3:51 PM",06/05/2026 - 07/05/2026,75.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(i) (D),"April 23, 2026 3:49 PM",06/05/2026 - 07/05/2026,30.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(i) (D),"April 23, 2026 3:46 PM",01/05/2026 - 03/05/2026,15.0,0.0,0.0,0.0
+ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,10%(i) (D),"April 22, 2026 4:02 PM",04/05/2026 - 06/05/2026,10.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(iii) (D),"April 22, 2026 12:35 PM",06/05/2026 - 08/05/2026,50.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(i) (D),"April 21, 2026 3:41 PM",04/05/2026 - 06/05/2026,40.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,20%(i) (D),"April 20, 2026 3:41 PM",05/05/2026 - 06/05/2026,20.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,200%(iii) (D),"April 20, 2026 2:40 PM",01/05/2026 - 03/05/2026,200.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,60%(i) (D),"April 17, 2026 5:10 PM",29/04/2026 - 30/04/2026,60.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,940% (D),"April 17, 2026 5:04 PM",28/04/2026 - 29/04/2026,940.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,100%(iii) (D),"April 16, 2026 3:50 PM",24/04/2026 - 27/04/2026,100.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,160%(i) (D),"April 15, 2026 3:51 PM",24/04/2026 - 27/04/2026,160.0,0.0,0.0,0.0
+ACPL,Attock Cement Pakistan Limited,CEMENT,5%(i) (D),"April 10, 2026 4:54 PM",17/04/2026 - 21/04/2026,5.0,0.0,0.0,0.0
+PAKQATAR,Pak Qatar Family Takaful Limited,INSURANCE,10%(F) (D),"April 9, 2026 4:15 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0,0.0
+PQGTL,Pak Qatar General Takaful Limited,INSURANCE,10%(F) (D),"April 9, 2026 4:14 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0,0.0
+PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,10%(F) (D),"April 8, 2026 3:44 PM",23/04/2026 - 30/04/2026,10.0,0.0,0.0,0.0
+HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,500%(F) (D),"April 7, 2026 4:00 PM",23/04/2026 - 30/04/2026,500.0,0.0,0.0,0.0
+SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"April 7, 2026 3:57 PM",04/05/2026 - 11/05/2026,100.0,0.0,0.0,0.0
+EWIC,East West Insurance Company Limited,INSURANCE,10% (B),"April 6, 2026 4:56 PM",14/04/2026 - 14/04/2026,0.0,10.0,0.0,0.0
+RICL,Reliance Insurance Company Limited,INSURANCE,30% (B),"April 1, 2026 4:07 PM",08/04/2026 - 08/04/2026,0.0,30.0,0.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.6%(ii) (D),"March 31, 2026 4:32 PM",10/04/2026 - 12/04/2026,6.6,0.0,0.0,0.0
+SHNI,Shaheen Insurance Company Limited,INSURANCE,30% (B),"March 31, 2026 4:25 PM",08/04/2026 - 08/04/2026,0.0,30.0,0.0,0.0
+HICL,Habib Insurance Company Limited,INSURANCE,12.50%(F) (D),"March 27, 2026 5:04 PM",10/04/2026 - 24/04/2026,12.5,0.0,0.0,0.0
+KSBP,KSB Pumps Company Limited,ENGINEERING,10%(F) (D),"March 27, 2026 5:00 PM",15/04/2026 - 22/04/2026,10.0,0.0,0.0,0.0
+PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",160%(F) (D),"March 26, 2026 3:56 PM",23/04/2026 - 30/04/2026,160.0,0.0,0.0,0.0
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,120%(F) (D),"March 26, 2026 3:54 PM",23/04/2026 - 30/04/2026,120.0,0.0,0.0,0.0
+SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,7.5%(F) (D),"March 26, 2026 3:51 PM",18/04/2026 - 24/04/2026,7.5,0.0,0.0,0.0
+IGIHL,IGI Holdings Limited,INSURANCE,55%(F) (D),"March 25, 2026 4:03 PM",24/04/2026 - 30/04/2026,55.0,0.0,0.0,0.0
+AGP,AGP Limited,PHARMACEUTICALS,60%(F) (D),"March 24, 2026 4:16 PM",14/04/2026 - 20/04/2026,60.0,0.0,0.0,0.0
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,140%(i) (D),"March 24, 2026 4:15 PM",26/03/2026 - 26/03/2026,140.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,350%(i) (D),"March 19, 2026 2:17 PM",30/03/2026 - 01/04/2026,350.0,0.0,0.0,0.0
+SRVI,Service Industries Limited,LEATHER & TANNERIES,175%(F) (D),"March 18, 2026 2:33 PM",23/04/2026 - 29/04/2026,175.0,0.0,0.0,0.0
+SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,20%(F) (D),"March 18, 2026 2:29 PM",23/04/2026 - 29/04/2026,20.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1500%(F) (D),"March 17, 2026 2:23 PM",18/04/2026 - 24/04/2026,1500.0,0.0,0.0,0.0
+ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,400%(F) (D),"March 16, 2026 2:30 PM",23/04/2026 - 30/04/2026,400.0,0.0,0.0,0.0
+AGIC,Askari General Insurance Company Limited,INSURANCE,25%(F) (D),"March 16, 2026 2:26 PM",21/04/2026 - 28/04/2026,25.0,0.0,0.0,0.0
+GCWL,Ghani Chemworld Limited,CHEMICAL,= 0.5 % (R),"March 16, 2026 2:16 PM",-,0.0,0.0,0.5,0.0
+UNIC,The United Insurance Company,INSURANCE,20% (B),"March 16, 2026 2:14 PM",25/03/2026 - 25/03/2026,0.0,20.0,0.0,0.0
+UNIC,The United Insurance Company,INSURANCE,20% (B),"March 12, 2026 2:31 PM",18/04/2026 - 25/04/2026,0.0,20.0,0.0,0.0
+CENI,Century Insurance Company Limited,INSURANCE,60%(F) (D),"March 12, 2026 2:24 PM",22/04/2026 - 29/04/2026,60.0,0.0,0.0,0.0
+MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,= 12.1433 AT A PREMIUM RS. 170/- PER SHARE (R),"March 11, 2026 2:28 PM",17/03/2026 - 17/03/2026,0.0,0.0,12.1433,0.0
+FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,25%(F) (D),"March 9, 2026 2:14 PM",10/04/2026 - 17/04/2026,25.0,0.0,0.0,0.0
+BOK,The Bank of Khyber,COMMERCIAL BANKS,17%(F) (D),"March 6, 2026 2:00 PM",23/03/2026 - 30/03/2026,17.0,0.0,0.0,0.0
+PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,20%(i) (D),"March 5, 2026 2:45 PM",12/03/2026 - 13/03/2026,20.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,55%(F) (D),"March 3, 2026 2:28 PM",19/03/2026 - 30/03/2026,55.0,0.0,0.0,0.0
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,150%(F) (D),"March 3, 2026 2:17 PM",22/04/2026 - 28/04/2026,150.0,0.0,0.0,0.0
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,= 37.65% AT A PREMIUM RS. 30/= PER SHARE (R),"March 2, 2026 11:40 AM",10/03/2026 - 10/03/2026,0.0,0.0,37.65,0.0
+STYLERS,Stylers International Limited,APPAREL,2.5%(i) (D),"March 2, 2026 11:37 AM",10/03/2026 - 12/03/2026,2.5,0.0,0.0,0.0
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,15%(i) (D),"March 2, 2026 11:32 AM",14/03/2026 - 16/03/2026,15.0,0.0,0.0,0.0
+GEMPAPL,Pak Agro Packaging Limited(GEM),"PAPER, BOARD & PACKAGING",5%(i) (D),"March 2, 2026 11:30 AM",10/03/2026 - 12/03/2026,5.0,0.0,0.0,0.0
+WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,40%(F) (D),"March 2, 2026 11:27 AM",21/04/2026 - 29/04/2026,40.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,105%(F) (D),"February 26, 2026 2:46 PM",19/03/2026 - 30/03/2026,105.0,0.0,0.0,0.0
+JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,60%(F) (D),"February 26, 2026 2:45 PM",25/03/2026 - 31/03/2026,60.0,0.0,0.0,0.0
+IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,2%(i) (D),"February 26, 2026 2:43 PM",06/03/2026 - 09/03/2026,2.0,0.0,0.0,0.0
+ATIL,Atlas Insurance Limited,INSURANCE,60%(F) (D),"February 26, 2026 2:39 PM",06/04/2026 - 20/04/2026,60.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,100%(ii) (D),"February 26, 2026 12:08 PM",09/03/2025 - 11/03/2025,100.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(ii) (D),"February 26, 2026 12:07 PM",09/03/2025 - 11/03/2025,12.5,0.0,0.0,0.0
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,30%(F) (D),"February 26, 2026 12:05 PM",18/03/2026 - 27/03/2026,30.0,0.0,0.0,0.0
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(i) (D),"February 26, 2026 12:01 PM",10/03/2025 - 11/03/2025,10.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,60%(ii) (D),"February 25, 2026 2:24 PM",11/03/2025 - 13/03/2025,60.0,0.0,0.0,0.0
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,10%(ii) (D),"February 25, 2026 2:23 PM",11/03/2025 - 13/03/2025,10.0,0.0,0.0,0.0
+DYNO,Dynea Pakistan Limited,CHEMICAL,125%(i) (D),"February 25, 2026 2:21 PM",09/03/2025 - 11/03/2025,125.0,0.0,0.0,0.0
+DOL,Descon Oxychem Limited,CHEMICAL,20%(i) (D),"February 25, 2026 12:30 PM",10/03/2025 - 12/03/2025,20.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,160%(F) (D),"February 25, 2026 12:28 PM",26/03/2026 - 26/03/2026,160.0,0.0,0.0,0.0
+NBP,National Bank of Pakistan,COMMERCIAL BANKS,350%(F) (D),"February 25, 2026 12:26 PM",18/03/2026 - 30/03/2026,350.0,0.0,0.0,0.0
+MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,12.1433 AT A PREMIUM RS. 170 PER SHARE (R),"February 25, 2026 12:25 PM",-,0.0,0.0,12.1433,0.0
+TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,50%(i) (D),"February 24, 2026 3:02 PM",06/03/2025 - 09/03/2025,50.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,2160%(F) (D),"February 24, 2026 3:00 PM",18/04/2026 - 22/04/2026,2160.0,0.0,0.0,0.0
+SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,100%(i) (D),"February 24, 2026 2:57 PM",09/03/2025 - 11/03/2025,100.0,0.0,0.0,0.0
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,100%(F) (D),"February 24, 2026 2:56 PM",18/03/2026 - 30/03/2026,100.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(ii) (D),"February 24, 2026 2:38 PM",09/03/2025 - 11/03/2025,50.0,0.0,0.0,0.0
+ATRL,Attock Refinery Limited,REFINERY,25%(i) (D),"February 24, 2026 2:37 PM",09/03/2025 - 11/03/2025,25.0,0.0,0.0,0.0
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,275%(i) (D),"February 24, 2026 2:17 PM",09/03/2025 - 11/03/2025,275.0,0.0,0.0,0.0
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,200%(i) (D),"February 24, 2026 1:06 PM",03/03/2025 - 05/03/2025,200.0,0.0,0.0,0.0
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,50%(ii) (D),"February 23, 2026 2:27 PM",09/03/2026 - 11/03/2026,50.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,42.50%(ii) (D),"February 23, 2026 1:25 PM",07/03/2026 - 09/03/2026,42.5,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,120%(F) (D),"February 23, 2026 1:19 PM",03/03/2026 - 04/03/2026,120.0,0.0,0.0,0.0
+JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,55%(F) (D),"February 23, 2026 1:18 PM",26/02/2026 - 03/03/2026,55.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,460%(ii) (D),"February 23, 2026 1:14 PM",06/03/2026 - 10/03/2026,460.0,0.0,0.0,0.0
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 19, 2026 2:22 PM",03/03/2026 - 04/03/2026,10.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2560%(F) (D),"February 19, 2026 2:17 PM",10/04/2026 - 17/04/2026,2560.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,20%(F) (D),"February 19, 2026 1:27 PM",20/03/2026 - 26/03/2026,20.0,0.0,0.0,0.0
+AICL,Adamjee Insurance Company Limited,INSURANCE,20%(F) (D),"February 18, 2026 4:09 PM",21/04/2026 - 28/03/2026,20.0,0.0,0.0,0.0
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,12.50%(F) (D),"February 18, 2026 4:04 PM",20/03/2026 - 27/03/2026,12.5,0.0,0.0,0.0
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,1900%(F) (D),"February 18, 2026 3:56 PM",02/04/2026 - 08/04/2026,1900.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,60%(F) (D),"February 18, 2026 3:51 PM",23/03/2026 - 30/03/2026,60.0,0.0,0.0,0.0
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 18, 2026 3:41 PM",25/02/2026 - 25/02/2026,10.0,0.0,0.0,0.0
+CHCC,Cherat Cement Company Limited,CEMENT,15%(i) (D),"February 18, 2026 3:39 PM",28/02/2026 - 02/03/2026,15.0,0.0,0.0,0.0
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,300%(i) (D),"February 18, 2026 3:21 PM",23/02/2026 - 25/02/2026,300.0,0.0,0.0,0.0
+ICL,Ittehad Chemicals Limted,CHEMICAL,10%(i) (D),"February 17, 2026 4:48 PM",03/03/2026 - 05/03/2026,10.0,0.0,0.0,0.0
+BOP,The Bank of Punjab,COMMERCIAL BANKS,15%(F) (D),"February 17, 2026 4:40 PM",20/03/2026 - 26/03/2026,15.0,0.0,0.0,0.0
+BIFO,Biafo Industries Limited,CHEMICAL,25%(i) (D),"February 17, 2026 4:26 PM",03/03/2026 - 05/03/2026,25.0,0.0,0.0,0.0
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,200%(i) (D),"February 17, 2026 3:48 PM",04/03/2026 - 06/04/2026,200.0,0.0,0.0,0.0
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,15%(F) (D),"February 17, 2026 3:46 PM",21/04/2026 - 27/04/2026,15.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(F) (D),"February 17, 2026 3:41 PM",18/03/2026 - 30/03/2026,40.0,0.0,0.0,0.0
+FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,35%(F) (D),"February 17, 2026 3:38 PM",17/04/2026 - 24/04/2026,35.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(ii) (D),"February 16, 2026 4:36 PM",02/03/2026 - 04/03/2026,20.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(F) (D),"February 16, 2026 4:25 PM",17/03/2026 - 26/03/2026,30.0,0.0,0.0,0.0
+ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,25%(F) (D),"February 13, 2026 4:50 PM",10/04/2026 - 16/04/2026,25.0,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(F) (D),"February 13, 2026 4:00 PM",27/02/2026 - 03/03/2026,20.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,45%F) (D),"February 13, 2026 3:57 PM",23/03/2026 - 30/03/2026,45.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,40%(F) (D),"February 12, 2026 3:27 PM",17/03/2026 - 25/03/2026,40.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,45%(F) (D),"February 11, 2026 3:57 PM",16/03/2026 - 30/03/2026,45.0,0.0,0.0,0.0
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(i) (D),"February 10, 2026 4:18 PM",18/02/2026 - 19/02/2026,100.0,0.0,0.0,0.0
+TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,150% (R),"February 9, 2026 3:57 PM",17/02/2026 - 17/02/2026,0.0,0.0,150.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,17.50% (D),"February 9, 2026 3:47 PM",10/03/2026 - 17/03/2026,17.5,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(F) (D),"February 9, 2026 3:36 PM",25/03/2026 - 27/03/2026,70.0,0.0,0.0,0.0
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,20%(i) (D),"February 6, 2026 4:29 PM",18/02/2026 - 20/02/2026,20.0,0.0,0.0,0.0
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,12.50%(F) (D),"February 6, 2026 4:15 PM",19/03/2026 - 25/03/2026,12.5,0.0,0.0,0.0
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,37.65% (R),"February 6, 2026 4:05 PM",-,0.0,0.0,37.65,0.0
+ILP,Interloop Limited,TEXTILE COMPOSITE,20%(i) (D),"February 6, 2026 4:01 PM",17/02/2026 - 18/02/2026,20.0,0.0,0.0,0.0
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,30%(i) (D),"February 3, 2026 3:54 PM",16/02/2026 - 17/02/2026,30.0,0.0,0.0,0.0
+COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,290%(i) (D),"February 2, 2026 4:11 PM",03/03/2026 - 10/03/2026,290.0,0.0,0.0,0.0
+INIL,International Industries Limited,ENGINEERING,20%(i) (D),"January 29, 2026 3:55 PM",10/02/2026 - 12/02/2026,20.0,0.0,0.0,0.0
+SNBL,Soneri Bank Limited,COMMERCIAL BANKS,15%(F) (D),"January 29, 2026 3:24 PM",05/03/2026 - 12/03/2026,15.0,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,85%(F) (D),"January 29, 2026 3:14 PM",09/03/2026 - 16/03/2026,85.0,0.0,0.0,0.0
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(i) (D),"January 28, 2026 4:08 PM",09/02/2026 - 10/02/2026,15.0,0.0,0.0,0.0
+ISL,International Steels Limited,ENGINEERING,20%(i) (D),"January 27, 2026 4:55 PM",10/02/2026 - 12/02/2026,20.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,150%(ii) (D),"January 27, 2026 4:45 PM",10/02/2026 - 12/02/2026,150.0,0.0,0.0,0.0
+LCI,Lucky Core Industries Limited,CHEMICAL,262.50%(i) (D),"January 27, 2026 4:39 PM",09/02/2026 - 11/02/2026,262.5,0.0,0.0,0.0
+MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,83%(i) (D),"January 26, 2026 4:05 PM",03/02/2026 - 05/02/2026,83.0,0.0,0.0,0.0
+LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,50%(i) (D),"January 21, 2026 4:02 PM",04/02/2026 - 06/02/2026,50.0,0.0,0.0,0.0
+TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,150% (R),"January 19, 2026 3:45 PM",-,0.0,0.0,150.0,0.0
+LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,6.82% (R),"January 16, 2026 4:46 PM",-,0.0,0.0,6.82,0.0
+LOADS,Loads Limited,AUTOMOBILE PARTS & ACCESSORIES,47.761% (R),"January 15, 2026 3:48 PM",-,0.0,0.0,47.761,0.0
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,30%(F) (D),"January 6, 2026 3:19 PM",22/01/2026 - 28/01/2026,30.0,0.0,0.0,0.0
+ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"January 5, 2026 3:32 PM",17/01/2026 - 27/01/2026,40.0,0.0,0.0,0.0
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,130%(F) (D),"January 5, 2026 3:23 PM",22/01/2026 - 28/01/2026,130.0,0.0,0.0,0.0
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10%(i) (D),"January 1, 2026 4:25 PM",12/01/2026 - 12/01/2026,10.0,0.0,0.0,0.0
+SHJS,Shahtaj Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,12.50%(F) (D),"December 31, 2025 4:01 PM",20/01/2026 - 29/01/2026,12.5,0.0,0.0,0.0
+ALNRS,Al-Noor Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"December 31, 2025 4:00 PM",21/01/2026 - 28/01/2026,40.0,0.0,0.0,0.0
+SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,60%(F) (D),"December 30, 2025 4:09 PM",21/01/2026 - 28/01/2026,60.0,0.0,0.0,0.0
+SASML,Sindh Abadgars Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,20%(F) (D),"December 29, 2025 4:07 PM",16/01/2026 - 23/01/2026,20.0,0.0,0.0,0.0
+TICL,The Thal Industries Corporation Limited,SUGAR & ALLIED INDUSTRIES,100%(F) (D),"December 24, 2025 3:53 PM",17/01/2026 - 24/01/2026,100.0,0.0,0.0,0.0
+BAFS,Baba Farid Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,20%(F) (D),"December 24, 2025 3:50 PM",19/01/2026 - 26/01/2026,20.0,0.0,0.0,0.0
+NONS,Noon Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,40%(F) (D),"December 24, 2025 3:49 PM",21/01/2026 - 27/01/2026,40.0,0.0,0.0,0.0
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(F) (D),"December 22, 2025 3:41 PM",16/01/2026 - 24/01/2026,250.0,0.0,0.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.3%(ii) (D),"December 18, 2025 4:07 PM",30/12/2025 - 01/01/2026,6.3,0.0,0.0,0.0
+HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(F) (D),"December 17, 2025 4:08 PM",16/01/2026 - 27/01/2026,120.0,0.0,0.0,0.0
+FTMM,First Treet Manufacturing Modaraba,MODARABAS,15%(i) (D),"November 19, 2025 4:29 PM",27/11/2025 - 29/11/2025,15.0,0.0,0.0,0.0
+SSGC,Sui Southern Gas Company Limited,OIL & GAS MARKETING COMPANIES,5%(F) (D),"November 5, 2025 4:24 PM",20/11/2025 - 27/11/2025,5.0,0.0,0.0,0.0
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"November 3, 2025 3:31 PM",21/11/2025 - 27/11/2025,10.0,0.0,0.0,0.0
+SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,30%(F) (D),"November 3, 2025 3:26 PM",21/11/2025 - 27/11/2025,30.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(i) (D),"October 30, 2025 4:28 PM",12/11/2025 - 14/11/2025,50.0,0.0,0.0,0.0
+ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,460%(i) (D),"October 30, 2025 4:18 PM",13/11/2025 - 14/11/2025,460.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1300%(iii) (D),"October 30, 2025 4:16 PM",11/11/2025 - 12/11/2025,1300.0,0.0,0.0,0.0
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,50%(i) (D),"October 30, 2025 4:14 PM",04/11/2025 - 06/11/2025,50.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,35%(i) (D),"October 29, 2025 4:08 PM",11/11/2025 - 12/11/2025,35.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,15%(iii) (D),"October 29, 2025 3:23 PM",06/11/2025 - 06/11/2025,15.0,0.0,0.0,0.0
+ARPL,Archroma Pakistan Limited,CHEMICAL,100%(F) (D),"October 29, 2025 3:22 PM",17/12/2025 - 24/12/2025,100.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,12.5%(ii (D),"October 29, 2025 3:16 PM",10/11/2025 - 12/11/2025,12.5,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(i) (D),"October 29, 2025 3:14 PM",12/11/2025 - 14/11/2025,20.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,510%(i) (D),"October 28, 2025 4:40 PM",07/11/2025 - 11/11/2025,510.0,0.0,0.0,0.0
+ATIL,Atlas Insurance Limited,INSURANCE,25%(I) (D),"October 28, 2025 4:36 PM",07/11/2025 - 09/11/2025,25.0,0.0,0.0,0.0
+WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,30%(I) (D),"October 28, 2025 4:33 PM",07/11/2025 - 09/11/2025,30.0,0.0,0.0,0.0
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(i) (D),"October 28, 2025 3:59 PM",11/11/2025 - 13/11/2025,10.0,0.0,0.0,0.0
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,5%(i) (D),"October 28, 2025 3:54 PM",11/11/2025 - 13/13/2025,5.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,DIVIDEND =15%(iii),"October 28, 2025 3:53 PM",05/11/2025 - 05/11/2025,15.0,0.0,0.0,0.0
+SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,10%(i) (D),"October 28, 2025 3:51 PM",06/11/2025 - 07/11/2025,10.0,0.0,0.0,0.0
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,50%(ii) (D),"October 27, 2025 3:59 PM",06/11/2025 - 07/11/2025,50.0,0.0,0.0,0.0
+GWLC,Gharibwal Cement Limited,CEMENT,5%(i) (D),"October 27, 2025 3:57 PM",06/07/2025 - 07/11/2025,5.0,0.0,0.0,0.0
+BRRG,B.R.R Guardian Limited,PROPERTY,5%(F) (D),"October 27, 2025 3:55 PM",21/11/2025 - 27/11/2025,5.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,200%(v) (D),"October 27, 2025 11:16 AM",03/11/2025 - 05/11/2025,200.0,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,50%(i) (D),"October 27, 2025 11:15 AM",05/11/2025 - 06/11/2025,50.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(iii) (D),"October 27, 2025 11:09 AM",05/11/2025 - 07/11/2025,70.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(iii) (D),"October 27, 2025 11:03 AM",05/11/2025 - 07/11/2025,25.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,4660%(iii) (D),"October 23, 2025 4:19 PM",05/11/2025 - 07/11/2025,4660.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(iii) (D),"October 23, 2025 3:50 PM",03/11/2025 - 04/11/2025,35.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,50%(iii) (D),"October 23, 2025 3:48 PM",04/11/2025 - 05/11/2025,50.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(iii) (D),"October 23, 2025 3:45 PM",06/11/2025 - 08/11/2025,15.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(iii) (D),"October 23, 2025 3:42 PM",04/11/2025 - 06/11/2025,40.0,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,95%(iii) (D),"October 23, 2025 3:41 PM",05/11/2025 - 07/11/2025,95.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(iii) (D),"October 23, 2025 3:27 PM",05/11/2025 - 06/11/2025,25.0,0.0,0.0,0.0
+AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,20%(i) (D),"October 23, 2025 3:22 PM",04/11/2025 - 06/11/2025,20.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,170%(i) (D),"October 23, 2025 2:18 PM",03/11/2025 - 04/11/2025,170.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(iii) (D),"October 22, 2025 3:42 PM",03/11/2025 - 05/11/2025,90.0,0.0,0.0,0.0
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,5%(iii) (D),"October 22, 2025 3:27 PM",04/11/2025 - 05/11/2025,5.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,10%(i) (D),"October 22, 2025 3:16 PM",05/11/2025 - 07/11/2025,10.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,360%i) (D),"October 20, 2025 4:00 PM",-,360.0,0.0,0.0,0.0
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,25%(F) (D),"October 20, 2025 11:11 AM",18/10/2025 - 24/10/2025,25.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,780%(ii) (D),"October 16, 2025 4:00 PM",27/10/2025 - 29/10/2025,780.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,100%(i) (D),"October 15, 2025 4:01 PM",27/10/2025 - 29/10/2025,100.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,150%(i) (D),"October 15, 2025 3:57 PM",29/10/2025 - 31/10/2025,150.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,160%(iii) (D),"October 15, 2025 3:53 PM",27/10/2025 - 29/10/2025,160.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,45%(iii) (D),"October 15, 2025 3:50 PM",28/10/2025 - 29/10/2025,45.0,0.0,0.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,6.30%(i) (D),"October 10, 2025 4:51 PM",22/10/2025 - 21/10/2025,6.3,0.0,0.0,0.0
+HAFL,Hafiz Limited,TEXTILE COMPOSITE,25% (F) (D),"October 8, 2025 3:49 PM",16/10/2025 - 23/10/2025,25.0,0.0,0.0,0.0
+IMAGE,Image Pakistan Limited,APPAREL,10%(F) (D),"October 7, 2025 3:39 PM",23/10/2025 - 28/10/2025,10.0,0.0,0.0,0.0
+KOIL,Kohinoor Industries Limited,TEXTILE COMPOSITE,7.50%(F) (D),"October 6, 2025 4:40 PM",22/10/2025 - 28/10/2025,7.5,0.0,0.0,0.0
+SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,50%(F) (D),"October 6, 2025 4:39 PM",22/10/2025 - 28/10/2025,50.0,0.0,0.0,0.0
+AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,15%(F) (D),"October 6, 2025 4:38 PM",21/10/2025 - 28/10/2025,15.0,0.0,0.0,0.0
+MSOTPS,Masood Textile (Pref),APPAREL,1.82%(F) (D),"October 6, 2025 4:30 PM",21/10/2025 - 28/10/2025,1.82,0.0,0.0,0.0
+SEARL,The Searle Company Limited,PHARMACEUTICALS,15% (B),"October 6, 2025 4:21 PM",13/10/2025 - 13/10/2025,0.0,15.0,0.0,0.0
+PIM,Popular Islamic Modaraba,MODARABAS,10%(F) (D),"October 6, 2025 4:20 PM",21/10/2025 - 28/10/2025,10.0,0.0,0.0,0.0
+AGIC,Askari General Insurance Company Limited,INSURANCE,40% (R),"October 2, 2025 4:36 PM",06/11/2025 - 06/11/2025,0.0,0.0,40.0,0.0
+CPHL,Citi Pharma Ltd.,PHARMACEUTICALS,35%(F) (D),"October 2, 2025 4:35 PM",21/10/2025 - 27/10/2025,35.0,0.0,0.0,0.0
+IBLHL,IBL HealthCare Limited,PHARMACEUTICALS,15% (B),"October 1, 2025 3:51 PM",09/10/2025 - 09/10/2025,0.0,15.0,0.0,0.0
+PAKD,Pak Datacom Limited,TECHNOLOGY & COMMUNICATION,60%(F) (D),"October 1, 2025 3:48 PM",20/10/2025 - 27/10/2025,60.0,0.0,0.0,0.0
+AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"October 1, 2025 3:45 PM",21/10/2025 - 27/10/2025,10.0,0.0,0.0,0.0
+NML,Nishat Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"September 30, 2025 3:34 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,10%(F) (D),"September 30, 2025 3:31 PM",22/10/2025 - 28/10/2025,10.0,0.0,0.0,0.0
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,15%(F) (D),"September 30, 2025 3:30 PM",22/10/2025 - 28/10/2025,15.0,0.0,0.0,0.0
+KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,10%(F) (D),"September 30, 2025 3:28 PM",18/10/2025 - 28/10/2025,10.0,0.0,0.0,0.0
+PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,DIVIDEND =25%(F),"September 30, 2025 3:27 PM",22/10/2025 - 28/10/2025,25.0,0.0,0.0,0.0
+PRET,Premium Textile Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 30, 2025 3:25 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+STYLERS,Stylers International Limited,APPAREL,7.50%(F) (D),"September 30, 2025 3:22 PM",21/10/2025 - 28/10/2025,7.5,0.0,0.0,0.0
+ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,40%(F) (D),"September 30, 2025 3:21 PM",22/10/2025 - 28/10/2025,40.0,0.0,0.0,0.0
+INKL,International Knitwear Limited,APPAREL,10%(F) (D),"September 30, 2025 3:17 PM",02/10/2025 - 27/10/2025,10.0,0.0,0.0,0.0
+WASL,Wasl Mobility Modaraba,MODARABAS,52.60% (R),"September 29, 2025 5:00 PM",14/10/2025 - 28/10/2025,0.0,0.0,52.6,0.0
+SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,70%(F) (D),"September 29, 2025 4:57 PM",21/10/2025 - 28/10/2025,70.0,0.0,0.0,0.0
+FIMM,First Imrooz Modaraba,MODARABAS,150%(F) (D),"September 29, 2025 4:56 PM",14/10/2025 - 27/10/2025,150.0,0.0,0.0,0.0
+GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,100%(F) (D),"September 29, 2025 4:54 PM",17/10/2025 - 25/10/2025,100.0,0.0,0.0,0.0
+GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,100%(F) (D),"September 29, 2025 4:41 PM",17/10/2025 - 25/10/2025,100.0,0.0,0.0,0.0
+AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,45%(F) (D),"September 29, 2025 3:40 PM",16/10/2025 - 22/10/2025,45.0,0.0,0.0,0.0
+786,786 Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,33.33% (R),"September 29, 2025 3:23 PM",14/10/2025 - 21/10/2025,0.0,0.0,33.33,0.0
+TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,10% (B),"September 29, 2025 3:18 PM",14/10/2025 - 21/10/2025,0.0,10.0,0.0,0.0
+ECOP,Ecopack Limited,MISCELLANEOUS,20%(F) (D),"September 29, 2025 3:14 PM",15/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,100%(F) (D),"September 29, 2025 10:57 AM",21/10/2025 - 27/10/2025,100.0,0.0,0.0,0.0
+PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,DIVIDEND =20%(F),"September 29, 2025 10:51 AM",22/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,12.50%(F) (D),"September 29, 2025 10:48 AM",22/10/2025 - 28/10/2025,12.5,0.0,0.0,0.0
+SARC,Sardar Chemical Industries Limited,CHEMICAL,15%(F) (D),"September 29, 2025 10:47 AM",21/10/2025 - 27/10/2025,15.0,0.0,0.0,0.0
+PIOC,Pioneer Cement Limited,CEMENT,50%(F) (D),"September 29, 2025 10:44 AM",21/10/2025 - 28/10/2025,50.0,0.0,0.0,0.0
+SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,50%(F) (D),"September 29, 2025 10:41 AM",21/10/2025 - 27/10/2025,50.0,0.0,0.0,0.0
+GOC,GOC (Pak) Limited.,MISCELLANEOUS,10%(F) (D),"September 29, 2025 10:30 AM",15/10/2025 - 22/10/2025,10.0,0.0,0.0,0.0
+GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,3.90%(F) (D),"September 29, 2025 10:19 AM",21/10/2025 - 28/10/2025,3.9,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(F) (D),"September 29, 2025 10:18 AM",21/10/2025 - 27/10/2025,12.5,0.0,0.0,0.0
+SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,100%(F) (D),"September 29, 2025 10:14 AM",21/10/2025 - 27/10/2025,100.0,0.0,0.0,0.0
+RCML,Reliance Cotton Spinning Mills Limited,TEXTILE SPINNING,60%(F) (D),"September 29, 2025 10:11 AM",21/10/2025 - 27/10/2025,60.0,0.0,0.0,0.0
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,230%(F) (D),"September 26, 2025 5:43 PM",22/10/2025 - 28/10/2025,230.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(iv) (D),"September 26, 2025 5:36 PM",06/10/2025 - 08/10/2025,300.0,0.0,0.0,0.0
+BERG,Berger Paints Pakistan Limited,CHEMICAL,50%(F) (D),"September 25, 2025 4:44 PM",21/10/2025 - 27/10/2025,50.0,0.0,0.0,0.0
+WAHN,Wah Noble Chemicals Limited,CHEMICAL,100%(F) (D),"September 25, 2025 4:41 PM",20/10/2025 - 27/10/2025,100.0,0.0,0.0,0.0
+BIFO,Biafo Industries Limited,CHEMICAL,35%(F) (D),"September 25, 2025 4:40 PM",16/10/2025 - 23/10/2025,35.0,0.0,0.0,0.0
+UDLI,UDL International Limited,MISCELLANEOUS,5%(F) (D),"September 25, 2025 4:37 PM",21/10/2025 - 27/10/2025,5.0,0.0,0.0,0.0
+FECTC,Fecto Cement Limited,CEMENT,20%(F) (D),"September 25, 2025 4:34 PM",17/10/2025 - 27/10/2025,20.0,0.0,0.0,0.0
+OLPM,OLP Modaraba,MODARABAS,25%(F) (D),"September 25, 2025 4:30 PM",21/10/2025 - 28/10/2025,25.0,0.0,0.0,0.0
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,35%(F) (D),"September 25, 2025 4:24 PM",17/10/2025 - 24/10/2025,35.0,0.0,0.0,0.0
+FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,40%(F) (D),"September 23, 2025 4:40 PM",18/10/2025 - 25/10/2025,40.0,0.0,0.0,0.0
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10% (D),"September 23, 2025 4:32 PM",06/10/2025 - 06/10/2025,10.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,50%(F) (D),"September 23, 2025 4:03 PM",23/10/2025 - 24/10/2025,50.0,0.0,0.0,0.0
+AHCL,Arif Habib Corporation Limited,FERTILIZER,100%(F) (D),"September 23, 2025 3:48 PM",17/10/2025 - 24/10/2025,100.0,0.0,0.0,0.0
+ORM,Orient Rental Mod,MODARABAS,DIVIDEND =12%(F),"September 23, 2025 3:40 PM",20/10/2025 - 27/10/2025,12.0,0.0,0.0,0.0
+SITC,Sitara Chemical Industries Limited,CHEMICAL,110%(F) (D),"September 22, 2025 3:50 PM",16/10/2025 - 23/10/2025,110.0,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,145%(F) (D),"September 19, 2025 4:24 PM",17/10/2025 - 24/10/2025,145.0,0.0,0.0,0.0
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(F) (D),"September 19, 2025 4:18 PM",15/10/2025 - 22/10/2025,10.0,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,25%(F) (D),"September 19, 2025 4:11 PM",21/10/2025 - 27/10/2025,25.0,0.0,0.0,0.0
+SINDM,Sindh Modaraba,MODARABAS,13.50%(F) (D),"September 19, 2025 4:09 PM",17/10/2025 - 24/10/2025,13.5,0.0,0.0,0.0
+ICL,Ittehad Chemicals Limted,CHEMICAL,20%(F) (D),"September 19, 2025 4:05 PM",21/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",6%(F) (D),"September 18, 2025 4:15 PM",17/10/2025 - 23/10/2025,6.0,0.0,0.0,0.0
+JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,20%(F) (D),"September 17, 2025 3:42 PM",17/10/2025 - 24/10/2025,20.0,0.0,0.0,0.0
+PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,17%(F) (D),"September 15, 2025 3:59 PM",22/10/2025 - 28/10/2025,17.0,0.0,0.0,0.0
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,150%(F) (D),"September 15, 2025 3:56 PM",17/10/2025 - 24/10/2025,150.0,0.0,0.0,0.0
+SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,5%(F) (D),"September 15, 2025 3:50 PM",22/10/2025 - 28/10/2025,5.0,0.0,0.0,0.0
+DYNO,Dynea Pakistan Limited,CHEMICAL,200%(F) (D),"September 15, 2025 3:40 PM",11/10/2025 - 20/10/2025,200.0,0.0,0.0,0.0
+LIVEN,Liven Pharma Limited,PHARMACEUTICALS,21.496% (R),"September 12, 2025 6:01 PM",27/11/2025 - 27/11/2025 -,0.0,0.0,21.496,0.0
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,11.14% (R),"September 12, 2025 6:00 PM",17/12/2025 - 17/12/2025,0.0,0.0,11.14,0.0
+PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",50%(F) (D),"September 12, 2025 5:53 PM",07/10/2025 - 09/10/2025,50.0,0.0,0.0,0.0
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,120%(F) (D),"September 12, 2025 5:35 PM",14/10/2025 - 20/10/2025,120.0,0.0,0.0,0.0
+GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,30%(F) (D),"September 11, 2025 4:27 PM",04/10/2025 - 11/10/2025,30.0,0.0,0.0,0.0
+ILP,Interloop Limited,TEXTILE COMPOSITE,10%(F) (D),"September 10, 2025 3:12 PM",03/10/2025 - 10/10/2025,10.0,0.0,0.0,0.0
+SMCPL,Safe Mix Concrete Limited,CEMENT,25%(F) (D),"September 9, 2025 4:26 PM",21/10/2025 - 28/10/2025,25.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,100%(F) (D),"September 9, 2025 4:21 PM",13/10/2025 - 20/10/2025,100.0,0.0,0.0,0.0
+JVDCPS,Javedan Corporation (Pref),PROPERTY,12%(F) (D),"September 9, 2025 4:18 PM",10/10/2025 - 18/10/2025,12.0,0.0,0.0,0.0
+JVDC,Javedan Corporation Limited,PROPERTY,50%(F) (D),"September 9, 2025 4:16 PM",10/10/2025 - 18/10/2025,50.0,0.0,0.0,0.0
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,70%(F) (D),"September 8, 2025 3:41 PM",26/09/2025 - 04/10/2025,70.0,0.0,0.0,0.0
+SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,50%(F) (D),"September 8, 2025 3:37 PM",17/10/2025 - 25/10/2025,50.0,0.0,0.0,0.0
+DOL,Descon Oxychem Limited,CHEMICAL,20%(F) (D),"September 4, 2025 3:42 PM",15/10/2025 - 22/10/2025,20.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,100%(F) (D),"September 3, 2025 3:56 PM",08/10/2025 - 15/10/2025,100.0,0.0,0.0,0.0
+MACFL,MACPAC Films Limited,"PAPER, BOARD & PACKAGING",5%(F) (D),"September 1, 2025 11:22 AM",17/10/2025 - 24/10/2025,5.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,200%(F) (D),"September 1, 2025 11:16 AM",19/09/2025 - 25/09/2025,200.0,0.0,0.0,0.0
+BOP,The Bank of Punjab,COMMERCIAL BANKS,10%(i) (D),"August 29, 2025 5:56 PM",12/09/2025 - 14/09/2025,10.0,0.0,0.0,0.0
+FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,5%(F) (D),"August 29, 2025 5:31 PM",20/10/2025 - 27/10/2025,5.0,0.0,0.0,0.0
+ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,50%(F) (D),"August 29, 2025 5:23 PM",02/10/2025 - 08/10/2025,50.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,500%(F) (D),"August 29, 2025 5:08 PM",03/10/2025 - 09/10/2025,500.0,0.0,0.0,0.0
+DGKC,D.G. Khan Cement Company Limited,CEMENT,20%(F) (D),"August 28, 2025 4:47 PM",15/10/2025 - 28/10/2025,20.0,0.0,0.0,0.0
+AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,35%(F) (D),"August 28, 2025 4:44 PM",14/10/2025 - 20/10/2025,35.0,0.0,0.0,0.0
+AICL,Adamjee Insurance Company Limited,INSURANCE,20%(I) (D),"August 28, 2025 4:17 PM",10/09/2025 - 12/09/2025,20.0,0.0,0.0,0.0
+AGIC,Askari General Insurance Company Limited,INSURANCE,25%(ii) (D),"August 28, 2025 3:44 PM",09/09/2025 - 10/09/2025,25.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(ii) (D),"August 28, 2025 3:40 PM",11/09/2025 - 13/09/2025,15.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(ii) (D),"August 28, 2025 3:34 PM",09/09/2025 - 10/09/2025,1000.0,0.0,0.0,0.0
+FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,35%(i) (D),"August 27, 2025 4:34 PM",09/09/2025 - 10/09/2025,35.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(ii) (D),"August 27, 2025 4:33 PM",05/09/2025 - 09/09/2025,35.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,15%(ii) (D),"August 27, 2025 4:30 PM",04/09/2025 - 04/09/2025,15.0,0.0,0.0,0.0
+AGP,AGP Limited,PHARMACEUTICALS,20%(i) (D),"August 27, 2025 3:59 PM",04/09/2025 - 05/09/2025,20.0,0.0,0.0,0.0
+BOK,The Bank of Khyber,COMMERCIAL BANKS,15%(i) (D),"August 26, 2025 4:21 PM",08/09/2025 - 10/09/2025,15.0,0.0,0.0,0.0
+IGIHL,IGI Holdings Limited,INSURANCE,25%(i) (D),"August 26, 2025 4:02 PM",08/09/2025 - 09/09/2025,25.0,0.0,0.0,0.0
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,100%(i) (D),"August 26, 2025 3:52 PM",04/09/2025 - 05/09/2025,100.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"August 26, 2025 3:37 PM",03/09/2025 - 03/09/2025,15.0,0.0,0.0,0.0
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,50%(i) (D),"August 26, 2025 3:34 PM",09/09/2025 - 11/09/2025,50.0,0.0,0.0,0.0
+DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(ii) (D),"August 26, 2025 3:27 PM",04/09/2025 - 05/09/2025,10.0,0.0,0.0,0.0
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,35%(i) (D),"August 26, 2025 3:25 PM",08/09/2025 - 10/09/2025,35.0,0.0,0.0,0.0
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,10%(i) (D),"August 22, 2025 5:31 PM",05/09/2025 - 08/09/2025,10.0,0.0,0.0,0.0
+INIL,International Industries Limited,ENGINEERING,40%(F) (D),"August 22, 2025 5:10 PM",18/09/2025 - 26/09/2025,40.0,0.0,0.0,0.0
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,15%(i) (D),"August 21, 2025 4:34 PM",02/09/2025 - 04/09/2025,15.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(i) (D),"August 21, 2025 4:27 PM",02/09/2025 - 04/09/2025,20.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(ii) (D),"August 21, 2025 4:21 PM",02/09/2025 - 04/09/2025,40.0,0.0,0.0,0.0
+CHCC,Cherat Cement Company Limited,CEMENT,40%(F) (D),"August 21, 2025 3:53 PM",02/10/2025 - 09/10/2025,40.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,4440%(ii) (D),"August 20, 2025 4:20 PM",03/09/2025 - 05/09/2025,4440.0,0.0,0.0,0.0
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",20%(F) (D),"August 20, 2025 4:14 PM",15/10/2025 - 23/10/2025,20.0,0.0,0.0,0.0
+ISL,International Steels Limited,ENGINEERING,25%(F) (D),"August 20, 2025 3:40 PM",17/09/2025 - 24/09/2025,25.0,0.0,0.0,0.0
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,30%(i) (D),"August 19, 2025 4:23 PM",27/08/2025 - 29/08/2025,30.0,0.0,0.0,0.0
+PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,100%(F) (D),"August 19, 2025 4:17 PM",17/10/2025 - 24/10/2025,100.0,0.0,0.0,0.0
+AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,100%(F) (D),"August 19, 2025 3:40 PM",15/10/2025 - 21/10/2025,100.0,0.0,0.0,0.0
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",DIVIDEND =8%(F),"August 18, 2025 3:29 PM",24/09/2025 - 30/09/2025,8.0,0.0,0.0,0.0
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,500%(i) (D),"August 13, 2025 3:45 PM",26/08/2025 - 27/08/2025,500.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(ii) (D),"August 13, 2025 3:40 PM",27/08/2025 - 28/08/2025,70.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(ii) (D),"August 13, 2025 3:38 PM",25/08/2025 - 27/08/2025,25.0,0.0,0.0,0.0
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,500%(F) (D),"August 11, 2025 3:29 PM",21/10/2025 - 27/10/2025,500.0,0.0,0.0,0.0
+ATRL,Attock Refinery Limited,REFINERY,50%(F) (D),"August 11, 2025 3:24 PM",21/10/2025 - 27/10/2025,50.0,0.0,0.0,0.0
+ACPL,Attock Cement Pakistan Limited,CEMENT,80%(F) (D),"August 11, 2025 3:13 PM",23/09/2025 - 30/09/2025,80.0,0.0,0.0,0.0
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,130%(F) (D),"August 11, 2025 3:05 PM",21/10/2025 - 27/10/2025,130.0,0.0,0.0,0.0
+LUCK,Lucky Cement Limited,CEMENT,200%(F) (D),"August 11, 2025 11:11 AM",19/09/2025 - 26/09/2025,200.0,0.0,0.0,0.0
+FCCL,Fauji Cement Company Limited,CEMENT,12.50%(F) (D),"August 11, 2025 11:05 AM",24/09/2025 - 30/09/2025,12.5,0.0,0.0,0.0
+MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,217%(F) (D),"August 11, 2025 10:57 AM",22/09/2025 - 26/09/2025,217.0,0.0,0.0,0.0
+KTML,Kohinoor Textile Mills Limited,TEXTILE COMPOSITE,20%(F) (D),"August 8, 2025 5:01 PM",10/10/2025 - 16/10/2025,20.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(ii) (D),"August 6, 2025 3:49 PM",22/08/2025 - 22/08/2025,90.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,400%( iii) (D),"August 5, 2025 3:43 PM",18/08/2025 - 20/08/2025,400.0,0.0,0.0,0.0
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,35%(F) (D),"August 5, 2025 3:39 PM",22/10/2025 - 28/10/2025,35.0,0.0,0.0,0.0
+LCI,Lucky Core Industries Limited,CHEMICAL,310%(F) (D),"August 1, 2025 2:47 PM",20/09/2025 - 26/09/2025,310.0,0.0,0.0,0.0
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,25%(F) (D),"August 1, 2025 2:42 PM",22/10/2025 - 28/10/2025,25.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(ii) (D),"July 31, 2025 3:53 PM",12/08/2025 - 14/08/2025,25.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,45%(ii) (D),"July 31, 2025 3:49 PM",12/08/2025 - 13/08/2025,45.0,0.0,0.0,0.0
+GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,35%(F) (D),"July 31, 2025 3:31 PM",14/08/2025 - 16/08/2025,35.0,0.0,0.0,0.0
+SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",90%(F) (D),"July 30, 2025 3:42 PM",20/09/2025 - 26/09/2025,90.0,0.0,0.0,0.0
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,25%(ii) (D),"July 30, 2025 3:29 PM",12/08/2025 - 13/08/2025,25.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,42.50%(ii) (D),"July 30, 2025 3:24 PM",12/08/2025 - 14/08/2025,42.5,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,120%(ii) (D),"July 29, 2025 3:26 PM",11/08/2025 - 13/08/2025,120.0,0.0,0.0,0.0
+ARPL,Archroma Pakistan Limited,CHEMICAL,200%(i) (D),"July 29, 2025 3:22 PM",06/08/2025 - 08/08/2025,200.0,0.0,0.0,0.0
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(ii) (D),"July 29, 2025 3:17 PM",12/08/2025 - 14/08/2025,250.0,0.0,0.0,0.0
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(ii) (D),"July 29, 2025 3:11 PM",06/08/2025 - 08/08/2025,15.0,0.0,0.0,0.0
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,200%(I) (D),"July 28, 2025 4:21 PM",05/08/2025 - 07/08/2025,200.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,2230%(i) (D),"July 24, 2025 3:44 PM",06/08/2025 - 08/08/2025,2230.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,300%(iii) (D),"July 23, 2025 3:42 PM",30/07/2025 - 31/07/2025,300.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,100%(F) (D),"July 15, 2025 3:55 PM",09/08/2025 - 15/08/2025,100.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,160%(II) (D),"July 11, 2025 5:05 PM",22/07/2025 - 24/07/2025,160.0,0.0,0.0,0.0
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,5%(i) (B),"July 4, 2025 5:05 PM",15/07/2025 - 22/07/2025,0.0,5.0,0.0,0.0
+HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,10.50%(i) (D),"June 30, 2025 4:50 PM",08/07/2025 - 08/07/2025,10.5,0.0,0.0,0.0
+HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,3.30%(i) (D),"June 30, 2025 4:43 PM",08/07/2025 - 08/07/2025,3.3,0.0,0.0,0.0
+EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,100%(F) (D),"June 30, 2025 4:36 PM",23/07/2025 - 29/07/2025,100.0,0.0,0.0,0.0
+UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,8.78(i) (D),"June 26, 2025 4:05 PM",04/07/2025 - 04/07/2025,8.78,0.0,0.0,0.0
+MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,22.50%(i) (D),"June 25, 2025 10:38 AM",28/06/2025 - 28/06/2025,22.5,0.0,0.0,0.0
+HBLTETF,HBL Total Treasury (ETF),EXCHANGE TRADED FUNDS,16%(i) (D),"June 25, 2025 10:35 AM",27/06/2025 - 27/06/2025,16.0,0.0,0.0,0.0
+ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,6%(I) (D),"June 20, 2025 5:04 PM",27/06/2025 - 27/06/2025,6.0,0.0,0.0,0.0
+NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,23.285%(i) (D),"June 20, 2025 4:04 PM",27/06/2025 - 28/06/2025,23.285,0.0,0.0,0.0
+NBPGETF,NBP Pakistan Growth ETF,EXCHANGE TRADED FUNDS,29.84%(i) (D),"June 19, 2025 4:07 PM",01/07/2025 - 01/07/2025,29.84,0.0,0.0,0.0
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,10%(iii) (D),"June 19, 2025 4:05 PM",26/06/2025 - 26/06/2025,10.0,0.0,0.0,0.0
+MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,22.50%(I) (D),"June 17, 2025 3:39 PM",24/06/2025 - 26/06/2025,22.5,0.0,0.0,0.0
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(i) (D),"May 29, 2025 3:45 PM",12/06/2025 - 14/06/2025,120.0,0.0,0.0,0.0
+DSL,Dost Steels Limited,ENGINEERING,100% AT A DISCOUNT OF Rs.1/= PER SHARE (R),"May 27, 2025 3:46 PM",-,0.0,0.0,100.0,0.0
+SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,70%(i) (D),"May 26, 2025 4:37 PM",09/06/2025 - 11/06/2025,70.0,0.0,0.0,0.0
+BAPL,Bawany Air Products Limited,CHEMICAL,7997.32% (R),"May 26, 2025 4:29 PM",03/06/2025 - 10/06/2025,0.0,0.0,7997.32,0.0
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,10%(i) (D),"May 26, 2025 4:26 PM",09/06/2025 - 11/06/2025,10.0,0.0,0.0,0.0
+HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,80%(F) (D),"May 23, 2025 3:25 PM",12/06/2025 - 24/06/2025,80.0,0.0,0.0,0.0
+IMS,Intermarket Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"May 5, 2025 4:26 PM",14/05/2025 - 16/05/2025,20.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,30%(iii) (D),"April 30, 2025 4:16 PM",13/05/2025 - 15/05/2025,30.0,0.0,0.0,0.0
+PKGP,Pakgen Power Limited,POWER GENERATION & DISTRIBUTION,20%(i) (D),"April 29, 2025 4:57 PM",10/05/2025 - 12/05/2025,20.0,0.0,0.0,0.0
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,30%(ii) (D),"April 29, 2025 4:49 PM",13/05/2025 - 15/05/2025,30.0,0.0,0.0,0.0
+CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,40%(i) (D),"April 29, 2025 4:48 PM",13/05/2025 - 14/05/2025,40.0,0.0,0.0,0.0
+DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,9%(i) (D),"April 29, 2025 4:47 PM",13/05/2025 - 14/05/2025,9.0,0.0,0.0,0.0
+STYLERS,Stylers International Limited,APPAREL,2.5%(i) (D),"April 29, 2025 4:46 PM",08/05/2025 - 10/05/2025,2.5,0.0,0.0,0.0
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%9(ii) (D),"April 29, 2025 4:44 PM",13/05/2025 - 15/05/2025,10.0,0.0,0.0,0.0
+KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,10%(i) (D),"April 29, 2025 4:38 PM",06/05/2025 - 08/05/2025,10.0,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,10%(iii) (D),"April 29, 2025 2:46 PM",13/05/2025 - 15/05/2025,10.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,15%(i) (D),"April 28, 2025 3:43 PM",06/05/2025 - 06/05/2025,15.0,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,70%(i) (D),"April 28, 2025 3:39 PM",11/05/2025 - 13/05/2025,70.0,0.0,0.0,0.0
+IMAGE,Image Pakistan Limited,APPAREL,10%(I) (D),"April 28, 2025 3:21 PM",13/05/2025 - 15/05/2025,10.0,0.0,0.0,0.0
+SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,75%(F) (D),"April 28, 2025 12:03 PM",15/05/2025 - 22/05/2025,75.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,500%(iii) (D),"April 28, 2025 12:00 PM",09/05/2025 - 13/05/2025,500.0,0.0,0.0,0.0
+MACTER,Macter International Limited,PHARMACEUTICALS,18%(i) (D),"April 28, 2025 11:52 AM",07/05/2025 - 09/05/2025,18.0,0.0,0.0,0.0
+GWLC,Gharibwal Cement Limited,CEMENT,10%(i) (D),"April 28, 2025 11:50 AM",09/05/2025 - 13/05/2025,10.0,0.0,0.0,0.0
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",6%(ii) (D),"April 28, 2025 10:37 AM",07/05/2025 - 09/05/2025,6.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,15%(i) (D),"April 25, 2025 5:31 PM",06/05/2025 - 06/05/2025,15.0,0.0,0.0,0.0
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,20%(iii) (D),"April 25, 2025 5:30 PM",07/05/2025 - 08/05/2025,20.0,0.0,0.0,0.0
+TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,20%(II) (D),"April 25, 2025 5:28 PM",09/05/2025 - 13/05/2025,20.0,0.0,0.0,0.0
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,20%(iii) (D),"April 25, 2025 5:26 PM",07/05/2025 - 08/05/2025,20.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,45%(i) (D),"April 25, 2025 4:31 PM",07/05/2025 - 09/05/2025,45.0,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,100%(iii) (D),"April 25, 2025 3:07 PM",06/05/2025 - 07/05/2025,100.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,15%(ii) (D),"April 25, 2025 3:00 PM",06/05/2025 - 08/05/2025,15.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,5250%(i) (D),"April 24, 2025 4:18 PM",09/05/2025 - 11/05/2025,5250.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(i) (D),"April 24, 2025 4:02 PM",06/05/2025 - 08/05/2025,35.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(ii) (D),"April 24, 2025 3:59 PM",05/05/2025 - 07/05/2025,300.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40% (i) (D),"April 24, 2025 3:47 PM",07/05/2025 - 09/05/2025,40.0,0.0,0.0,0.0
+BIFO,Biafo Industries Limited,CHEMICAL,DIVIDEND =15%(i),"April 24, 2025 3:38 PM",08/05/2025 - 10/05/2025,15.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15% (I) (D),"April 24, 2025 3:18 PM",08/05/2025 - 10/05/2025,15.0,0.0,0.0,0.0
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,20%(i) (D),"April 24, 2025 12:45 PM",07/05/2025 - 09/05/2025,20.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(ii) (D),"April 24, 2025 12:44 PM",05/05/2025 - 07/05/2025,12.5,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,40%(i) (D),"April 23, 2025 3:47 PM",07/05/2025 - 09/05/2025,40.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(i) (D),"April 23, 2025 3:39 PM",05/05/2025 - 07/05/2025,90.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,25%(i) (D),"April 23, 2025 3:22 PM",06/05/2025 - 08/05/2025,25.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,22.5%(i) (D),"April 22, 2025 5:01 PM",05/05/2025 - 06/06/2025,22.5,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(i) (D),"April 21, 2025 4:10 PM",02/05/2025 - 04/05/2025,70.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,DIVIDEND =120%(iii),"April 21, 2025 4:06 PM",01/05/2025 - 03/05/2025,120.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(i) (D),"April 17, 2025 3:56 PM",30/04/2025 - 02/05/2025,25.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,80%(iii) (D),"April 17, 2025 3:50 PM",30/04/2025 - 02/05/2025,80.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(i) (D),"April 17, 2025 3:48 PM",30/04/2025 - 02/05/2025,1000.0,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,110%(i) (D),"April 16, 2025 4:52 PM",30/04/2025 - 02/05/2025,110.0,0.0,0.0,0.0
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,75%(i) (D),"April 15, 2025 3:55 PM",29/04/2025 - 30/04/2025,75.0,0.0,0.0,0.0
+PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,20%(F) (D),"April 7, 2025 4:15 PM",23/04/2025 - 30/04/2025,20.0,0.0,0.0,0.0
+HICL,Habib Insurance Company Limited,INSURANCE,DIVIDEND =20%(F),"April 3, 2025 3:33 PM",16/04/2025 - 29/04/2025,20.0,0.0,0.0,0.0
+RICL,Reliance Insurance Company Limited,INSURANCE,51% (B),"April 3, 2025 3:30 PM",21/04/2025 - 30/04/2025,0.0,51.0,0.0,0.0
+CSIL,Crescent Star Insurance Limited,INSURANCE,38% AT A DISCOUNT RS.3/- PER SHARE (R),"April 3, 2025 3:19 PM",-,0.0,0.0,38.0,0.0
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,20%(i) (D),"March 27, 2025 2:37 PM",14/04/2025 - 14/04/2025,20.0,0.0,0.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,5.5%(i) (D),"March 27, 2025 2:34 PM",10/04/2025 - 12/04/2025,5.5,0.0,0.0,0.0
+SHNI,Shaheen Insurance Company Limited,INSURANCE,25% (B),"March 27, 2025 2:33 PM",22/04/2025 - 28/04/2025,0.0,25.0,0.0,0.0
+UNIC,The United Insurance Company,INSURANCE,20% (B),"March 27, 2025 2:27 PM",18/04/2025 - 25/04/2025,0.0,20.0,0.0,0.0
+HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,400%(F) (D),"March 26, 2025 2:45 PM",22/04/2025 - 29/04/2025,400.0,0.0,0.0,0.0
+PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",150%(F) (D),"March 26, 2025 2:30 PM",23/04/2025 - 30/04/2025,150.0,0.0,0.0,0.0
+SRVI,Service Industries Limited,LEATHER & TANNERIES,150%(F) (D),"March 26, 2025 2:23 PM",22/04/2025 - 28/04/2025,150.0,0.0,0.0,0.0
+SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,40%(F) (D),"March 25, 2025 2:20 PM",22/04/2025 - 28/04/2025,40.0,0.0,0.0,0.0
+IGIHL,IGI Holdings Limited,INSURANCE,40%(F) (D),"March 25, 2025 2:17 PM",24/04/2025 - 30/04/2025,40.0,0.0,0.0,0.0
+SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,60%(F) (D),"March 24, 2025 2:14 PM",22/04/2025 - 28/04/2025,60.0,0.0,0.0,0.0
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,100%(F) (D),"March 24, 2025 2:13 PM",22/04/2025 - 28/04/2025,100.0,0.0,0.0,0.0
+SIBL,Security Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,15%(F) (D),"March 24, 2025 2:11 PM",22/04/2025 - 29/04/2025,15.0,0.0,0.0,0.0
+AGIC,Askari General Insurance Company Limited,INSURANCE,25%(F) (D),"March 18, 2025 2:26 PM",29/04/2025 - 29/04/2025,25.0,0.0,0.0,0.0
+FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,42.5%(F) (D),"March 14, 2025 1:12 PM",11/04/2025 - 18/04/2025,42.5,0.0,0.0,0.0
+JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,DIVIDEND =55%(F),"March 13, 2025 2:18 PM",19/04/2025 - 25/04/2025,55.0,0.0,0.0,0.0
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,300%(i) (D),"March 12, 2025 2:17 PM",20/03/2025 - 24/03/2025,300.0,0.0,0.0,0.0
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,50%(F) (D),"March 7, 2025 12:50 PM",19/04/2025 - 25/04/2025,50.0,0.0,0.0,0.0
+JSCLPSA,Jahangir Sidd(Pref),INV. BANKS / INV. COS. / SECURITIES COS.,6%(F) (D),"March 6, 2025 2:25 PM",21/04/2025 - 28/04/2025,6.0,0.0,0.0,0.0
+BOK,The Bank of Khyber,COMMERCIAL BANKS,17%(F) (D),"March 5, 2025 1:38 PM",21/03/2025 - 28/03/2025,17.0,0.0,0.0,0.0
+AICL,Adamjee Insurance Company Limited,INSURANCE,15%(F) (D),"March 4, 2025 2:31 PM",22/04/2025 - 29/04/2025,15.0,0.0,0.0,0.0
+NBP,National Bank of Pakistan,COMMERCIAL BANKS,80%(F) (D),"March 3, 2025 1:03 PM",18/03/2025 - 25/03/2025,80.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,6000%(F) (D),"March 3, 2025 11:56 AM",18/04/2025 - 22/04/2025,6000.0,0.0,0.0,0.0
+AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,25%(i) (D),"February 28, 2025 5:20 PM",12/03/2025 - 14/03/2025,25.0,0.0,0.0,0.0
+GCIL,Ghani Chemical Industries Limited,CHEMICAL,6%(i) (D),"February 28, 2025 4:38 PM",14/03/2025 - 16/03/2025,6.0,0.0,0.0,0.0
+ATIL,Atlas Insurance Limited,INSURANCE,60%(F) (D),"February 28, 2025 4:37 PM",01/04/2025 - 15/04/2025,60.0,0.0,0.0,0.0
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,40.50% (D),"February 28, 2025 4:32 PM",12/03/2025 - 14/03/2025,40.5,0.0,0.0,0.0
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(ii) (D),"February 28, 2025 4:26 PM",14/03/2025 - 18/03/2025,20.0,0.0,0.0,0.0
+PIOC,Pioneer Cement Limited,CEMENT,50%(i) (D),"February 28, 2025 4:24 PM",10/03/2025 - 12/03/2025,50.0,0.0,0.0,0.0
+AGP,AGP Limited,PHARMACEUTICALS,40%(F) (D),"February 28, 2025 11:04 AM",03/04/2025 - 10/04/2025,40.0,0.0,0.0,0.0
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,370%(ii) (D),"February 28, 2025 10:58 AM",12/03/2025 - 14/03/2025,370.0,0.0,0.0,0.0
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,12.50%(F) (D),"February 27, 2025 4:16 PM",20/03/2025 - 27/03/2025,12.5,0.0,0.0,0.0
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,20%(i) (D),"February 27, 2025 2:56 PM",12/03/2025 - 13/03/2025,20.0,0.0,0.0,0.0
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,80%(i) (D),"February 27, 2025 12:01 PM",11/03/2025 - 13/03/2025,80.0,0.0,0.0,0.0
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,20%(i) (D),"February 27, 2025 11:32 AM",11/03/2025 - 13/03/2025,20.0,0.0,0.0,0.0
+EFUG,EFU General Insurance Limited,INSURANCE,55%(F) (D),"February 26, 2025 4:17 PM",19/03/2025 - 25/03/2025,55.0,0.0,0.0,0.0
+SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,255%(i) (D),"February 26, 2025 3:58 PM",10/03/2025 - 12/03/2025,255.0,0.0,0.0,0.0
+CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"February 26, 2025 3:11 PM",16/04/2025 - 22/04/2025,10.0,0.0,0.0,0.0
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,10%(i) (D),"February 26, 2025 3:08 PM",11/03/2025 - 12/03/2025,10.0,0.0,0.0,0.0
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,50%(i) (D),"February 26, 2025 12:53 PM",11/03/2025 - 13/03/2025,50.0,0.0,0.0,0.0
+CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,25% (B),"February 26, 2025 12:52 PM",12/03/2025 - 18/03/2025,0.0,25.0,0.0,0.0
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,100%(F) (D),"February 26, 2025 12:49 PM",26/03/2025 - 07/04/2025,100.0,0.0,0.0,0.0
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,45%(i) (D),"February 25, 2025 4:14 PM",12/03/2025 - 14/03/2025,45.0,0.0,0.0,0.0
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,10%(i) (D),"February 25, 2025 4:13 PM",11/03/2025 - 13/03/2025,10.0,0.0,0.0,0.0
+EFUL,EFU Life Assurance Limited,INSURANCE,105%(F) (D),"February 25, 2025 4:08 PM",19/03/2025 - 25/03/2025,105.0,0.0,0.0,0.0
+MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,9.85% AT A PREMIUM RS.35/- PER SHARE (R),"February 25, 2025 3:52 PM",12/03/2025 - 18/03/2025,0.0,0.0,9.85,0.0
+AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(i) (D),"February 25, 2025 12:02 PM",07/03/2025 - 10/03/2025,10.0,0.0,0.0,0.0
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,40%(i) (D),"February 25, 2025 11:49 AM",07/03/2025 - 11/03/2025,40.0,0.0,0.0,0.0
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,100%(ii) (D),"February 24, 2025 4:25 PM",10/03/2025 - 12/03/2025,100.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,30%(F) (D),"February 24, 2025 4:18 PM",18/03/2025 - 24/03/2025,30.0,0.0,0.0,0.0
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,100%(i) (D),"February 24, 2025 12:27 PM",05/03/2025 - 07/03/2025,100.0,0.0,0.0,0.0
+ALTN,Altern Energy Limited,POWER GENERATION & DISTRIBUTION,97%(i) (D),"February 21, 2025 5:00 PM",03/03/2025 - 05/03/2025,97.0,0.0,0.0,0.0
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,55%(F) (D),"February 21, 2025 4:59 PM",18/03/2025 - 27/03/2025,55.0,0.0,0.0,0.0
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,1000%(F) (D),"February 21, 2025 4:57 PM",18/04/2025 - 24/04/2025,1000.0,0.0,0.0,0.0
+TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,20%(i) (D),"February 21, 2025 4:55 PM",06/03/2025 - 10/03/2025,20.0,0.0,0.0,0.0
+CHCC,Cherat Cement Company Limited,CEMENT,15%(i) (D),"February 21, 2025 2:43 PM",03/03/2025 - 04/03/2025,15.0,0.0,0.0,0.0
+DYNO,Dynea Pakistan Limited,CHEMICAL,100%(i) (D),"February 21, 2025 2:41 PM",05/03/2025 - 07/03/2025,100.0,0.0,0.0,0.0
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,120%(ii) (D),"February 21, 2025 2:40 PM",27/02/2025 - 28/02/2025,120.0,0.0,0.0,0.0
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,DIVIDEND =1100%(F),"February 20, 2025 3:48 PM",02/04/2025 - 08/04/2025,1100.0,0.0,0.0,0.0
+ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,100%(F) (D),"February 20, 2025 3:45 PM",16/04/2025 - 23/04/2025,100.0,0.0,0.0,0.0
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",10%(i) (D),"February 20, 2025 3:39 PM",28/02/2025 - 03/03/2025,10.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,25%(F) (D),"February 20, 2025 3:26 PM",19/03/2025 - 25/03/2025,25.0,0.0,0.0,0.0
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,45%(F) (D),"February 20, 2025 3:24 PM",21/03/2025 - 28/03/2025,45.0,0.0,0.0,0.0
+BWCL,Bestway Cement Limited,CEMENT,80%(ii) (D),"February 19, 2025 4:03 PM",03/03/2025 - 05/03/2025,80.0,0.0,0.0,0.0
+HBL,Habib Bank Limited,COMMERCIAL BANKS,42.5%(F) (D),"February 19, 2025 3:45 PM",19/03/2025 - 26/03/2025,42.5,0.0,0.0,0.0
+UBL,United Bank Limited,COMMERCIAL BANKS,110%(F) (D),"February 19, 2025 3:42 PM",13/03/2025 - 19/03/2025,110.0,0.0,0.0,0.0
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,450%(i) (D),"February 19, 2025 3:39 PM",05/03/2025 - 07/03/2025,450.0,0.0,0.0,0.0
+DOL,Descon Oxychem Limited,CHEMICAL,20%(i) (D),"February 19, 2025 3:35 PM",05/03/2025 - 07/03/2025,20.0,0.0,0.0,0.0
+BOP,The Bank of Punjab,COMMERCIAL BANKS,18%(F) (D),"February 17, 2025 3:51 PM",19/03/2025 - 25/03/2025,18.0,0.0,0.0,0.0
+CENI,Century Insurance Company Limited,INSURANCE,60%(F) (D),"February 17, 2025 3:47 PM",22/04/2025 - 29/04/2025,60.0,0.0,0.0,0.0
+ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,25%(F) (D),"February 14, 2025 4:16 PM",16/04/2025 - 22/04/2025,25.0,0.0,0.0,0.0
+ICL,Ittehad Chemicals Limted,CHEMICAL,20%(i) (D),"February 14, 2025 4:11 PM",01/03/2025 - 03/03/2025,20.0,0.0,0.0,0.0
+FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,28%(F) (D),"February 14, 2025 4:02 PM",15/04/2025 - 21/04/2025,28.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,300%(F) (D),"February 13, 2025 3:32 PM",15/04/2025 - 22/04/2025,300.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,70%(F) (D),"February 13, 2025 3:30 PM",24/03/2025 - 27/03/2025,70.0,0.0,0.0,0.0
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,20%(i) (D),"February 13, 2025 3:27 PM",01/03/2025 - 03/03/2025,20.0,0.0,0.0,0.0
+EFERT,Engro Fertilizers Limited,FERTILIZER,80%(F) (D),"February 10, 2025 3:39 PM",18/03/2025 - 24/03/2025,80.0,0.0,0.0,0.0
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",DIVIDEND =6%(i),"February 7, 2025 5:12 PM",18/02/2025 - 20/02/2025,6.0,0.0,0.0,0.0
+SNBL,Soneri Bank Limited,COMMERCIAL BANKS,17.50%(i) (D),"February 7, 2025 5:07 PM",07/03/2025 - 13/03/2025,17.5,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(F) (D),"February 6, 2025 4:25 PM",18/03/2025 - 27/03/2025,90.0,0.0,0.0,0.0
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,150%(F) (D),"February 6, 2025 4:23 PM",13/03/2025 - 20/03/2025,150.0,0.0,0.0,0.0
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,35%(i) (D),"February 6, 2025 4:18 PM",18/02/2025 - 20/02/2025,35.0,0.0,0.0,0.0
+ABL,Allied Bank Limited,COMMERCIAL BANKS,40%(F) (D),"February 4, 2025 3:55 PM",17/03/2025 - 24/03/2025,40.0,0.0,0.0,0.0
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,60%(ii) (D),"February 4, 2025 3:52 PM",12/02/2025 - 14/02/2025,60.0,0.0,0.0,0.0
+THCCL,Thatta Cement Company Limited,CEMENT,5%(ii) (D),"February 3, 2025 3:35 PM",10/02/2025 - 12/02/2025,5.0,0.0,0.0,0.0
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,20%(i) (D),"January 31, 2025 4:51 PM",14/02/2025 - 18/02/2025,20.0,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,65%(F) (D),"January 30, 2025 4:05 PM",17/02/2025 - 27/02/2025,65.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,25%(F) (D),"January 30, 2025 4:00 PM",12/03/2025 - 20/03/2025,25.0,0.0,0.0,0.0
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,210%(F) (D),"January 29, 2025 3:36 PM",23/03/2025 - 25/03/2025,210.0,0.0,0.0,0.0
+LCI,Lucky Core Industries Limited,CHEMICAL,340%(i) (D),"January 28, 2025 3:07 PM",10/02/2025 - 12/02/2025,340.0,0.0,0.0,0.0
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,250%(i) (D),"January 27, 2025 4:28 PM",10/02/2025 - 12/02/2025,250.0,0.0,0.0,0.0
+ATRL,Attock Refinery Limited,REFINERY,50%(I) (D),"January 27, 2025 4:25 PM",10/02/2025 - 12/02/2025,50.0,0.0,0.0,0.0
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,125%(i) (D),"January 27, 2025 4:17 PM",10/02/2025 - 12/02/2025,125.0,0.0,0.0,0.0
+COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,320%(i) (D),"January 27, 2025 4:13 PM",07/02/2025 - 09/02/2025,320.0,0.0,0.0,0.0
+PECO,Pakistan Engineering Company Limited,ENGINEERING,50% At a Premium Rs. 90/- Per Share (R),"January 21, 2025 3:25 PM",-,0.0,0.0,50.0,0.0
+OBOY,Oilboy Energy Limited,OIL & GAS MARKETING COMPANIES,= 100% (R),"January 16, 2025 3:58 PM",18/03/2025 - 24/03/2025,0.0,0.0,100.0,0.0
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,5.5%(ii) (D),"January 7, 2025 4:15 PM",17/01/2025 - 19/01/2025,5.5,0.0,0.0,0.0
+ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,15%(F) (D),"January 6, 2025 3:23 PM",18/01/2025 - 28/01/2025,15.0,0.0,0.0,0.0
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,300%(F) (D),"January 3, 2025 5:41 PM",22/01/2025 - 28/01/2025,300.0,0.0,0.0,0.0
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,250%(F) (D),"January 2, 2025 3:51 PM",22/01/2025 - 28/01/2025,250.0,0.0,0.0,0.0
+JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,27.322%(ii) (D),"January 1, 2025 4:04 PM",13/01/2025 - 14/01/2025,27.322,0.0,0.0,0.0
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,25%(i) (D),"January 1, 2025 4:03 PM",10/01/2025 - 10/01/2025,25.0,0.0,0.0,0.0
+HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,120%(F) (D),"December 11, 2024 3:46 PM",14/01/2025 - 23/01/2025,120.0,0.0,0.0,0.0
+EWIC,East West Insurance Company Limited,INSURANCE,15% (R),"November 22, 2024 5:08 PM",30/11/2024 - 02/12/2024,0.0,0.0,15.0,0.0
+LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,5%(F) (D),"November 20, 2024 4:18 PM",20/11/2024 - 27/11/2024,5.0,0.0,0.0,0.0
+TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,20.203% AT A PREMIUM OF Rs.17/= PER SHARE (R),"November 18, 2024 4:03 PM",-,0.0,0.0,20.203,0.0
+FRSM,Faran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,58% AT A PREMIUM OF Rs.35/= PER SHARE (R),"November 13, 2024 4:36 PM",22/11/2024 - 29/11/2024,0.0,0.0,58.0,0.0
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,50%(I) (D),"November 13, 2024 4:33 PM",25/11/2024 - 26/11/2024,50.0,0.0,0.0,0.0
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,10%(F) (D),"November 5, 2024 4:34 PM",20/11/2024 - 27/11/2024,10.0,0.0,0.0,0.0
+AHCL,Arif Habib Corporation Limited,FERTILIZER,70%(F) (D),"November 5, 2024 11:33 AM",13/11/2024 - 15/11/2024,70.0,0.0,0.0,0.0
+LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,5%(F) (D),"November 4, 2024 4:38 PM",20/11/2024 - 27/11/2024,5.0,0.0,0.0,0.0
