@@ -93,12 +93,13 @@ def parse_company(html):
 
     mc = ""
     for i, ln in enumerate(lines):
-        if re.search(r"market cap", ln, re.I):
-            tail = re.findall(r"\d[\d,\.]*", ln.split(")")[-1])
-            if tail:
-                mc = tail[-1]
-            else:
-                mc = next((x for x in lines[i + 1:i + 4] if re.fullmatch(r"[\d,\.]+", x)), "")
+        if not re.search(r"market cap", ln, re.I):
+            continue
+        cands = re.findall(r"\d[\d,\.]*", ln.split(")")[-1])
+        cands += [x for x in lines[i + 1:i + 4] if re.fullmatch(r"[\d,\.]+", x)]
+        good = [c for c in cands if to_num(c)]  # skip empty or 0 placeholders
+        if good:
+            mc = good[0]
             break
 
     profile = {
@@ -147,6 +148,26 @@ def main():
         raise SystemExit(f"Only {with_fin} companies had parsable financials; "
                          "page layout probably changed. Files not overwritten. "
                          "Run: python fetch_extra.py --debug KML")
+
+    fin_rows = list(dict.fromkeys(fin_rows))  # drop exact duplicate rows
+    seen_keys, uniq = set(), []
+    for r in fin_rows:
+        k = r[:4]  # symbol, frequency, period, metric
+        if k not in seen_keys:
+            seen_keys.add(k)
+            uniq.append(r)
+    fin_rows = uniq
+
+    def num(v):
+        v = clean(str(v)).replace(",", "").replace("%", "")
+        try:
+            return float(v)
+        except ValueError:
+            return ""
+
+    for pr in prof_rows:
+        for k in ("market_cap", "shares", "free_float_shares", "free_float_pct"):
+            pr[k] = num(pr[k])
 
     with open(DATA / "financials.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

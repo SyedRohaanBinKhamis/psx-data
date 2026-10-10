@@ -58,6 +58,18 @@ def main():
         raise SystemExit("No data downloaded, keeping existing files")
 
     rows.sort()
+
+    # Safety guard: never overwrite good data with a partial download.
+    old = DATA / "psx_eod.csv"
+    if old.exists():
+        with open(old, encoding="utf-8") as f:
+            old_lines = f.readlines()[1:]
+        old_max = max((l.split(",")[1] for l in old_lines), default="")
+        new_max = max((r[1] for r in rows), default="")
+        if len(rows) < 0.95 * len(old_lines) or new_max < old_max:
+            raise SystemExit(f"Partial download ({len(rows)} rows vs {len(old_lines)} existing, "
+                             f"latest {new_max} vs {old_max}); keeping existing files")
+
     with open(DATA / "psx_eod.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["symbol", "date", "open", "close", "volume"])

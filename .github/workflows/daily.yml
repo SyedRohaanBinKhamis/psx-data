@@ -2,7 +2,7 @@ name: Daily PSX refresh
 
 on:
   schedule:
-    - cron: "0 12 * * 1-5"   # 5pm PKT, after market close, Mon-Fri
+    - cron: "17 12 * * 1-5"   # ~5:17pm PKT, off the busy top-of-hour slot
   workflow_dispatch:          # lets you run it manually
 
 permissions:
@@ -20,6 +20,8 @@ jobs:
       - run: pip install git+https://github.com/umairsandhu/psx-dps
       - run: python fetch_psx.py
       - run: python fetch_announcements.py
+        continue-on-error: true
+      - run: python data_quality.py
         continue-on-error: true
       - name: Commit changes
         run: |

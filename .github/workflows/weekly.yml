@@ -2,7 +2,7 @@ name: Weekly PSX financials
 
 on:
   schedule:
-    - cron: "0 5 * * 0"       # Sunday 10am PKT
+    - cron: "23 5 * * 0"       # Sunday ~10:23am PKT
   workflow_dispatch:
 
 permissions:
