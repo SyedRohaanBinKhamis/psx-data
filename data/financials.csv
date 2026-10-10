@@ -4712,46 +4712,6 @@ DFSM,annual,2026,PEG,-13.12
 DFSM,annual,2025,PEG,-0.07
 DFSM,annual,2024,PEG,0.03
 DFSM,annual,2023,PEG,0.01
-DGKC,annual,2026,Sales,79562656.0
-DGKC,annual,2025,Sales,71892837.0
-DGKC,annual,2024,Sales,66038689.0
-DGKC,annual,2023,Sales,64983821.0
-DGKC,annual,2026,Profit after Taxation,11425385.0
-DGKC,annual,2025,Profit after Taxation,8675059.0
-DGKC,annual,2024,Profit after Taxation,542396.0
-DGKC,annual,2023,Profit after Taxation,-3635976.0
-DGKC,annual,2026,EPS,26.08
-DGKC,annual,2025,EPS,19.8
-DGKC,annual,2024,EPS,1.24
-DGKC,annual,2023,EPS,-8.3
-DGKC,quarterly,Q3 2026,Sales,19996880.0
-DGKC,quarterly,Q2 2026,Sales,20781561.0
-DGKC,quarterly,Q1 2026,Sales,19808162.0
-DGKC,quarterly,Q3 2025,Sales,18125324.0
-DGKC,quarterly,Q3 2026,Profit after Taxation,2500968.0
-DGKC,quarterly,Q2 2026,Profit after Taxation,3694386.0
-DGKC,quarterly,Q1 2026,Profit after Taxation,2159956.0
-DGKC,quarterly,Q3 2025,Profit after Taxation,1995716.0
-DGKC,quarterly,Q3 2026,EPS,5.71
-DGKC,quarterly,Q2 2026,EPS,8.43
-DGKC,quarterly,Q1 2026,EPS,4.93
-DGKC,quarterly,Q3 2025,EPS,4.56
-DGKC,annual,2026,Gross Profit Margin (%),26.06
-DGKC,annual,2025,Gross Profit Margin (%),25.74
-DGKC,annual,2024,Gross Profit Margin (%),15.94
-DGKC,annual,2023,Gross Profit Margin (%),14.7
-DGKC,annual,2026,Net Profit Margin (%),14.36
-DGKC,annual,2025,Net Profit Margin (%),12.07
-DGKC,annual,2024,Net Profit Margin (%),0.82
-DGKC,annual,2023,Net Profit Margin (%),-5.6
-DGKC,annual,2026,EPS Growth (%),31.72
-DGKC,annual,2025,EPS Growth (%),1496.77
-DGKC,annual,2024,EPS Growth (%),114.94
-DGKC,annual,2023,EPS Growth (%),-222.42
-DGKC,annual,2026,PEG,0.27
-DGKC,annual,2025,PEG,0.01
-DGKC,annual,2024,PEG,0.63
-DGKC,annual,2023,PEG,0.03
 DHPL,quarterly,Q3 2025,Sales,633658.0
 DHPL,quarterly,Q2 2025,Sales,2658829.0
 DHPL,quarterly,Q3 2025,Sales,633658.0
@@ -12421,46 +12381,6 @@ MACFL,annual,2026,PEG,0.58
 MACFL,annual,2025,PEG,-0.51
 MACFL,annual,2024,PEG,-0.13
 MACFL,annual,2023,PEG,0.02
-MACTER,annual,2026,Sales,11731856.0
-MACTER,annual,2025,Sales,9914318.0
-MACTER,annual,2024,Sales,7535382.0
-MACTER,annual,2023,Sales,6680391.0
-MACTER,annual,2026,Profit after Taxation,698254.0
-MACTER,annual,2025,Profit after Taxation,737534.0
-MACTER,annual,2024,Profit after Taxation,427163.0
-MACTER,annual,2023,Profit after Taxation,392868.0
-MACTER,annual,2026,EPS,15.24
-MACTER,annual,2025,EPS,16.1
-MACTER,annual,2024,EPS,9.32
-MACTER,annual,2023,EPS,8.58
-MACTER,quarterly,Q3 2026,Sales,2786512.0
-MACTER,quarterly,Q2 2026,Sales,3340934.0
-MACTER,quarterly,Q1 2026,Sales,2768985.0
-MACTER,quarterly,Q3 2025,Sales,2426952.0
-MACTER,quarterly,Q3 2026,Profit after Taxation,91751.0
-MACTER,quarterly,Q2 2026,Profit after Taxation,270940.0
-MACTER,quarterly,Q1 2026,Profit after Taxation,156220.0
-MACTER,quarterly,Q3 2025,Profit after Taxation,94913.0
-MACTER,quarterly,Q3 2026,EPS,2.0
-MACTER,quarterly,Q2 2026,EPS,5.91
-MACTER,quarterly,Q1 2026,EPS,3.41
-MACTER,quarterly,Q3 2025,EPS,2.07
-MACTER,annual,2026,Gross Profit Margin (%),48.25
-MACTER,annual,2025,Gross Profit Margin (%),44.96
-MACTER,annual,2024,Gross Profit Margin (%),42.22
-MACTER,annual,2023,Gross Profit Margin (%),41.68
-MACTER,annual,2026,Net Profit Margin (%),5.95
-MACTER,annual,2025,Net Profit Margin (%),7.44
-MACTER,annual,2024,Net Profit Margin (%),5.67
-MACTER,annual,2023,Net Profit Margin (%),5.88
-MACTER,annual,2026,EPS Growth (%),-5.34
-MACTER,annual,2025,EPS Growth (%),72.75
-MACTER,annual,2024,EPS Growth (%),8.62
-MACTER,annual,2023,EPS Growth (%),19.33
-MACTER,annual,2026,PEG,-3.37
-MACTER,annual,2025,PEG,0.43
-MACTER,annual,2024,PEG,1.17
-MACTER,annual,2023,PEG,0.59
 MARI,annual,2026,Sales,191663216.0
 MARI,annual,2025,Sales,177097104.0
 MARI,annual,2024,Sales,181828621.0
@@ -16378,46 +16298,6 @@ QUET,annual,2025,PEG,0.0
 QUET,annual,2024,PEG,0.0
 QUET,annual,2023,PEG,0.0
 QUET,annual,2022,PEG,0.03
-QUICE,annual,2026,Sales,1904818.0
-QUICE,annual,2025,Sales,1094764.0
-QUICE,annual,2024,Sales,903255.0
-QUICE,annual,2023,Sales,838449.0
-QUICE,annual,2026,Profit after Taxation,651.0
-QUICE,annual,2025,Profit after Taxation,-11731.0
-QUICE,annual,2024,Profit after Taxation,-27145.0
-QUICE,annual,2023,Profit after Taxation,-12330.0
-QUICE,annual,2026,EPS,0.0
-QUICE,annual,2025,EPS,-0.12
-QUICE,annual,2024,EPS,-0.28
-QUICE,annual,2023,EPS,-0.12
-QUICE,quarterly,Q3 2026,Sales,421609.0
-QUICE,quarterly,Q2 2026,Sales,517644.0
-QUICE,quarterly,Q1 2026,Sales,425739.0
-QUICE,quarterly,Q3 2025,Sales,337608.0
-QUICE,quarterly,Q3 2026,Profit after Taxation,5324.0
-QUICE,quarterly,Q2 2026,Profit after Taxation,3100.0
-QUICE,quarterly,Q1 2026,Profit after Taxation,3539.0
-QUICE,quarterly,Q3 2025,Profit after Taxation,13150.0
-QUICE,quarterly,Q3 2026,EPS,0.05
-QUICE,quarterly,Q2 2026,EPS,0.03
-QUICE,quarterly,Q1 2026,EPS,0.04
-QUICE,quarterly,Q3 2025,EPS,0.13
-QUICE,annual,2026,Gross Profit Margin (%),17.47
-QUICE,annual,2025,Gross Profit Margin (%),17.08
-QUICE,annual,2024,Gross Profit Margin (%),13.95
-QUICE,annual,2023,Gross Profit Margin (%),14.78
-QUICE,annual,2026,Net Profit Margin (%),0.03
-QUICE,annual,2025,Net Profit Margin (%),-1.07
-QUICE,annual,2024,Net Profit Margin (%),-3.01
-QUICE,annual,2023,Net Profit Margin (%),-1.47
-QUICE,annual,2026,EPS Growth (%),100.59
-QUICE,annual,2025,EPS Growth (%),56.88
-QUICE,annual,2024,EPS Growth (%),-120.8
-QUICE,annual,2023,EPS Growth (%),48.77
-QUICE,annual,2026,PEG,483.02
-QUICE,annual,2025,PEG,-1.11
-QUICE,annual,2024,PEG,0.13
-QUICE,annual,2023,PEG,-0.57
 RAVT,annual,2020,Profit after Taxation,30197.0
 RAVT,annual,2019,Profit after Taxation,101956.0
 RAVT,annual,2018,Profit after Taxation,-34780.0
@@ -16434,46 +16314,6 @@ RAVT,annual,2020,PEG,-0.03
 RAVT,annual,2019,PEG,0.0
 RAVT,annual,2018,PEG,-0.73
 RAVT,annual,2017,PEG,-0.13
-RCML,annual,2025,Sales,15816269.0
-RCML,annual,2024,Sales,15069073.0
-RCML,annual,2023,Sales,11048840.0
-RCML,annual,2022,Sales,11386469.0
-RCML,annual,2025,Profit after Taxation,707612.0
-RCML,annual,2024,Profit after Taxation,1314531.0
-RCML,annual,2023,Profit after Taxation,839110.0
-RCML,annual,2022,Profit after Taxation,2772332.0
-RCML,annual,2025,EPS,66.43
-RCML,annual,2024,EPS,127.72
-RCML,annual,2023,EPS,81.53
-RCML,annual,2022,EPS,269.37
-RCML,quarterly,Q2 2026,Sales,3399270.0
-RCML,quarterly,Q1 2026,Sales,3951024.0
-RCML,quarterly,Q3 2025,Sales,3710330.0
-RCML,quarterly,Q2 2025,Sales,3750227.0
-RCML,quarterly,Q2 2026,Profit after Taxation,65336.0
-RCML,quarterly,Q1 2026,Profit after Taxation,239909.0
-RCML,quarterly,Q3 2025,Profit after Taxation,215214.0
-RCML,quarterly,Q2 2025,Profit after Taxation,226911.0
-RCML,quarterly,Q2 2026,EPS,6.13
-RCML,quarterly,Q1 2026,EPS,22.52
-RCML,quarterly,Q3 2025,EPS,20.2
-RCML,quarterly,Q2 2025,EPS,21.3
-RCML,annual,2025,Gross Profit Margin (%),12.21
-RCML,annual,2024,Gross Profit Margin (%),14.84
-RCML,annual,2023,Gross Profit Margin (%),15.44
-RCML,annual,2022,Gross Profit Margin (%),32.55
-RCML,annual,2025,Net Profit Margin (%),4.47
-RCML,annual,2024,Net Profit Margin (%),8.72
-RCML,annual,2023,Net Profit Margin (%),7.59
-RCML,annual,2022,Net Profit Margin (%),24.35
-RCML,annual,2025,EPS Growth (%),-47.99
-RCML,annual,2024,EPS Growth (%),56.65
-RCML,annual,2023,EPS Growth (%),-69.73
-RCML,annual,2022,EPS Growth (%),131.12
-RCML,annual,2025,PEG,-0.14
-RCML,annual,2024,PEG,0.06
-RCML,annual,2023,PEG,-0.09
-RCML,annual,2022,PEG,0.01
 REDCO,annual,2026,Sales,1795992.0
 REDCO,annual,2025,Sales,1800495.0
 REDCO,annual,2024,Sales,1470172.0
@@ -16554,30 +16394,6 @@ REWM,annual,2026,PEG,0.03
 REWM,annual,2025,PEG,0.14
 REWM,annual,2024,PEG,-0.51
 REWM,annual,2023,PEG,-0.13
-RICL,annual,2025,EPS,4.63
-RICL,annual,2024,EPS,3.0
-RICL,annual,2023,EPS,2.58
-RICL,annual,2022,EPS,0.66
-RICL,quarterly,Q2 2026,EPS,1.05
-RICL,quarterly,Q1 2026,EPS,0.59
-RICL,quarterly,Q3 2025,EPS,2.0
-RICL,quarterly,Q2 2025,EPS,0.43
-RICL,annual,2025,Gross Profit Margin (%),15.74
-RICL,annual,2024,Gross Profit Margin (%),15.38
-RICL,annual,2023,Gross Profit Margin (%),10.61
-RICL,annual,2022,Gross Profit Margin (%),10.94
-RICL,annual,2025,Net Profit Margin (%),77.93
-RICL,annual,2024,Net Profit Margin (%),55.23
-RICL,annual,2023,Net Profit Margin (%),37.31
-RICL,annual,2022,Net Profit Margin (%),12.24
-RICL,annual,2025,EPS Growth (%),54.33
-RICL,annual,2024,EPS Growth (%),16.28
-RICL,annual,2023,EPS Growth (%),290.91
-RICL,annual,2022,EPS Growth (%),-21.43
-RICL,annual,2025,PEG,0.06
-RICL,annual,2024,PEG,0.24
-RICL,annual,2023,PEG,0.01
-RICL,annual,2022,PEG,-0.47
 RMPL,annual,2025,Sales,73362632.0
 RMPL,annual,2024,Sales,69922596.0
 RMPL,annual,2023,Sales,65466700.0
@@ -17217,38 +17033,6 @@ SEARL,annual,2026,PEG,0.02
 SEARL,annual,2025,PEG,1.07
 SEARL,annual,2024,PEG,0.01
 SEARL,annual,2023,PEG,-0.59
-SEL,annual,2026,Sales,33205.0
-SEL,annual,2025,Sales,176070.0
-SEL,annual,2024,Sales,916056.0
-SEL,annual,2023,Sales,1067686.0
-SEL,annual,2026,Profit after Taxation,36289.0
-SEL,annual,2025,Profit after Taxation,167137.0
-SEL,annual,2024,Profit after Taxation,41991.0
-SEL,annual,2023,Profit after Taxation,-103282.0
-SEL,quarterly,Q3 2026,Sales,5557.0
-SEL,quarterly,Q2 2026,Sales,5702.0
-SEL,quarterly,Q1 2026,Sales,7967.0
-SEL,quarterly,Q3 2025,Sales,6576.0
-SEL,quarterly,Q3 2026,Profit after Taxation,-35310.0
-SEL,quarterly,Q2 2026,Profit after Taxation,96638.0
-SEL,quarterly,Q1 2026,Profit after Taxation,1860.0
-SEL,quarterly,Q3 2025,Profit after Taxation,-32437.0
-SEL,annual,2026,Gross Profit Margin (%),-40.62
-SEL,annual,2025,Gross Profit Margin (%),-21.92
-SEL,annual,2024,Gross Profit Margin (%),0.79
-SEL,annual,2023,Gross Profit Margin (%),4.57
-SEL,annual,2026,Net Profit Margin (%),109.29
-SEL,annual,2025,Net Profit Margin (%),94.93
-SEL,annual,2024,Net Profit Margin (%),4.58
-SEL,annual,2023,Net Profit Margin (%),-9.67
-SEL,annual,2026,EPS Growth (%),-78.29
-SEL,annual,2025,EPS Growth (%),297.73
-SEL,annual,2024,EPS Growth (%),140.67
-SEL,annual,2023,EPS Growth (%),33.29
-SEL,annual,2026,PEG,-0.21
-SEL,annual,2025,PEG,0.0
-SEL,annual,2024,PEG,0.04
-SEL,annual,2023,PEG,-0.04
 SELECT,annual,2026,Sales,31558501.0
 SELECT,annual,2025,Sales,48892698.0
 SELECT,annual,2026,Profit after Taxation,2701453.0
