@@ -3,7 +3,7 @@
 Reads each company page (dps.psx.com.pk/company/SYMBOL) and writes:
   data/financials.csv  (symbol, frequency, period, metric, value)
   data/payouts.csv     (symbol + the columns PSX shows)
-  data/profiles.csv    (symbol, market cap, shares, free float, risk warning)
+  data/profiles.csv    (symbol, market cap in 000s, shares, free float)
 
 Run: python fetch_extra.py
 Debug one company: python fetch_extra.py --debug KML   (saves the raw page)
@@ -91,19 +91,21 @@ def parse_company(html):
     ff_pct = next((v for v in ff if "%" in v), "")
     ff_shares = next((v for v in ff if "%" not in v), "")
 
-    risk = ""
-    for ln in lines:
-        if re.search(r"risk warning|suspension|delist", ln, re.I):
-            risk = ln[:300]
+    mc = ""
+    for i, ln in enumerate(lines):
+        if re.search(r"market cap", ln, re.I):
+            tail = re.findall(r"\d[\d,\.]*", ln.split(")")[-1])
+            if tail:
+                mc = tail[-1]
+            else:
+                mc = next((x for x in lines[i + 1:i + 4] if re.fullmatch(r"[\d,\.]+", x)), "")
             break
 
     profile = {
-        "market_cap": after(r"market cap(italization)?( \(.*\))?"),
+        "market_cap": mc,
         "shares": after(r"shares( outstanding)?"),
         "free_float_shares": ff_shares,
         "free_float_pct": ff_pct,
-        "risk_warning": 1 if risk else 0,
-        "risk_text": risk,
     }
     return fin, payouts, profile
 
@@ -163,7 +165,7 @@ def main():
 
     with open(DATA / "profiles.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["symbol", "market_cap", "shares", "free_float_shares",
-                                          "free_float_pct", "risk_warning", "risk_text", "fetched_on"])
+                                          "free_float_pct", "fetched_on"])
         w.writeheader()
         w.writerows(prof_rows)
 
