@@ -21,6 +21,8 @@ jobs:
       - run: python fetch_psx.py
       - run: python fetch_announcements.py
         continue-on-error: true
+      - run: python fetch_dividends.py
+        continue-on-error: true
       - run: python data_quality.py
         continue-on-error: true
       - name: Commit changes

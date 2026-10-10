@@ -1,8 +1,7 @@
-"""Weekly: financials, payouts and company profile for every PSX symbol.
+"""Weekly: financials and company profile for every PSX symbol.
 
 Reads each company page (dps.psx.com.pk/company/SYMBOL) and writes:
   data/financials.csv  (symbol, frequency, period, metric, value)
-  data/payouts.csv     (symbol + the columns PSX shows)
   data/profiles.csv    (symbol, market cap in 000s, shares, free float)
 
 Run: python fetch_extra.py
@@ -174,16 +173,6 @@ def main():
         w.writerow(["symbol", "frequency", "period", "metric", "value"])
         w.writerows(fin_rows)
 
-    fields = []
-    for r in pay_rows:
-        for k in r:
-            if k not in fields:
-                fields.append(k)
-    with open(DATA / "payouts.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fields or ["symbol"])
-        w.writeheader()
-        w.writerows(pay_rows)
-
     with open(DATA / "profiles.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["symbol", "market_cap", "shares", "free_float_shares",
                                           "free_float_pct", "fetched_on"])
@@ -191,7 +180,7 @@ def main():
         w.writerows(prof_rows)
 
     print(f"Financial rows: {len(fin_rows)} for {with_fin} companies; "
-          f"payout rows: {len(pay_rows)}; profiles: {len(prof_rows)}")
+          f"profiles: {len(prof_rows)}")
     if failed:
         print("Failed:", ", ".join(failed))
 
