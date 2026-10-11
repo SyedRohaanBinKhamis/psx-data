@@ -17,8 +17,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install git+https://github.com/umairsandhu/psx-dps beautifulsoup4 lxml
+      - run: pip install git+https://github.com/umairsandhu/psx-dps beautifulsoup4 lxml requests
       - run: python fetch_extra.py
+      - run: python fetch_statements.py
+        continue-on-error: true
       - name: Commit changes
         run: |
           git config user.name "psx-bot"

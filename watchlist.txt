@@ -1,0 +1,15 @@
+# One PSX symbol per line. Lines starting with # are ignored.
+# fetch_statements.py downloads full income statement, balance sheet and
+# cash flow for these companies every week. Keep the list short (under ~30).
+KML
+KTML
+CLOV
+ASTM
+TPLT
+MSOT
+FPJM
+MACFL
+FANM
+STPL
+GSPM
+TPL
