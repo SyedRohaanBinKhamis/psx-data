@@ -3391,18 +3391,18 @@ BWHL,annual,2026,EPS,23.44
 BWHL,annual,2025,EPS,23.67
 BWHL,annual,2024,EPS,18.05
 BWHL,annual,2023,EPS,10.23
+BWHL,quarterly,Q1 2027,Sales,825611.0
 BWHL,quarterly,Q3 2026,Sales,754283.0
 BWHL,quarterly,Q2 2026,Sales,675073.0
 BWHL,quarterly,Q1 2026,Sales,724847.0
-BWHL,quarterly,Q3 2025,Sales,653248.0
+BWHL,quarterly,Q1 2027,Profit after Taxation,95933.0
 BWHL,quarterly,Q3 2026,Profit after Taxation,75693.0
 BWHL,quarterly,Q2 2026,Profit after Taxation,108203.0
 BWHL,quarterly,Q1 2026,Profit after Taxation,97167.0
-BWHL,quarterly,Q3 2025,Profit after Taxation,90799.0
+BWHL,quarterly,Q1 2027,EPS,7.19
 BWHL,quarterly,Q3 2026,EPS,5.68
 BWHL,quarterly,Q2 2026,EPS,8.11
 BWHL,quarterly,Q1 2026,EPS,7.29
-BWHL,quarterly,Q3 2025,EPS,6.81
 BWHL,annual,2026,Gross Profit Margin (%),28.49
 BWHL,annual,2025,Gross Profit Margin (%),24.6
 BWHL,annual,2024,Gross Profit Margin (%),21.55
@@ -3524,22 +3524,22 @@ CCM,quarterly,Q3 2026,EPS,0.43
 CCM,quarterly,Q2 2026,EPS,0.91
 CCM,quarterly,Q1 2026,EPS,0.8
 CCM,quarterly,Q3 2025,EPS,0.85
-CCM,annual,2025,Gross Profit Margin (%),7.11
-CCM,annual,2024,Gross Profit Margin (%),7.75
-CCM,annual,2023,Gross Profit Margin (%),8.0
-CCM,annual,2022,Gross Profit Margin (%),7.33
-CCM,annual,2025,Net Profit Margin (%),0.99
-CCM,annual,2024,Net Profit Margin (%),0.12
-CCM,annual,2023,Net Profit Margin (%),1.29
-CCM,annual,2022,Net Profit Margin (%),1.8
-CCM,annual,2025,EPS Growth (%),741.38
-CCM,annual,2024,EPS Growth (%),-91.42
-CCM,annual,2023,EPS Growth (%),-33.33
-CCM,annual,2022,EPS Growth (%),-53.87
-CCM,annual,2025,PEG,0.02
-CCM,annual,2024,PEG,-2.19
-CCM,annual,2023,PEG,-0.82
-CCM,annual,2022,PEG,-0.12
+CCM,annual,2026,Gross Profit Margin (%),7.11
+CCM,annual,2025,Gross Profit Margin (%),7.75
+CCM,annual,2024,Gross Profit Margin (%),8.0
+CCM,annual,2023,Gross Profit Margin (%),7.33
+CCM,annual,2026,Net Profit Margin (%),0.99
+CCM,annual,2025,Net Profit Margin (%),0.12
+CCM,annual,2024,Net Profit Margin (%),1.29
+CCM,annual,2023,Net Profit Margin (%),1.8
+CCM,annual,2026,EPS Growth (%),741.38
+CCM,annual,2025,EPS Growth (%),-91.42
+CCM,annual,2024,EPS Growth (%),-33.33
+CCM,annual,2023,EPS Growth (%),-53.87
+CCM,annual,2026,PEG,0.02
+CCM,annual,2025,PEG,-2.19
+CCM,annual,2024,PEG,-0.82
+CCM,annual,2023,PEG,-0.12
 CECL,annual,2018,Sales,27940.0
 CECL,annual,2017,Sales,35458.0
 CECL,annual,2016,Sales,40589.0
@@ -12118,18 +12118,18 @@ LOTCHEM,annual,2025,EPS,0.74
 LOTCHEM,annual,2024,EPS,1.75
 LOTCHEM,annual,2023,EPS,3.35
 LOTCHEM,annual,2022,EPS,6.68
+LOTCHEM,quarterly,Q3 2026,Sales,18468031.0
 LOTCHEM,quarterly,Q2 2026,Sales,23847373.0
 LOTCHEM,quarterly,Q1 2026,Sales,20859834.0
 LOTCHEM,quarterly,Q3 2025,Sales,20365180.0
-LOTCHEM,quarterly,Q2 2025,Sales,18670744.0
+LOTCHEM,quarterly,Q3 2026,Profit after Taxation,539104.0
 LOTCHEM,quarterly,Q2 2026,Profit after Taxation,2837552.0
 LOTCHEM,quarterly,Q1 2026,Profit after Taxation,1474370.0
 LOTCHEM,quarterly,Q3 2025,Profit after Taxation,94089.0
-LOTCHEM,quarterly,Q2 2025,Profit after Taxation,79878.0
+LOTCHEM,quarterly,Q3 2026,EPS,0.36
 LOTCHEM,quarterly,Q2 2026,EPS,1.87
 LOTCHEM,quarterly,Q1 2026,EPS,0.97
 LOTCHEM,quarterly,Q3 2025,EPS,0.06
-LOTCHEM,quarterly,Q2 2025,EPS,0.05
 LOTCHEM,annual,2025,Gross Profit Margin (%),3.8
 LOTCHEM,annual,2024,Gross Profit Margin (%),4.75
 LOTCHEM,annual,2023,Gross Profit Margin (%),12.55
@@ -13107,18 +13107,18 @@ MSCL,annual,2026,PEG,0.94
 MSCL,annual,2025,PEG,-0.67
 MSCL,annual,2024,PEG,0.21
 MSCL,annual,2023,PEG,-0.84
+MSOT,annual,2026,Sales,49840841.0
 MSOT,annual,2025,Sales,59201769.0
 MSOT,annual,2024,Sales,58676926.0
 MSOT,annual,2023,Sales,60105873.0
-MSOT,annual,2022,Sales,54146811.0
+MSOT,annual,2026,Profit after Taxation,809071.0
 MSOT,annual,2025,Profit after Taxation,131279.0
 MSOT,annual,2024,Profit after Taxation,-470030.0
 MSOT,annual,2023,Profit after Taxation,2651189.0
-MSOT,annual,2022,Profit after Taxation,2276040.0
+MSOT,annual,2026,EPS,11.46
 MSOT,annual,2025,EPS,1.2
 MSOT,annual,2024,EPS,-7.95
 MSOT,annual,2023,EPS,38.54
-MSOT,annual,2022,EPS,33.24
 MSOT,quarterly,Q3 2026,Sales,11913556.0
 MSOT,quarterly,Q2 2026,Sales,11735199.0
 MSOT,quarterly,Q1 2026,Sales,12845727.0
@@ -13131,22 +13131,22 @@ MSOT,quarterly,Q3 2026,EPS,2.78
 MSOT,quarterly,Q2 2026,EPS,2.88
 MSOT,quarterly,Q1 2026,EPS,2.89
 MSOT,quarterly,Q3 2025,EPS,4.86
+MSOT,annual,2026,Gross Profit Margin (%),16.59
 MSOT,annual,2025,Gross Profit Margin (%),15.24
 MSOT,annual,2024,Gross Profit Margin (%),16.23
 MSOT,annual,2023,Gross Profit Margin (%),13.46
-MSOT,annual,2022,Gross Profit Margin (%),12.08
+MSOT,annual,2026,Net Profit Margin (%),1.62
 MSOT,annual,2025,Net Profit Margin (%),0.22
 MSOT,annual,2024,Net Profit Margin (%),-0.8
 MSOT,annual,2023,Net Profit Margin (%),4.41
-MSOT,annual,2022,Net Profit Margin (%),4.2
+MSOT,annual,2026,EPS Growth (%),855.0
 MSOT,annual,2025,EPS Growth (%),115.09
 MSOT,annual,2024,EPS Growth (%),-120.63
 MSOT,annual,2023,EPS Growth (%),15.94
-MSOT,annual,2022,EPS Growth (%),266.89
+MSOT,annual,2026,PEG,0.01
 MSOT,annual,2025,PEG,0.48
 MSOT,annual,2024,PEG,0.05
 MSOT,annual,2023,PEG,0.07
-MSOT,annual,2022,PEG,0.01
 MTIL,annual,2019,Sales,2116.0
 MTIL,annual,2018,Sales,18958.0
 MTIL,annual,2021,Profit after Taxation,-5490.0
@@ -18022,10 +18022,9 @@ SINDM,annual,2026,Profit after Taxation,161347.0
 SINDM,annual,2025,Profit after Taxation,180114.0
 SINDM,annual,2024,Profit after Taxation,201331.0
 SINDM,annual,2023,Profit after Taxation,130411.0
+SINDM,quarterly,Q1 2026,Profit after Taxation,36386.0
 SINDM,quarterly,Q3 2026,Profit after Taxation,36557.0
 SINDM,quarterly,Q2 2026,Profit after Taxation,39183.0
-SINDM,quarterly,Q1 2026,Profit after Taxation,36386.0
-SINDM,quarterly,Q3 2025,Profit after Taxation,36706.0
 SINDM,annual,2026,EPS Growth (%),-10.25
 SINDM,annual,2025,EPS Growth (%),-10.51
 SINDM,annual,2024,EPS Growth (%),54.14
@@ -18636,15 +18635,14 @@ SPEL,annual,2024,PEG,0.13
 SPEL,annual,2023,PEG,-0.49
 SPL,annual,2024,Sales,14900.0
 SPL,annual,2023,Sales,823998.0
-SPL,annual,2022,Sales,1742727.0
+SPL,annual,2026,Profit after Taxation,147459.0
 SPL,annual,2025,Profit after Taxation,-222519.0
 SPL,annual,2024,Profit after Taxation,-169350.0
 SPL,annual,2023,Profit after Taxation,-732555.0
-SPL,annual,2022,Profit after Taxation,-341211.0
+SPL,annual,2026,EPS,2.68
 SPL,annual,2025,EPS,-4.04
 SPL,annual,2024,EPS,-3.07
 SPL,annual,2023,EPS,-14.39
-SPL,annual,2022,EPS,-6.19
 SPL,quarterly,Q3 2026,Profit after Taxation,-24221.0
 SPL,quarterly,Q2 2026,Profit after Taxation,297448.0
 SPL,quarterly,Q1 2026,Profit after Taxation,-49527.0
@@ -18655,18 +18653,16 @@ SPL,quarterly,Q1 2026,EPS,-0.9
 SPL,quarterly,Q3 2025,EPS,-0.96
 SPL,annual,2024,Gross Profit Margin (%),-1345.34
 SPL,annual,2023,Gross Profit Margin (%),-35.24
-SPL,annual,2022,Gross Profit Margin (%),-3.63
 SPL,annual,2024,Net Profit Margin (%),-1136.58
 SPL,annual,2023,Net Profit Margin (%),-88.9
-SPL,annual,2022,Net Profit Margin (%),-19.58
+SPL,annual,2026,EPS Growth (%),166.34
 SPL,annual,2025,EPS Growth (%),-31.6
 SPL,annual,2024,EPS Growth (%),78.67
 SPL,annual,2023,EPS Growth (%),-132.47
-SPL,annual,2022,EPS Growth (%),-1082.54
+SPL,annual,2026,PEG,0.15
 SPL,annual,2025,PEG,0.18
 SPL,annual,2024,PEG,-0.05
 SPL,annual,2023,PEG,0.01
-SPL,annual,2022,PEG,0.0
 SPLC,annual,2024,Total Income,186525.0
 SPLC,annual,2023,Total Income,88185.0
 SPLC,annual,2022,Total Income,23408.0
