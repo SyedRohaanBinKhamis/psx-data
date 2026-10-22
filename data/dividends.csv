@@ -1,4 +1,12 @@
 symbol,company,sector,announcement,announced_at,book_closure,cash_pct,bonus_pct,right_pct,cash_rs
+ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,7.5%(i) (D),"October 22, 2026 4:02 PM",06/11/2026 - 10/11/2026,7.5,0.0,0.0,0.0
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,35%(iii) (D),"October 22, 2026 3:52 PM",02/11/2026 - 04/11/2026,35.0,0.0,0.0,0.0
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,30%(iii) (D),"October 22, 2026 3:37 PM",06/11/2026 - 06/11/2026,30.0,0.0,0.0,0.0
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,20%(iii) (D),"October 22, 2026 3:28 PM",04/11/2026 - 06/11/2026,20.0,0.0,0.0,0.0
+MCB,MCB Bank Limited,COMMERCIAL BANKS,90%(iii) (D),"October 22, 2026 3:26 PM",03/11/2026 - 05/11/2026,90.0,0.0,0.0,0.0
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,970%(ii) (D),"October 22, 2026 3:19 PM",02/11/2026 - 04/11/2026,970.0,0.0,0.0,0.0
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,15%(iii) (D),"October 22, 2026 3:08 PM",05/11/2026 - 07/11/2026,15.0,0.0,0.0,0.0
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,80%(iii) (D),"October 22, 2026 2:50 PM",04/04/2026 - 05/11/2026,80.0,0.0,0.0,0.0
 RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,500%(iii) (D),"October 21, 2026 3:09 PM",03/11/2026 - 04/11/2026,500.0,0.0,0.0,0.0
 EFERT,Engro Fertilizers Limited,FERTILIZER,55%(iii) (D),"October 19, 2026 4:13 PM",02/11/2026 - 03/11/2026,55.0,0.0,0.0,0.0
 PINL,Premier Insurance Limited,INSURANCE,= 40% (R),"October 19, 2026 4:11 PM",2/10/2026 - 27/10/2026,0.0,0.0,40.0,0.0
@@ -197,8 +205,6 @@ DIIL,Diamond Industries Limited,MISCELLANEOUS,10%(i) (D),"April 29, 2026 3:20 PM
 PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,20%(iii) (D),"April 29, 2026 3:18 PM",14/05/2026 - 18/05/2026,20.0,0.0,0.0,0.0
 UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,12.50%(iii) (D),"April 29, 2026 3:06 PM",08/05/2026 - 12/05/2026,12.5,0.0,0.0,0.0
 FFC,Fauji Fertilizer Company Limited,FERTILIZER,85%(i) (D),"April 29, 2026 2:58 PM",12/05/2026 - 14/05/2026,85.0,0.0,0.0,0.0
-ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,50%(F) (D),"September 29, 2026 2:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
-UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,350%(ii) (D),"August 27, 2026 4:00 PM",08/09/2026 - 0/09//2026,350.0,0.0,0.0,0.0
 STYLERS,Stylers International Limited,APPAREL,5%(ii) (D),"April 29, 2026 2:56 PM",07/05/2026 - 08/05/2026,5.0,0.0,0.0,0.0
 DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,30%(ii) (D),"April 29, 2026 2:36 PM",08/05/2026 - 08/05/2026,30.0,0.0,0.0,0.0
 PAKT,Pakistan Tobacco Company Limited,TOBACCO,350%(ii) (D),"April 29, 2026 9:40 AM",11/05/2026 - 13/05/2026,350.0,0.0,0.0,0.0
@@ -291,6 +297,8 @@ ATRL,Attock Refinery Limited,REFINERY,25%(i) (D),"February 24, 2026 2:37 PM",09/
 POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,275%(i) (D),"February 24, 2026 2:17 PM",09/03/2025 - 11/03/2025,275.0,0.0,0.0,0.0
 APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,200%(i) (D),"February 24, 2026 1:06 PM",03/03/2025 - 05/03/2025,200.0,0.0,0.0,0.0
 PNSC,Pakistan National Shipping Corporation,TRANSPORT,50%(ii) (D),"February 23, 2026 2:27 PM",09/03/2026 - 11/03/2026,50.0,0.0,0.0,0.0
+ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,50%(F) (D),"September 29, 2026 2:50 PM",22/10/2026 - 28/10/2026,50.0,0.0,0.0,0.0
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,350%(ii) (D),"August 27, 2026 4:00 PM",08/09/2026 - 0/09//2026,350.0,0.0,0.0,0.0
 OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,42.50%(ii) (D),"February 23, 2026 1:25 PM",07/03/2026 - 09/03/2026,42.5,0.0,0.0,0.0
 MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,120%(F) (D),"February 23, 2026 1:19 PM",03/03/2026 - 04/03/2026,120.0,0.0,0.0,0.0
 JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,55%(F) (D),"February 23, 2026 1:18 PM",26/02/2026 - 03/03/2026,55.0,0.0,0.0,0.0
